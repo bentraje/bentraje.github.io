@@ -1,9 +1,0 @@
-#############
-  Programming
-#############
-
-.. toctree::
-   :maxdepth: 2
-
-   vex.rst
-   python.md
