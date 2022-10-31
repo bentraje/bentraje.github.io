@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PyMEL &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/sphinx_highlight.js"></script>
+        <script src="../../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Open Maya" href="openmaya.html" />
+    <link rel="prev" title="CMDS" href="cmds.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../cinema4d/index.html">Cinema4D</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Maya</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../fx/index.html">FX</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Programming</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="introduction.html">Introduction</a></li>
+<li class="toctree-l3"><a class="reference internal" href="mel.html">MEL</a></li>
+<li class="toctree-l3"><a class="reference internal" href="cmds.html">CMDS</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">PyMEL</a></li>
+<li class="toctree-l3"><a class="reference internal" href="openmaya.html">Open Maya</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ui/index.html">UI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../houdini/index.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../blender/index.html">Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Maya</a> &raquo;</li>
+          <li><a href="index.html">Programming</a> &raquo;</li>
+      <li>PyMEL</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../_sources/maya/programming/pymel.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="pymel">
+<h1>PyMEL<a class="headerlink" href="#pymel" title="Permalink to this heading"></a></h1>
+<section id="general">
+<h2>General<a class="headerlink" href="#general" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Pymel wraps around the mel, python.cmds. and maya.openmaya.</p></li>
+<li><p><a class="reference external" href="https://help.autodesk.com/cloudhelp/2022/ENU/Maya-Tech-Docs/PyMel/whats_new.html">Official Documentation</a></p></li>
+<li><p>Python has its default <code class="docutils literal notranslate"><span class="pre">os.path</span></code> module. PyMEL also has its own <a class="reference external" href="http://www.jason-parks.com/artoftech/?p=289">implementation</a>. They are not mutually exclusive. You can use both in one script.</p></li>
+<li><p>nt is node type. dt is data type</p></li>
+<li><dl class="simple">
+<dt>PENDING: Assign materials in PyMel (<a class="reference external" href="https://discourse.techart.online/t/assigning-a-material-using-pymel/1240/9">https://discourse.techart.online/t/assigning-a-material-using-pymel/1240/9</a>)</dt><dd><ul>
+<li><p><a class="reference external" href="https://gist.github.com/taikomatsu/f1021a0d01a22309e67f9ef928040e8c">https://gist.github.com/taikomatsu/f1021a0d01a22309e67f9ef928040e8c</a></p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Test</p></li>
+</ul>
+</section>
+<section id="to-do">
+<h2>TO DO<a class="headerlink" href="#to-do" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>script to determine in maya if there is a difference between the skinculster one and off</p></li>
+</ul>
+<div class="literal-block-wrapper docutils container" id="id3">
+<div class="code-block-caption"><span class="caption-text">General syntax</span><a class="headerlink" href="#id3" title="Permalink to this code"></a></div>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="linenos"> 1</span><span class="c1"># Get object based on name</span>
+<span class="linenos"> 2</span><span class="n">obj</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">PyNode</span><span class="p">(</span><span class="s1">&#39;pCube1&#39;</span><span class="p">)</span>
+<span class="linenos"> 3</span><span class="n">obj</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">nt</span><span class="o">.</span><span class="n">Joint</span><span class="p">(</span><span class="s1">&#39;joint1&#39;</span><span class="p">)</span>
+<span class="linenos"> 4</span><span class="n">objects</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">ls</span><span class="p">([</span><span class="s1">&#39;Object_A&#39;</span><span class="p">,</span> <span class="s1">&#39;Object_B&#39;</span><span class="p">])</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span><span class="c1"># Get objects selected</span>
+<span class="linenos"> 7</span><span class="n">obj</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">selected</span><span class="p">()</span>
+<span class="linenos"> 8</span>
+<span class="linenos"> 9</span><span class="c1"># Select all based on node type</span>
+<span class="linenos">10</span><span class="n">obj_sel</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">ls</span><span class="p">(</span><span class="nb">type</span><span class="o">=</span><span class="s2">&quot;displayLayer&quot;</span><span class="p">)</span>
+<span class="linenos">11</span>
+<span class="linenos">12</span><span class="c1"># Select all based on wildcard search</span>
+<span class="linenos">13</span><span class="n">obj_sel</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">ls</span><span class="p">(</span><span class="s2">&quot;*_con&quot;</span><span class="p">)</span> <span class="c1"># wild card search</span>
+<span class="linenos">14</span><span class="n">obj_sel</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">ls</span><span class="p">(</span><span class="s2">&quot;*Sphere*&quot;</span><span class="p">,</span> <span class="nb">type</span> <span class="o">=</span> <span class="s2">&quot;transform&quot;</span><span class="p">)</span> <span class="c1"># wild card search</span>
+<span class="linenos">15</span>
+<span class="linenos">16</span><span class="c1"># Get node based on nodetype</span>
+<span class="linenos">17</span><span class="c1"># connections method only work on the shape node</span>
+<span class="linenos">18</span><span class="k">for</span> <span class="n">node</span> <span class="ow">in</span> <span class="n">obj</span><span class="o">.</span><span class="n">getShape</span><span class="p">()</span><span class="o">.</span><span class="n">connections</span><span class="p">():</span>
+<span class="linenos">19</span>    <span class="k">if</span> <span class="n">node</span><span class="o">.</span><span class="n">nodeType</span><span class="p">()</span> <span class="o">==</span> <span class="s1">&#39;skinCluster&#39;</span><span class="p">:</span>
+<span class="linenos">20</span>    <span class="nb">print</span> <span class="p">(</span><span class="n">node</span><span class="o">.</span><span class="n">nodeType</span><span class="p">())</span>
+<span class="linenos">21</span>    <span class="n">sc_node</span> <span class="o">=</span> <span class="n">node</span>
+<span class="linenos">22</span>
+<span class="linenos">23</span><span class="c1"># Alternative on getting the shape and actually any other connection depending on the index</span>
+<span class="linenos">24</span><span class="n">pm</span><span class="o">.</span><span class="n">selected</span><span class="p">()[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">listHistory</span><span class="p">()[</span><span class="mi">0</span><span class="p">]</span>
+<span class="linenos">25</span>
+<span class="linenos">26</span><span class="c1"># Alternative on getting the skinCluster node</span>
+<span class="linenos">27</span><span class="n">pm</span><span class="o">.</span><span class="n">PyNode</span><span class="p">(</span><span class="s1">&#39;pCube1&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">listHistory</span><span class="p">(</span><span class="nb">type</span><span class="o">=</span><span class="s2">&quot;skinCluster&quot;</span><span class="p">)</span>
+<span class="linenos">28</span>
+<span class="linenos">29</span><span class="c1"># Determine if the verts are on boundary</span>
+<span class="linenos">30</span><span class="k">for</span> <span class="n">vert</span> <span class="ow">in</span> <span class="n">shapeNode</span><span class="o">.</span><span class="n">verts</span><span class="p">:</span>
+<span class="linenos">31</span>    <span class="k">if</span> <span class="n">vert</span><span class="o">.</span><span class="n">isOnBoundary</span><span class="p">():</span>
+<span class="linenos">32</span>    <span class="n">doSomething</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</section>
+<section id="links">
+<h2>Links<a class="headerlink" href="#links" title="Permalink to this heading"></a></h2>
+<p>Most of the links here are old presentation. Fortunately, there’s not much changes in Maya API and as such most of them are still applicable. There might be some syntax difference since Maya switched to Python 3 on 2022 release.</p>
+<ul class="simple">
+<li><p><a href="#id1"><span class="problematic" id="id2">`</span></a>Rigging Dojo Live Jason Parks Power Python for Maya &lt;<a class="reference external" href="https://www.youtube.com/watch?v=vTMomfVYmH4&amp;ab_channel=RiggingDojo">https://www.youtube.com/watch?v=vTMomfVYmH4&amp;ab_channel=RiggingDojo</a>&gt;`__(30 Jan 2013)</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="cmds.html" class="btn btn-neutral float-left" title="CMDS" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="openmaya.html" class="btn btn-neutral float-right" title="Open Maya" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

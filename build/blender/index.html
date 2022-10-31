@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blender &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script src="../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Python" href="python.html" />
+    <link rel="prev" title="Solaris" href="../houdini/solaris.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../cinema4d/index.html">Cinema4D</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../maya/index.html">Maya</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../houdini/index.html">Houdini</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Blender</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="python.html">Python</a></li>
+<li class="toctree-l2"><a class="reference internal" href="rigging.html">Rigging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="plugins.html">Plug-ins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="plugins.html#grasswald">Grasswald</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Blender</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/blender/index.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="blender">
+<span id="bpy-ops-render"></span><span id="bpy-types-rendersettings"></span><span id="bpy-types-render"></span><span id="render-index"></span><h1>Blender<a class="headerlink" href="#blender" title="Permalink to this heading"></a></h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="python.html">Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="rigging.html">Rigging</a></li>
+<li class="toctree-l1"><a class="reference internal" href="plugins.html">Plug-ins</a></li>
+<li class="toctree-l1"><a class="reference internal" href="plugins.html#grasswald">Grasswald</a></li>
+</ul>
+</div>
+<details class="summary-armature-moves-when-applying-transform">
+<summary>**Armature Moves When Applying Transform**</summary><p>Something small enough to escape casual notice.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This function is not suitable for sending spam e-mails.</p>
+</div>
+<p>Something small enough to escape casual notice.</p>
+</details><div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Armature Moves When Applying Transform</p>
+</div>
+<ul class="simple">
+<li><p>Ctrl+Alt+Q Quad View</p></li>
+<li><p>Q = Quick favorites</p></li>
+<li><p>press N to view the side menus</p></li>
+<li><p>if instance collection is turned off. it will cause a problem in a linked proxy where the constraints are not carried</p></li>
+<li><p>Blender is Z-up.</p></li>
+<li><p>Navigation: MMB. Shift + MMB</p></li>
+<li><p>Global and Local Orientation? Its in 3D menu below representing an XYZ axis</p></li>
+<li><p>Uncheck User Preferences&gt;File&gt;Load UI</p></li>
+<li><p>Press Shift to move things precisely; press Ctrl to snap; or enter numerical values and then use the X, Y, and Z keys to constrain the movements to their respective axes.</p></li>
+<li><p>In Edit or Pose Mode, select every bone. With all the layers enabled (all the bones visible), press Alt+W to display the Bone Settings options. Alternatively, you can find those options in</p></li>
+<li><p>Smooth Vertex</p></li>
+<li><p>Solidify</p></li>
+<li><p>Working with LoopTools</p></li>
+<li><p>Pin: If you click the Pin icon, the current image is pinned and always shown independently of other objects you select. This tool can pin only images,however, not UVs.</p></li>
+<li><p>blender + K cut</p></li>
+<li><p>Ctrl + Tab 2.8</p></li>
+<li><p>IN 2.8, no more N background image. Reference image is now a new object</p></li>
+<li><p>Alt+Z/Shift Z for wireframe shading</p></li>
+<li><p>F3 super search bar command</p></li>
+<li><p>Double +G slide of vertices</p></li>
+<li><p>1,2,3 to switch between vertices, edges and faces</p></li>
+<li><p>pepakura paper model</p></li>
+<li><p>export paper model from blender</p></li>
+<li><p>Press Spacebar for more contextual menu.</p></li>
+<li><p>Like the transparent shader, only pure white will make it transparent. The glass shader tends to cause noise due to caustics. Since the Cycles path tracing integrator is not very good at rendering caustics, it helps to combine this with a transparent shader for shadows</p></li>
+<li><p>Blender Mask Tools 1.3. Sounds like Substance Painter</p></li>
+<li><p>Bender is open gl for substance painter</p></li>
+<li><p>Instead of height map. Use Displacement</p></li>
+<li><p>To enter UV mode. You need to be in component mode. And the commands are not only in the UV editor but also in the regular viewport</p></li>
+<li><p>transfer UV maps in blender
+- Select the “target” object.
+- Select the “source” object (this needs to be the active object)
+- Ctrl L , “Transfer UV maps”</p></li>
+</ul>
+<section id="geometry-nodes">
+<h2>Geometry Nodes<a class="headerlink" href="#geometry-nodes" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>object info is the object merge in blender</p></li>
+<li><p>dotted line performing a loop</p></li>
+</ul>
+</section>
+<section id="selection">
+<h2>Selection<a class="headerlink" href="#selection" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Select one of the mesh’s vertices, edges, or faces, and press Ctrl+L. All the elements. Like ctrl+ F</p></li>
+<li><p>Selecting loops: Place your cursor on top of an edge, press Alt, and right-click to select the whole loop.</p></li>
+<li><p>Selecting rings: Place your cursor on top of an edge, press Ctrl+Alt, and right-click to select the whole ring.</p></li>
+<li><p>Hold down Shift combined with either of these shortcuts to add to the selection.</p></li>
+<li><p>This technique works with vertices, edges, and faces, but in the case of faces, selecting a loop or a ring returns the same results.</p></li>
+<li><p>To quickly select a border, hold down Alt while you right-click the outer edges of the mesh twice.</p></li>
+<li><p>Limit Selection to Visible</p></li>
+<li><p>When you have the display mode in Wireframe (Z), you can select vertices, edges, or faces that are in front of the model, as well as those that are behind it.</p></li>
+<li><p>Select Similar</p></li>
+<li><p>After making a selection, pressing Shift+G shows different options depending on the type of element that you just selected.</p></li>
+<li><p>Select Boundary Loop and Loop Inner-Region</p></li>
+<li><p>You can find options for selecting the boundary loop and the loop inner region in the Select menu of the 3D View header and in the Edges menu (Ctrl+E).</p></li>
+<li><p>Parenting in Blender in Hieararchy? You can’t do it by drag and drop. You have to select them (last the parent) and hit Ctrl+P</p></li>
+<li><p>Grow/Shrink Selection Ctrl+Numpad + –</p></li>
+<li><p>Select Edge Ring Loops Ctrl +Alt LMB</p></li>
+<li><p>Alt + LMB = Loop select</p></li>
+</ul>
+</section>
+<section id="modelling">
+<h2>Modelling<a class="headerlink" href="#modelling" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Affect pivot only:</p></li>
+<li><p>Changing pivot: Modify the 3D Cursor ( Can also be manually inputed in the N view). Select the object. Then Object&gt;Transform&gt;Origin to 3D Cursor.</p></li>
+<li><p>Tweak a vertex? Select + Drag it)</p></li>
+<li><p>Enable AutoMerge (Disabled by default). Editing (Mesh -&gt; AutoMerge Editing, there’s also a button for it in 3D view header),</p></li>
+<li><p>Enable “Release confirms” in User Preferences &gt; Editing, and it becomes exactly press-drag-release.</p></li>
+<li><p>How to rotate per axis rather than on screen space (default)? Press X, Y,Z pa. Ugh) Or use manipulator instead. Need to click them by default. Ugh.</p></li>
+<li><p>Delete all the vertices of the object but note that the object is still present in the outliner. Then ctrl RMB to create a point</p></li>
+<li><p>In the mirror modifier. You have to click several option in the mirror modifier.</p></li>
+<li><p>Grid Fill is like quad caps. F6 to adjust the spans</p></li>
+<li><p>The rip tool is nice.Gettubg a new point and leaving the old one.</p></li>
+<li><p>You might have accidentally pressed ⇧ ShiftT at some point, which is used for translating the texture space. As a side effect it enables texture space display as in the screenshot above.</p></li>
+<li><p>If you disable texture space display, then they should go away.</p></li>
+<li><p>Just changed the mode from Object Mode (etc) to Sculpt Mode and you will have different sidebar interface.</p></li>
+<li><p>Generation of new topology can only be done through inflate brush</p></li>
+<li><p>Masking? Press M how about invert? Its in the toolbar below along with View/Sculpt/Brush/Hide/Mask</p></li>
+<li><p>The further you zoom in the higher the generation of dynamic topology</p></li>
+<li><p>When you apply the Mirror modifier, some objects (such as the details of the arms, gloves, or boots) need to be separated so that each side of the object is a separate object. In Edit Mode, select the faces on one of the sides and press P to separate the current selection into a different object.</p></li>
+<li><p>Press Ctrl+B and drag your mouse to increase or decrease the bevel size.</p></li>
+<li><p>(You can launch the Bevel tool in vertices-only mode directly by pressing Ctrl+Shift+B.)</p></li>
+<li><p>Blender’s Bevel tool is similar to the Chamfer tool in 3ds Max.</p></li>
+<li><p>may be confusing, but Inset in Blender is similar to Bevel in 3ds Max, while Bevel in Blender is similar to Chamfer in 3ds Max.</p></li>
+<li><p>Join and Separate (explained later) are similar to the Attach and Detach tools in 3ds Max.</p></li>
+<li><p>Remove Doubles lets you automatically merge all the vertices that are very close to one another inside a range you can define.</p></li>
+<li><p>A quicker way to slide, whether you’re working with vertices, edges, or faces, is to press G twice. The same options are available as when you slide the Loop Cut and Slide tool, such as pressing E and F to adapt the shape to the adjacent edge loops.</p></li>
+<li><p>LoopTools is an add-on that’s built into Blender but not active by default. You can go to User Preferences and activate it within the Add-Ons tab. When it’s active, LoopTools is accessible from the Tools Region in 3D View and from the top of the Specials (W) menu in Edit Mode.</p></li>
+<li><p>Select Face Loops (Just double click)</p></li>
+<li><p>Control R in the loop cut</p></li>
+<li><p>bisect equivalent to clip brushes in Zbrush</p></li>
+<li><p>Switch Direction of the Curve
+- select all ( A )
+- right click &gt; Switch Direction. (or right click &gt; D )</p></li>
+<li><p>Convert Edge Loop to Curve
+- Select the edge loop and press Shift+D and Esc to put it back
+- Press P, seperate by selection
+- Select the new mesh and in object mode, press Alt+C and choose Curve from Mesh/Text</p></li>
+</ul>
+</section>
+<section id="sculpting">
+<h2>Sculpting<a class="headerlink" href="#sculpting" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Hold F and LMB to adjust the file size.</p></li>
+<li><p>Shift F + LBM for the intensity.</p></li>
+<li><p>Control R to remesh.</p></li>
+<li><p>Shift R to reveal the remesh grid</p></li>
+<li><p>While masking, you can open the pie menu editor like A key to invert or sharpen the mask.</p></li>
+<li><p>Draw face sets to have those colored polygons and hit H key to hide and unhide. To continue drawing face sets on existing ones, hit control,.</p></li>
+<li><p>Ctrl W to expand face sets . Ctrl alt W to reduce the face sets.</p></li>
+</ul>
+</section>
+<section id="retopo">
+<h2>Retopo<a class="headerlink" href="#retopo" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Click Edge. Ctrl + RMB. Extrudes the edge.</p></li>
+<li><p>Double Tap G to slide around.</p></li>
+<li><p>can immediately drag points. normally without the need for f2. same with maya</p></li>
+<li><p>Grid fill.</p></li>
+<li><p>create separate points that is not connected. (i.e. Ctrl + RMB</p></li>
+</ul>
+</section>
+<section id="uv">
+<h2>UV<a class="headerlink" href="#uv" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Ctrl+ E Mark seam</p></li>
+<li><p>warp uvs - animated uv</p></li>
+<li><p>Select Island. (Select L)</p></li>
+<li><p>You can create your own UV map using the Mark Seams tool (Ctrl + E) and the Unwrap tool (U key), you can make use of the automatic unwrapping functions such as Lightmap Pack or Smart UV Project.</p></li>
+<li><p>I recommend unwrapping the UVs for the lightmap in Blender since the automatic UV mapper inside UE4 is too slow in some cases or doesn’t work at all.</p></li>
+<li><p>To view the UV maps, go to the object part, then there are UV maps.</p></li>
+<li><p>Option&gt;Live Unwrap</p></li>
+<li><p>3D Painting. Switch from Edit Mode to Paint Mode.</p></li>
+<li><p>Baking in blender. Create an image texture node. Select it. And Go the Scene&gt;Bake</p></li>
+<li><p>Blender has projection painting. Quick Edit Apply</p></li>
+<li><p>The difference is that whereas one face in a 3D mesh typically is connected to another, faces in the UV space can be freed from their neighboring faces, so you can apply a different texture to a different part of the model, even though the parts may be adjacent in the 3D model.</p></li>
+<li><p>Lightmap Pack: This option is not recommended unless you want to create UVs in an automatic way, which can be useful for complex objects that don’t need to be very accurate</p></li>
+</ul>
+</section>
+<section id="animation-workflow">
+<h2>Animation Workflow<a class="headerlink" href="#animation-workflow" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>In the graph editor. Hit T for interpolation. Step or not. It is V. or under the points.</p></li>
+<li><p>In the timeline window, hit M to add marker and contrl+M to rename the marker.</p></li>
+</ul>
+</section>
+<section id="shading">
+<h2>Shading<a class="headerlink" href="#shading" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>CCO Textures</p></li>
+<li><p>Shift + K. fill for vertex painting</p></li>
+<li><p>Set vertex colors</p></li>
+<li><p>triplanar map = no node. just in image texture. blend textures.</p></li>
+<li><p>Ctrl + T = Node Wrangle</p></li>
+<li><p>Shift + W Node Wrangle options</p></li>
+<li><p>Alt + RMB = Alt + LMB (in C4D) Cut nodes</p></li>
+<li><p>lazy connect nodes</p></li>
+<li><p>Therefore, Blender uses a few rules to determine if something is a UDIM texture or a sequence. These rules are:</p></li>
+<li><p>There must be a file with number 1001</p></li>
+<li><p>There must not be a file with a number below 1001</p></li>
+<li><p>There must not be a file with a number above 1999</p></li>
+<li><p>Shift + S = swap nodes</p></li>
+</ul>
+</section>
+<section id="shortcut">
+<h2>Shortcut<a class="headerlink" href="#shortcut" title="Permalink to this heading"></a></h2>
+<p>A: Select or Deselect All
+alt G to reset location transactorm
+E: Extrude
+F: Bridge (Select edges first)
+F: Drag to adjust the brush size.
+I: Inset
+M: Assign layers.
+O: Proportional editing. How to increase influence?
+P: Split Mesh
+X: Delete
+T: Toggle the Tools Panel
+U: Unwrapping menu
+W: Specials Menu. Changes details depending on what object is selected. (For armature, includes the flip names for the joint mirroring)
+N: Toggle the Navigation Panel (with some transform details). Clipping plane.
+Double G: Edge slide.
+Shift+A: Create objects. (if on a node editor, creates nodes)
+Shift+C: Reset 3D Cursor
+Shift+D: Duplicate
+Shift+E: Mean crease
+Shift+Z: Turn viewer into IPR (in 2.8, skeleto view
+Shift+V: To drag a render region
+Shift+R/F3: Repeat last command
+Shift+G = Select Similar
+Shift+F: Fine tune camera view (i.e. moves like a FPS camera)
+Shift+F drag to increase/decrease intensity
+Shift+S: Snapping and for moving the cursor
+Shift+H or numpad /: Hide / Solo
+Shift+Tab: Enable Snapping
+Ctrl+Up Arrow: Maximize layout
+Ctrl+A: Open the attribute editor
+Ctrl+L: Object instancing
+Ctrl+P: Parent
+Ctrl+E: Mark Seam
+Ctrl+H: Hook options like Maya Clusters. Available only when a curve is selected
+Ctrl+J: Combine Meshes
+Ctrl+R: Edge Loop cut
+Ctrl+T to triangulate
+Ctrl+Tab: Move from Object to Edit Mode
+Ctrl + “+/-” – Grow/Shrink Selection
+Alt+H or numpad / : Hide / Solo
+Alt+A: Play in the timeline
+Alt+R: Reset Transformation
+Alt+G: Reset to Grid
+Alt+M : Merging (Select two vertices)
+Alt+P: Clear Parent
+Alt + Z: For Xray
+Shift+Ctrl+C: Opens the constraints
+Period(.): To frame the curve in the graph editor
+Tab: Move from Edit Mode
+Numberpad /: Viewport Focus
+Numberpad .: Camera pivot like S in C4D or F in Maya
+Sculpting
+Ctrl+D: Dynotopo
+F and Shift F: Changing Size and Intensity
+In Box Mask with Ctrl+Shift, you go into Lasso.</p>
+</section>
+<section id="compositing">
+<h2>Compositing<a class="headerlink" href="#compositing" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>lens distortion node</p></li>
+<li><p>V and Alt V in the compositing to be able to zoom back and forth the image.</p></li>
+</ul>
+</section>
+<section id="fx-workflow">
+<h2>FX Workflow<a class="headerlink" href="#fx-workflow" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Particle should be in the bottom stack</p></li>
+<li><p>Grease Pencil Basics</p></li>
+<li><p>To use the Grease Pencil (which is mainly used for annotations in 3D View), press and hold down D while you left-click; then drag to draw. Press and hold down D while you right-click; then drag to erase the strokes. In the 3D View</p></li>
+<li><p>Fluids. Check: Initial velocity of the smoke to carry over. To art direct.</p></li>
+<li><p>For a rigid body physics simulation extreme unapplied scale transforms can cause very noticeable strange results, such as unnaturally fast or slow rotations depending on if the object is scaled up or down:</p></li>
+<li><p>The resolution of the strands is controlled by the step values in particle settings. Each hair system uses the material identified in the particle settings.</p></li>
+<li><p>If you activate children, the parents are no longer rendered. This can be enabled in the Render panel Parent Particles. By default, parent particles are not rendered because the shape of the children can be quite different from that of their parents.</p></li>
+</ul>
+</section>
+<section id="grease-pencil">
+<h2>Grease Pencil<a class="headerlink" href="#grease-pencil" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>uto lock layer //so you will only edit selected layer</p></li>
+<li><p>Selection Mask //edit only the selected point</p></li>
+<li><p>Paint Bucket – press “ctrl” for lasso //only fills area within the viewport</p></li>
+<li><p>Clamp Layer //works like photoshop clipping mask</p></li>
+<li><p>Multiframe //edit several selected frame at once “located next to selection mask”</p></li>
+</ul>
+</section>
+<section id="editing">
+<h2>Editing<a class="headerlink" href="#editing" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Alt+A Video Editor Playback</p></li>
+<li><p>K Cut/Strip Clip</p></li>
+</ul>
+</section>
+<section id="rendering">
+<h2>Rendering<a class="headerlink" href="#rendering" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Max Ray Bounces affect the transparency depth</p></li>
+<li><p>F12 always renders the active camera. If you want to move active camera to current viewport position, press Ctrl+Alt+Numpad 0.</p></li>
+<li><p>uncheck refractive caustics</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../houdini/solaris.html" class="btn btn-neutral float-left" title="Solaris" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="python.html" class="btn btn-neutral float-right" title="Python" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

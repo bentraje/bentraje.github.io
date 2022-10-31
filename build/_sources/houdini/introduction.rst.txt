@@ -1,0 +1,39 @@
+
+************
+Introduction
+************
+
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+
+
+General
+**********
+
+- Use enumerate instead of an attribute wrangle. with obj id ptnum
+- if you connect two mantra node. it will render the first node and then the other.  
+- Color pick: middle click on the color box and drag 
+- Crash path: C:/Users/BT/AppData/Local/Temp/houdini_temp/
+- houdini is Z+ facing direction
+- highfield layer is like compositing for mixing heighfield
+
+
+USD
+**********
+- Primitives and attributes are the two primary namespaces and objects in USD
+- Primitives are the primary container object in USD
+
+Shortcuts
+**********
+
+- ``Ctrl+Shift+Alt``. Creates a reference node
+- ``Shift + F1``. to remove the viewport guide
+- ``Alt + Shift + C``. Gives you a copy of the window 
+- ``Space + G``. Center the selected geometry
+- ``Space + Z`` to set thumble pivot to the geometry under cursor.
+- ``Shift + G or Shift + S``. Grow and shrink a selection. 
+- ``Shift + P``. Select Pattern. If Valid Pattern appears on the upper left side. Hit shift + left or right or  up or down arrow.
+- ``Alt + E``.  Enlarges the vex expression parameter tab 
+

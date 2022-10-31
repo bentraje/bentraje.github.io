@@ -1,0 +1,58 @@
+************
+Pyro
+************
+
+- In release 18 (2019 Nov), Houdini introduced a new pyro solver (i.e. sparse solver). Unless you are following a tutorial or working on an old project file, it is advisable to use the sparse solver compared to the legacy solver.
+- To check the differences, there is a separate shelf tools for pyro and sparse solvers.
+- To have consistent results from project to project, try to work on a meter scale (houdini default). This means even if you’re object is in real world centimeter scale, enlarge it to meter scale for simulation. You can just shrink it down during export.
+- To have a decent Pyro details, try to hit a range of 300-500 pixels for final delivery.
+- All except dissipation affect the velocity field as internal forces.
+- The disturbance will disrupt those mushroom shapes.
+- Houdini includes two different ways to add turbulent noise to fire: shredding and turbulence.
+- Shredding is high frequency. Sharpening is low frequency
+- combustion (fuel + temperature = expansion + fire + smoke + more temperature
+- “Pyroclastic” meaning rapidly expanding and roiling style chunky simulations, as one would see with an explosion
+- Aside from its “sparse” nature, the combustion model is simplified:- In old pyro, it’s combustion model takes cares of all the **fuel**, **burn**, **heat**, **temperature** fields. All in one, but possibly confuses people.
+- – The new sparse pyro cut the **fuel** and **burn** off its duty. Instead, the user cope these two fields by himself/herself.
+- By this way the new pyro solver is greatly simplified and even better: potentially sped up. Imagine the case of a simple camp fire where a emissive flame is all you need, you can simply generate a source with only one volume, and let it be the source of **flame** and **temperature**, that’s it! No **fuel**, no **density**, no **burn** is calculated, couldn’t be faster!
+- https://www.sidefx.com/docs/houdini/vex/attrib_suite
+-     flame is the new in pyro spars before you need temperature and fuel > burn > heat
+-     in sparse, you don’t need temperature. to combust/fburn. only need flame.
+-     in spase, set temperature to maximum and at scale 1
+-     FUEL + Temperature = Burn
+- Using “pull” instead of “add” for your velocity can calm things a little.
+- If you get more comfortable with Volume Wrangles, then you can do some post filling/blending, but it requires a bit more work to do it cleanly.
+- Do you have Velocity Blur enabled on your volume rasterize attributes sop? I've found that helpful for smoothing out high velocity sources
+- Source noise for fire is important for capturing the look of the base. To get the cellular look for the fire base, use Worley (cellular) F2-F1 for the Noise Type.
+- volume rasterize attributes Set Voxel Size to 0.05. This is the same value as in the Pyro Source node’s Voxel Size parameter.
+- For even more details, decrease Particle Separation and Voxel Size values to 0.025.
+- Turn on Shredding. This noise type acts on the flame field and adds more high-frquency turbulence without changing the fluid’s general motion. Set the value to 0.6.
+- Increase the substeps (Solver > Simulation > Global substeps)
+- The "volume rasterize" has a "velocity blur" option
+- Those two in combination (carefully balanced) usually solves it.
+- Density. It is recommended that contents of this field remain normalized (that is, sourced values should be between 0 and some convenient upper bound, such as 1)
+- Pyro flame values are increased through sourcing. The recommended merging operation for sourcing into this field on the Volume Source DOP is Maximum. This ensures that flame values are refreshed at the source, but avoids over-accumulation that the Add operation is prone to.
+- More precisely, a Flame Lifespan value of 2 means that it will take 2 seconds to completely use up an initial flame value of 1.
+- Yeah, timeblend for volumes only works with a velocity field AFAIK. So you have to turn on the "Use velocity for interpolation..." and have a vel field and then it works. Kinda - if your velocities aren't too high.
+- Try adding a disturbance field and setting the disturbance to be affected by velocity and checking the “disturbance is velocity field” check box.
+- On Shading, get the emission field first. dial down all the density and scatter.
+- emit density from flame. density will be emited based on the burn attribute. instead of sourcing them yourselfs.
+- axiom works on fog vdb
+- fie are usually faster than explosion. so the time scale is 2
+- troubleshoot your with vdb. with volume slice. To determine for the upper and lwoer range.
+- collision in axiom solver needs to be thick
+- volume velocity for adding or modifying velocity to volumes.
+- the velocity and density geo source . doesn't need to be the same. noice. mindblown
+- point velocity sop
+- enable the fluid source node. so it would be like doing a cloud noise haha
+- the voxel size to be half of the particle size. This looks like a POP simulation, that is then rasterized to volumes. You can add a curlnoise as a start-velocity, which is easy. Either via v@v=curlnoise(v@P); in VEX or same in VOPs.
+- gas axis force needs a gizmo. to operate.
+- use velocity visualiation for rendering instead?
+- sourcing for the color should be. blend.
+- velocity attribute in points are v. but the velocity attribute in volumes are vel. just some nomenclature stuff hehe
+- disturbance of 0.5 is a very low number. you probably need 25-50 to see a stark difference.
+- you might want to have a separate volume rasterize attributes for velocity and (density and temperature). because in velocity you want to cover as much space (i.e. larger particle size) but on the latter you want to have more details (i.e. smaller particle size)
+- exhaust type: fast moving but short lived, usually parent the container should do the job.
+- meteor type: fast moving but trail lives longer and slowly dissipate. usually it's the combination of exhaust type + cluster sim of trails dissipating. sometimes I just do procedural volumes for the fire part unless it's actually necessary to see advection for the flame as well, if that's the case usually do higher solver max-substeps and sourcing to compensate for fast moving geo.(from 17+ up the volume sourcing does do substep sourcing, so as long as your source interpolates nicely it should have no problem.)
+- flame thrower: need to see advection from almost a point source and also lingers and dissipate slowly if at all. the nozzle might not be fast moving, but the "source" liquid are fast moving. if the nozzle is swinging fast you have to also tackle the particle sim side of substepping as well. (also it's easier to spot the "source bar" swinging around if you didn't have some good angle to hide it. then you need to tweak your sourcing and could affect the look, imo it's the worst type of pyro sim to do nicely.)
+- And conclusion: if your source looks good enough, you do less work for the pyro sim itself. sometimes I do a 2 step sims to have a higher substeps but really tight container doing the first step sim as driver for sourcing and advection and then a final sim for upres and use the first sim as source/turbulence around the emitter.

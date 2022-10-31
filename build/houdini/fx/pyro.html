@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pyro &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/sphinx_highlight.js"></script>
+        <script src="../../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Dynamics" href="dynamics.html" />
+    <link rel="prev" title="Particles" href="particles.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../cinema4d/index.html">Cinema4D</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/index.html">Maya</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Houdini</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../introduction.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../grooming.html">Grooming</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../kinefx/index.html">KineFX</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../crowds/index.html">Crowds</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../chops.html">CHOPS</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">FX</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="particles.html">Particles</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Pyro</a></li>
+<li class="toctree-l3"><a class="reference internal" href="dynamics.html">Dynamics</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../programming/index.html">Programming</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../blender/index.html">Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Houdini</a> &raquo;</li>
+          <li><a href="index.html">FX</a> &raquo;</li>
+      <li>Pyro</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../_sources/houdini/fx/pyro.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="pyro">
+<h1>Pyro<a class="headerlink" href="#pyro" title="Permalink to this heading"></a></h1>
+<ul class="simple">
+<li><p>In release 18 (2019 Nov), Houdini introduced a new pyro solver (i.e. sparse solver). Unless you are following a tutorial or working on an old project file, it is advisable to use the sparse solver compared to the legacy solver.</p></li>
+<li><p>To check the differences, there is a separate shelf tools for pyro and sparse solvers.</p></li>
+<li><p>To have consistent results from project to project, try to work on a meter scale (houdini default). This means even if you’re object is in real world centimeter scale, enlarge it to meter scale for simulation. You can just shrink it down during export.</p></li>
+<li><p>To have a decent Pyro details, try to hit a range of 300-500 pixels for final delivery.</p></li>
+<li><p>All except dissipation affect the velocity field as internal forces.</p></li>
+<li><p>The disturbance will disrupt those mushroom shapes.</p></li>
+<li><p>Houdini includes two different ways to add turbulent noise to fire: shredding and turbulence.</p></li>
+<li><p>Shredding is high frequency. Sharpening is low frequency</p></li>
+<li><p>combustion (fuel + temperature = expansion + fire + smoke + more temperature</p></li>
+<li><p>“Pyroclastic” meaning rapidly expanding and roiling style chunky simulations, as one would see with an explosion</p></li>
+<li><p>Aside from its “sparse” nature, the combustion model is simplified:- In old pyro, it’s combustion model takes cares of all the <strong>fuel</strong>, <strong>burn</strong>, <strong>heat</strong>, <strong>temperature</strong> fields. All in one, but possibly confuses people.</p></li>
+<li><p>– The new sparse pyro cut the <strong>fuel</strong> and <strong>burn</strong> off its duty. Instead, the user cope these two fields by himself/herself.</p></li>
+<li><p>By this way the new pyro solver is greatly simplified and even better: potentially sped up. Imagine the case of a simple camp fire where a emissive flame is all you need, you can simply generate a source with only one volume, and let it be the source of <strong>flame</strong> and <strong>temperature</strong>, that’s it! No <strong>fuel</strong>, no <strong>density</strong>, no <strong>burn</strong> is calculated, couldn’t be faster!</p></li>
+<li><p><a class="reference external" href="https://www.sidefx.com/docs/houdini/vex/attrib_suite">https://www.sidefx.com/docs/houdini/vex/attrib_suite</a></p></li>
+<li><p>flame is the new in pyro spars before you need temperature and fuel &gt; burn &gt; heat</p></li>
+<li><p>in sparse, you don’t need temperature. to combust/fburn. only need flame.</p></li>
+<li><p>in spase, set temperature to maximum and at scale 1</p></li>
+<li><p>FUEL + Temperature = Burn</p></li>
+<li><p>Using “pull” instead of “add” for your velocity can calm things a little.</p></li>
+<li><p>If you get more comfortable with Volume Wrangles, then you can do some post filling/blending, but it requires a bit more work to do it cleanly.</p></li>
+<li><p>Do you have Velocity Blur enabled on your volume rasterize attributes sop? I’ve found that helpful for smoothing out high velocity sources</p></li>
+<li><p>Source noise for fire is important for capturing the look of the base. To get the cellular look for the fire base, use Worley (cellular) F2-F1 for the Noise Type.</p></li>
+<li><p>volume rasterize attributes Set Voxel Size to 0.05. This is the same value as in the Pyro Source node’s Voxel Size parameter.</p></li>
+<li><p>For even more details, decrease Particle Separation and Voxel Size values to 0.025.</p></li>
+<li><p>Turn on Shredding. This noise type acts on the flame field and adds more high-frquency turbulence without changing the fluid’s general motion. Set the value to 0.6.</p></li>
+<li><p>Increase the substeps (Solver &gt; Simulation &gt; Global substeps)</p></li>
+<li><p>The “volume rasterize” has a “velocity blur” option</p></li>
+<li><p>Those two in combination (carefully balanced) usually solves it.</p></li>
+<li><p>Density. It is recommended that contents of this field remain normalized (that is, sourced values should be between 0 and some convenient upper bound, such as 1)</p></li>
+<li><p>Pyro flame values are increased through sourcing. The recommended merging operation for sourcing into this field on the Volume Source DOP is Maximum. This ensures that flame values are refreshed at the source, but avoids over-accumulation that the Add operation is prone to.</p></li>
+<li><p>More precisely, a Flame Lifespan value of 2 means that it will take 2 seconds to completely use up an initial flame value of 1.</p></li>
+<li><p>Yeah, timeblend for volumes only works with a velocity field AFAIK. So you have to turn on the “Use velocity for interpolation…” and have a vel field and then it works. Kinda - if your velocities aren’t too high.</p></li>
+<li><p>Try adding a disturbance field and setting the disturbance to be affected by velocity and checking the “disturbance is velocity field” check box.</p></li>
+<li><p>On Shading, get the emission field first. dial down all the density and scatter.</p></li>
+<li><p>emit density from flame. density will be emited based on the burn attribute. instead of sourcing them yourselfs.</p></li>
+<li><p>axiom works on fog vdb</p></li>
+<li><p>fie are usually faster than explosion. so the time scale is 2</p></li>
+<li><p>troubleshoot your with vdb. with volume slice. To determine for the upper and lwoer range.</p></li>
+<li><p>collision in axiom solver needs to be thick</p></li>
+<li><p>volume velocity for adding or modifying velocity to volumes.</p></li>
+<li><p>the velocity and density geo source . doesn’t need to be the same. noice. mindblown</p></li>
+<li><p>point velocity sop</p></li>
+<li><p>enable the fluid source node. so it would be like doing a cloud noise haha</p></li>
+<li><p>the voxel size to be half of the particle size. This looks like a POP simulation, that is then rasterized to volumes. You can add a curlnoise as a start-velocity, which is easy. Either via v&#64;v=curlnoise(v&#64;P); in VEX or same in VOPs.</p></li>
+<li><p>gas axis force needs a gizmo. to operate.</p></li>
+<li><p>use velocity visualiation for rendering instead?</p></li>
+<li><p>sourcing for the color should be. blend.</p></li>
+<li><p>velocity attribute in points are v. but the velocity attribute in volumes are vel. just some nomenclature stuff hehe</p></li>
+<li><p>disturbance of 0.5 is a very low number. you probably need 25-50 to see a stark difference.</p></li>
+<li><p>you might want to have a separate volume rasterize attributes for velocity and (density and temperature). because in velocity you want to cover as much space (i.e. larger particle size) but on the latter you want to have more details (i.e. smaller particle size)</p></li>
+<li><p>exhaust type: fast moving but short lived, usually parent the container should do the job.</p></li>
+<li><p>meteor type: fast moving but trail lives longer and slowly dissipate. usually it’s the combination of exhaust type + cluster sim of trails dissipating. sometimes I just do procedural volumes for the fire part unless it’s actually necessary to see advection for the flame as well, if that’s the case usually do higher solver max-substeps and sourcing to compensate for fast moving geo.(from 17+ up the volume sourcing does do substep sourcing, so as long as your source interpolates nicely it should have no problem.)</p></li>
+<li><p>flame thrower: need to see advection from almost a point source and also lingers and dissipate slowly if at all. the nozzle might not be fast moving, but the “source” liquid are fast moving. if the nozzle is swinging fast you have to also tackle the particle sim side of substepping as well. (also it’s easier to spot the “source bar” swinging around if you didn’t have some good angle to hide it. then you need to tweak your sourcing and could affect the look, imo it’s the worst type of pyro sim to do nicely.)</p></li>
+<li><p>And conclusion: if your source looks good enough, you do less work for the pyro sim itself. sometimes I do a 2 step sims to have a higher substeps but really tight container doing the first step sim as driver for sourcing and advection and then a final sim for upres and use the first sim as source/turbulence around the emitter.</p></li>
+</ul>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="particles.html" class="btn btn-neutral float-left" title="Particles" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="dynamics.html" class="btn btn-neutral float-right" title="Dynamics" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

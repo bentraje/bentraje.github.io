@@ -1,0 +1,37 @@
+********
+  Python
+********
+
+
+..  code-block:: python
+    :caption: General syntax
+    :linenos:
+
+    geo.layoutChildren()
+
+    output.setDisplayFlag(True)
+    output.set RenderFlag(True)
+    box.setParms({'tx':-2, 'ty':0, 'tz':-1)
+    color_box.setColor(hou.Color((1,0,0)))
+    color_box.setParms({colorr':1, 'colorb':0})
+
+    not continue to recook.
+    box.setGenericFlag(hou.nodeFlag.Lock, True)
+
+
+    # Access Parameters
+
+    box = hou.node('/obj/geo1/box1')
+    box.parm('scale').eval()
+    box.parm('scale').set(10)
+    box.parm('sizex')
+    box.parmTuple('size').eval()
+
+    # Set Pivot 
+
+    def setpivot(): 
+      
+      pivotx = hou.node("./chunk/centroid").geometry().points()[0].attribValue('P')[0]
+      
+      hou.param('pivot_tx').set(pivotx)
+

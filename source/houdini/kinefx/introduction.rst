@@ -1,0 +1,70 @@
+************
+Introduction
+************
+
+- you can stack multiple on IK. Something new to me. 
+- Initially made for retargeting animation. Later, expanded to feature other rigging toolset.
+- Introduced in 18.5. 
+- quarternion = vector + angle
+- For me one of the most exciting things is the core ability to treat curves as joint chains.
+- Where kinefx is concerned, forget what you know about vops. Paralellism, magic of all-things-at-once, stop it. The default mode of rig vops is closer to maya rigging with the network editor, or hypershade if you’re old like me… remember hypershade?
+- Press + B to temporarily disable the XYZ
+- reparent joints vs add sop
+- rig doctor vs reorient joints with name
+- visualize rig node
+- rig doctor
+- Play with the weights tab on the capture proximity to boost the number of influences, smooth out the reuslts
+- If you want to refine the weights, use a capturelayerpaint.I
+- Captureproximity sop is what you want. Geo to the left, rig to the right, feed that and your animated skeleton to a bone deform
+- 1. features
+- SOPS based
+- dense data processing
+- state machine inspired
+- first of many updates
+- use delete joint instead of the blast node
+- Press S to marquee select joints
+- need to manually select show handle first.
+- Press P to show joint bone parameters
+- Rig Attribute VOP, by default, only accepts the skeleton input. If you plug a geometry, it will error out. 
+   - If you do need a geometry as an input (like when using the Collide Geometry) , disable to compute transform of the node. 
+- Adding skinning to an existing skin. 
+- https://www.sidefx.com/forum/topic/76420/
+- https://www.sidefx.com/forum/topic/76528/
+
+
+**Pending**
+
+- Difference between Joint Deform and Bone Deform?
+
+
+
+Subsequent Retargeting (Clean-Up)
+=================================
+
+For the most part, probably the most time you will spend is this one. 
+
+**Clean Up**
+
+https://www.sidefx.com/docs/houdini/character/kinefx/retargetcleanup.html
+
+**Animation retarget with a separate rest pose**
+
+- Rig Stash Nodoe
+- 
+
+
+Links
+=====
+
+Houdini has a relatively fast pace changelog on KineFX. A workflow can easily be deprecated on a point release (i.e. not even a full/half version release).
+That's why if you want to binge watch KineFX webinar, might be better if you watch the latest one then work your way back to the earliest (except maybe for the introduction one just to get a feel of it)
+
+- Houdini 18.5 Quickstart | KineFX Motion Retargeting - Fianna Wong (Oct 21, 2020)
+- Introducing KineFX Hive by Henry Dean (Nov 3, 2020)
+- KineFX for Games covering everything on motion retargeting beyond games (Nov 4, 2020)
+- Retargeting Animation Using KineFX | Bogdan Zykov on motion retargeting from intro to intermediate (Nov 3, 2020)
+- Houdini  KineFX 101: Motion Clips // Blending Motion Clip Animations by Parker Coleman (Feb 2, 2021)
+- KineFX Masterclass Houdini Illume - Jeff Wagner (Jun 24, 2021)
+- KineFX Secondary Motion Tools | Mihnea Stoica | Houdini 19 HIVE (Oct 30, 2021)
+- KineFX Retargeting | Mihnea Stoica | Games Workshop (Jul 31, 2022)
+- KineFX Tips and Tricks | Mihnea Stoica | SIGGRAPH HIVE 2022 (Aug 18, 2022)

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rigging &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script src="../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Python" href="python.html" />
+    <link rel="prev" title="Cinema4D" href="index.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Cinema4D</a><ul class="current">
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Rigging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="python.html">Python</a></li>
+<li class="toctree-l2"><a class="reference internal" href="fx/index.html">FX</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../maya/index.html">Maya</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../houdini/index.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../blender/index.html">Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="index.html">Cinema4D</a> &raquo;</li>
+      <li>Rigging</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/cinema4d/rigging.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="rigging">
+<h1>Rigging<a class="headerlink" href="#rigging" title="Permalink to this heading"></a></h1>
+<p><strong>General</strong></p>
+<ul class="simple">
+<li><p>Enlarge rig but still maintains 10cm. Enlarge it using animation mode!</p></li>
+<li><ol class="arabic simple">
+<li><p>In making the scissor lifter. You can use the formula effector and change the formula to mod(id;2). This will only affect a cloner in every second instance.</p></li>
+</ol>
+</li>
+<li><p>Dapat Z aim. Tapos create manually a handle.</p></li>
+<li><p>The whole IKSpline shebang is really annoying</p></li>
+<li><p>C4D prefers Z/B alignment. You can verify it when you rotate the cube arbitrarily and only teh Z/B alignment that is the one that stays axis. Rotation order seems to be erroenous.</p></li>
+<li><p>Character object: When you already weighted the object, and add extra limbs. You are fucked.</p></li>
+<li><p>All animated objects in the scene (all animated objects in CINEMA 4D have a priority of Animation, 0).</p></li>
+<li><p>Expression B (although this has the same priority as all animated objects, animated objects are still preferred over expressions with the same priority).</p></li>
+<li><p>Remember this rule of thumb: Leave both priorities at the same value (=faster calculation) as long as no problems with Generators, Expressions or Deformers arise – at which point you can assign a later priority to the morphed state.</p></li>
+<li><p>Note that the Base Priority can only be lower or equal to the regular priority. If you place the Base Priority higher, the regular priority will automatically be increased accordingly. The regular priority must then be increased again if you want an Expression or a Deformer to have an effect between Base Priority and the morphed state.</p></li>
+<li><p>IK Spline is set-up but the chest do not follow? Need to set-up a separate parenting. Unlike in Maya na automatic na. Not really mali lang tlaga.</p></li>
+<li><p>Well, after  &#64;Decarlo’s post I decided to open up the Object &gt; Options &gt; Modify panel, I didn’t change anything put upon closing the panel, the controllers shift!</p></li>
+<li><p>What options are checked in the modify panel of your Xref?  I still think that the Xref is resetting some of what you’ve edited. It would make sense if opening the “modify” panel is triggering the reset – just like closing and reopening does.</p></li>
+<li><p>apart from long loading times and the occasional greyed out attributes of the xref object since r18 i never had any issues.</p></li>
+<li><p>Tried it again and they shifted once again! at least I don’t have to wait overnight now – I think I’ll leave that panel alone!</p></li>
+<li><p>It sounds like you haven’t enabled modifications on your XRef.  In the attribute manager, go to Object &gt; Options… &gt; Modify.  Make sure that “PSR” and “Parameters” are both checked.  The silly thing is that if the XRef is set to not allow modifying parameters, it will still let you modify them!  You can render to Picture Viewer and everything. But when you reopen (or render through the queue or team render) those changes that were not allowed will be erased.</p></li>
+<li><p>&#64;SKaiser usually just psr, user data and sometimes parameters, if needed. i think bret might be on to something with the hierarchy thing.</p></li>
+<li><p>Some issues can be resolved by putting a keyframe for any changes made to the rig on Frame 0 (as well as any others) of your project/animation file (not Xref file), otherwise when you open it next time it will revert to the value/s from the Xref scene.</p></li>
+<li><p>I’d make sure you don’t have Hierarchy Checked to modify. You should really only have PSR, Parameters, and User Data checked. Having Hierarchy checked, I have found in the past to just cause all sorts of problems. Unless you actually plan/need to manipulate the hierarchy, you’re better off leaving it unchecked.</p></li>
+<li><p>On Xref One thing to check is that your frame rate matches between the XRef original file and your new file you’re using ti in. Check both the Project Settings and your Render settings.</p></li>
+<li><p>Fake collission FFD.  In Maya set to all no option. In C4D, just stack up again and again.</p></li>
+<li><p>Morph tag not on the mesh itself but in the FFD</p></li>
+<li><p>Aim and Up Constraint</p></li>
+<li><p>Position from Python still fail</p></li>
+<li><p>Outside Hierarchy</p></li>
+<li><p>Using Sweep (with Use Rail Direction)/Rail Scale</p></li>
+<li><p>Xpresso Align to Spline. Not completed. Used Python tag instead.</p></li>
+<li><p>You can perform hide selection with out the selection tag. Just search in the commander</p></li>
+<li><p>Same with the Maya skin cluster wrangler. Weights Tab Filter Selection &gt; Link selection</p></li>
+<li><p>Scaling in C4D. Turn off skin deformer. Then scale with the object tool. Then set bine pose. Turn on C4D</p></li>
+</ul>
+<p><strong>Constraints</strong></p>
+<ul class="simple">
+<li><p>Note that the first joint element in an IK set up can’t be limited with Kinematics, the Restriction-Tag needs to be used, but be aware of the Euler Problem.</p></li>
+<li></li>
+<li><p>pag side ways – preferred on the main axis.</p></li>
+<li><p>pag up ways – preferred on the end control</p></li>
+</ul>
+<section id="limitation">
+<h2>Limitation<a class="headerlink" href="#limitation" title="Permalink to this heading"></a></h2>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="index.html" class="btn btn-neutral float-left" title="Cinema4D" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="python.html" class="btn btn-neutral float-right" title="Python" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

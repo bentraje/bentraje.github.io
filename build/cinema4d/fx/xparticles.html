@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Xparticles &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/sphinx_highlight.js"></script>
+        <script src="../../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Dynamics" href="dynamics.html" />
+    <link rel="prev" title="Mograph" href="mograph.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Cinema4D</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../rigging.html">Rigging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../python.html">Python</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">FX</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="mograph.html">Mograph</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Xparticles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="dynamics.html">Dynamics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="turbulencefd.html">Turbulence FD</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/index.html">Maya</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../houdini/index.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../blender/index.html">Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Cinema4D</a> &raquo;</li>
+          <li><a href="index.html">FX</a> &raquo;</li>
+      <li>Xparticles</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../_sources/cinema4d/fx/xparticles.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="xparticles">
+<h1>Xparticles<a class="headerlink" href="#xparticles" title="Permalink to this heading"></a></h1>
+<ul class="simple">
+<li><p>Rather than using retiming. Use the Emission Speed for the Particles for greater control</p></li>
+<li><p>There seems to be a default gap from the particles and the collission. The setting to be adjusted is .Emitter&gt;Radius. Set it to anything lower but no 0.</p></li>
+<li><p>The radius cannot be zero because there will be no particles to be emitted</p></li>
+<li><p>In the preferences, particle group&gt;Random color on creation</p></li>
+<li><p>Gravity modifier is not only to bring objects to ground. You can also use it as an attractor by using the effect towards feature</p></li>
+<li><p>In the modifiers there is an xpChange Group. where a particle changes its form.</p></li>
+<li><p>x Particle radius scale effect. Need radius to be 0 cm</p></li>
+<li><p>Like in the example, you want bula bula. scale 1 0,1 on the spline.</p></li>
+<li><p>You can kill particles emitters based on perspective camera.</p></li>
+<li><p>Extended data tab is used for the geometry emitters rather than just point emitters</p></li>
+<li><p>xpFrag,emter</p></li>
+<li><p>You can emit through point selection. Nice</p></li>
+<li><p>)Collider Tag)Reaction to Collission: Translate. Nice! Bali parang ang emmission affects the state of an object</p></li>
+<li><p>Freezing Particles [xpfreeze tag)</p></li>
+<li><p>X particles can work on splines</p></li>
+<li><p>You can also paint particles</p></li>
+<li><p>Intersection on Xpgenerator generated particles&gt;Set to No intersection.</p></li>
+<li><p>Collider Tag&gt;Forces only works when the Emitter&gt;Dynamics&gt;Constraints and Collider Forces are enabled.</p></li>
+<li><p>32 mins to 3:58 mins</p></li>
+<li><p>When enabled, it result where particle engulfs the collider</p></li>
+<li><p>Project Settings&gt;Xparticles Dynamics Settings is significant factor on how the simulation looks. For initial set-up, change the Substeps to 3 and Iteration to 5.</p></li>
+<li><p>xp Constraints object is somewhat a be all for all types of fluid. Water, honey etc.</p></li>
+<li><p>its the particle based dynamics. catch all</p></li>
+<li><p>surface tension. nice with rain drops. keeps everything together</p></li>
+<li><p>for sand. use the friction and add collission.</p></li>
+<li><p>Particle per particle collission is possible. But you have to specify what emitter particle you want to collide with. A</p></li>
+<li><p>Particle Advection</p></li>
+<li><p>Cloner Object do not work with the Skinner? Parent the cloner object to the connect object.</p></li>
+<li><p>How to Cache?</p></li>
+<li><p>Important: you only need one Cache object in a scene! Although you can add more than one, they all work on the same data and more than one Cache object is not recommended as it may lead to confusion</p></li>
+<li><p>When caching to files the emitter name is used to name the files. Therefore, if there are multiple emitters in the scene it is crucial that they have unique names! The same applies to the RealFlow BIN files when loading a cache, the cache object will look for filenames starting with the emitter name (be it RealFlow BIN or XP cache files). So if reading or writing cache files (or RealFlow BIN) the emitter name is vital to it working consistently.</p></li>
+<li><p>Spin This modifier only has an effect if there are generated objects in the scene, either from a Generator object or a Sprite object. It spins the objects by the amounts given in the ‘Spin amount’ setting.</p></li>
+<li><p>xppainter – must be in the from 1 instead of 0</p></li>
+<li><p>LInes display. Longer lines more velocity.</p></li>
+<li><p>Mistake. Trying to get too much in one emitter.</p></li>
+<li><p>Animated texture emission</p></li>
+<li><p>Using the sine function para sa bula bula. cauldron.</p></li>
+<li><p>Instead of modifying individual fall-off, you can try xpTrigger Action.</p></li>
+<li><p>Select the light and turn on multiple importance</p></li>
+<li><p>no need for max bounces kasi mag cap man rin.</p></li>
+<li><p>Solve Banding:</p></li>
+<li><p>two things I would try to change:</p></li>
+<li><ol class="arabic simple">
+<li><p>from rate go to hexagonal output</p></li>
+</ol>
+</li>
+<li><ol class="arabic simple" start="2">
+<li><p>even more important – in project settings rise subframe steps and iterations</p></li>
+</ol>
+</li>
+<li><p>Prevent the jitter of the sudden apperance of the emitters. Set Emitter Radius to 0. Add a particle scale, change to value to the desired adius like 2cm). Then data mapping. Radius Value to Age.</p></li>
+<li><p>This is important because the order of solving constraints is in the order the constraint objects are found in the OM.</p></li>
+<li><p>Substeps: If you have fast moving or complex particle motion increasing the Subframe Steps will increase the accuracy of the Fluids, Constraints and</p></li>
+<li><p>ollisions.</p></li>
+<li><p>Iterations: This setting is used for constraints and PBD Fluids. Increase this value to make constraints and PBD more accurate/stiffer.</p></li>
+<li><p>No Need to change 40%. 90% is fastest but suffer for instability.</p></li>
+<li><p>Is it possible to export XP particles to Alembic? I know you can do geometry meshes, but I am wanting the particles themselves. generate tp in the emitter</p></li>
+<li><p>ettings and bring in a c4d particle geometry. You’ll then be able to export to abc</p></li>
+<li><p>Speed ramps. Link EFX Speed to Emitter Retiming</p></li>
+<li><p>If you want to modify the sim speed for slow mo, if you want advection, you also need to do it in the particle retiming</p></li>
+<li><p>you need to cache for motion blur</p></li>
+<li><p>motion inheritance to follow the</p></li>
+<li><p>Generally particles in the fluid are difficult to modifier using the modifiers</p></li>
+<li><p>With the stick to particles enabled any modifiers will be ignored. but the dynamics will affect them. (flow field)</p></li>
+<li><p>Make a sand? Not really in the fluidfx modifier, but on the emitter settings.</p></li>
+<li><p>Blur out the channels in the xplosia for better rendering:</p></li>
+<li><p>This is equivalent to diffusion.</p></li>
+</ul>
+<p><strong>Emitter</strong></p>
+<ul class="simple">
+<li><p>Regular and Hexagonal: These are special emission modes specifically for use with fluid simulations. Although you can use them with standard emitters such as the rectangle or circle, they are principally intended for use when emitting from an object. If you select one of these modes, you will see that particles are only emitted from the object’s volume and they are packed into the volume so as to ensure no overlapping particles. This is because particles which overlap at birth can result in unstable or exploding fluid sims.</p></li>
+<li><p>The difference between them is the method of packing. ‘Regular’ uses a regular grid (as in the Mograph cloner) but ‘Hexagonal’ uses a more efficient packing method allowing more particles to be emitted from the same volume.</p></li>
+<li><p>Volume Emit for things like emit dust from the ground</p></li>
+<li><p>Hexagonal emission explodes if the start emission is 10F and 11F. If you need only one frame. Just use 10F and 10F</p></li>
+<li><p>For creating a granular, you need to set-up it in the emitter.</p></li>
+<li><p>Note that emitting from an object is significantly slower than standard emitters, so should be avoided wherever possible. Why? You can emit from ‘solid’ emitters such as the sphere, cylinder or box emitters if you need to.</p></li>
+<li><p>You can delete particles at will. Enable in the Points tab.</p></li>
+<li><p>xParticles can be affected by deformers and effectors. However, by default, it is set to include. This means you have to set it up manually in the Modifiers tab.</p></li>
+<li><p>Subframe emit is helpful when the the emitter is moving at a fast speed</p></li>
+<li><p>emitters can be affected by different particles system group</p></li>
+<li><p>An emitter can emit two different groups.</p></li>
+<li><p>When you create a group from the emitter, it will inherit the emitter options.</p></li>
+<li><p>Scale only works with if you have a custom emitter (i.e. Cube using the Generator object)</p></li>
+<li><p>x Particle radius scale effect. Need radius to be 0 cm</p></li>
+<li><p>Subframe emit is helpful when the the emitter is moving at a fast speed</p></li>
+<li><p>emitters can be affected by different particles system group</p></li>
+<li><p>An emitter can emit two different groups.</p></li>
+<li><p>When you create a group from the emitter, it will inherit the emitter options.</p></li>
+<li><p>Scale only works with if you have a custom emitter (i.e. Cube using the Generator object)</p></li>
+<li><p>x Particle radius scale effect. Need radius to be 0 cm</p></li>
+</ul>
+<p><strong>xpConstraints</strong></p>
+<ul class="simple">
+<li><p>Particle dynamics is housed inside the particleConstraints object like soft body, cloth, fluid etc.</p></li>
+<li><p>xpConstraints was used to create a fluid behavior (viscous, sand (friction) and typical liquid (surface tension). However, with the introduction to xpFluidFX and xpFluidPBD, these functions are somewhat deprecated and are kept for legacy purposes</p></li>
+<li><p>To do sand you need a lot interation.</p></li>
+<li><p>That said, xpConstraints still has uses for its Connection and Collission tabs for motion graph purposes.</p></li>
+<li><p>Enable Polygon Edges, Polygon Diag: These switches enable the particles to follow a cloth-like behaviour without the need for the overhead of Cloth FX. To use them, emit particles from an object such as a Plane object, turn on these switches, and also turn on collision in the Collisions tab. Then the particles will behave like this:</p></li>
+<li><p>Stiffnesss: This is a measure of how “strong” the connection is. Note that for stiffer connections it can give more predictable results to have a lower ‘Stiffness’ value and higher iterations and/or subframes (see the X-Particles project settings). A very high stiffness can cause unstable solving.</p></li>
+<li><p>Collision tab: This tab provides very simple particle to particle collisions but is much faster than the P-P Collision object and solves as part of the constraint. In other words, the collision can be a condition to the final solution of the constraint and not just an absolute value.</p></li>
+<li><p>Forces tab: These are forces which act between particles but there is no connection made between the particles.</p></li>
+<li><p>You can get a higher and more stable viscosity with this as a lower (not 100%) value and more iterations/subframes. By having a softer constraint and more iterations/subframes you enable the particles to avoid large changes which can result in instability, especially when solving against other constraints (including fluids, FLIP and SPH). This is something new to me. Lower % but higher iterations and subframes. For stability</p></li>
+<li><p>Surface Tension tab: Surface tension is similar to the ‘Attraction’ force (‘Forces’ tab). It is an attractive force between the particles, except it only happens at the ‘surface’. This is an SPH surface, so it is determined by a radius around each particle that contributes to an overall surface, much like the Skinner and SPH Fluid object</p></li>
+<li><p>This is best used with another constraint (Forces or Collision) to keep the particles apart and create an inner force to give volume.</p></li>
+<li><p>Inner: As in the ‘Attraction’ force, this is the closest distance the force is allowed to prevent collapse. If using with SPH fluids set this to be similar to the SPH radius to allow the SPH to control the density of particles within this distance.</p></li>
+<li><p>Animate stiff ness from 40% to 100% so it pops back to its shape</p></li>
+<li><p>The more iteration the more rigid. This means you might need to reduce the stiffness parameter to achieve the same result.</p></li>
+</ul>
+<p><strong>xpDynamics</strong></p>
+<ul class="simple">
+<li><p>For the soft body to function, set the update points.</p></li>
+<li><p>Flame is already emmisive. so it won’t light up</p></li>
+<li><p>within xp dynamics tag uncheck update points to make it rigid body rather than softbody</p></li>
+<li><p>within xp dynamics tag activate push and crank it up to 100 %</p></li>
+<li><ol class="arabic simple">
+<li><p>most vital – projectsettings -&gt; xparticles -&gt; substeps at least 2 and iterations 30 collisions 200 help with your file</p></li>
+</ol>
+</li>
+<li><p>Need xpConstraints for the objects with xPDynamics tag to collide properly.</p></li>
+<li><p>Spline Dynamics Must have zero rigidity and have 100% structural constraints</p></li>
+</ul>
+<p><strong>xpCloth</strong></p>
+<ul class="simple">
+<li><p>Most of the control over the cloth is given by the xpClothTag; in fact, the deformer and modifier have no parameters you can change.</p></li>
+<li><p>Collisions on cloth:</p></li>
+<li><p>You may want to add features such as friction to prevent the cloth sliding over the object. See the emitter’s Extended Data tab (Physical Data quicktab) for details on how to add and change friction.</p></li>
+<li><p>cloth is not tearing. check the project settings. have a lower quality</p></li>
+</ul>
+<p><strong>xpCollider</strong></p>
+<ul class="simple">
+<li><p>Collider Tag. Self Collision. Good for the Cloth so that they don’t intersect with each other.</p></li>
+<li><p>Is the collision offset distance in the Fluid FX Collider tag sufficient? The default is zero, but internally this is difficult to resolve and you may see better results with a small non-zero value in this parameter.</p></li>
+<li><p>In the X-Particles Collider tag, there is a list of Actions to be carried out when a collision occurs. However, please note that with Fluid FX, particles will collide with an object but will NOT trigger actions. This</p></li>
+<li><p>s currently a limitation of Fluid FX.</p></li>
+<li><p>Sometimes collisions with geometry or can be rather jumpy, tending to throw particles at high velocity. If this happens, check the collision offset distance in the Fluid FX Collider tag. If it is too small or too high, that can lead to this kind of problem.</p></li>
+</ul>
+<p><strong>xpFluid</strong></p>
+<ul class="simple">
+<li><p>PBD is fast but accurate. xpFluid is accurate but slow.</p></li>
+<li><p>PBD can be affected by other modifiers. Being essentially a particle modifier it works in a similar fashion to other modifiers and can be used along with other modifiers and dynamics objects, including the Cloth</p></li>
+<li><p>bject. xpFluid is a separate solver. It can only be affected by select modifers such as flow flied.</p></li>
+<li><p>In general, the PBD Fluid object is simpler and often faster. But it is not as realistic. Being essentially a particle modifier it works in a similar fashion to other modifiers and can be used along with other</p></li>
+<li><p>odifiers and dynamics objects, including the Cloth object.</p></li>
+<li><p>X-Particles has three unique solvers to create realistic fluid effects. Each has its speciality; FluidPBD for small-scale artistic liquid simulation, FluidFX for fast realistic small to large-scale liquid and granular</p></li>
+<li><p>imulations and FLIP Domain for medium to large scale liquid simulation.</p></li>
+<li><p>FluidFX: The new FluidFX solver is the tool to create highly realistic grain and liquid solving, using the latest in SPH (Smooth Particle Hydrodynamics) methods for large and small scale fluid simulations. You’ll see</p></li>
+<li><p>ast and accurate results, along with the mixed density support allowing you to combine water, snow and sand all at once.</p></li>
+<li><p>FluidPBD: The FluidPBD is a particle-based dynamic solver, ideal for small-scale fluid creation for motion design. Combined with a multitude of other X-Particles modules makes this a designer friendly solver with very</p></li>
+<li><p>lexible options to achieve accurate and stable results.</p></li>
+<li><p>FLIP Domain: Create realistic water simulations with the volume-based FLIP fluid solver called xpDomain. The Domain is a multipurpose velocity field solver that creates smooth particle motion, without the limitations</p></li>
+<li><p>f particles.</p></li>
+<li><p>So first off scene scale is not in fact an issue what is the issue is simulation settings. &#64;vicnorman you were on track with Gravity. whats happening is the particles are moving to fast due to the scene scale and the</p></li>
+<li><p>ravity.</p></li>
+<li><p>If they move in steps greater than the SPH radius the simulation wont work. so things to look at are gravity speed and substeps lets have a look.</p></li>
+<li><p>Here’s a scene with a real world sized glass and particle radius of .1 as you can see its not working as you expect it too</p></li>
+<li><p>Now we want to make it fill up more so lets do a couple of things.</p></li>
+<li><p>First increasing the particle radius will help fill a glass more. However that will make the solver more explosive so to combat that in the FluidFX object enable “Check Density”</p></li>
+<li><p>One more thing to try out you may not need it is to increase the scene substeps in this iv increased it to 3.</p></li>
+<li><p>xpFluidPBD Viscosity: This sets the fluid simulated viscosity. However, this isn’t “true” viscosity, it is an approximation. It adds the velocity influence of the surrounding particles, which gives a more viscous</p></li>
+<li><p>otion. To make a really viscous fluid it might help to add some particle-particle attraction. You may need to increase this value quite markedly to see significant changes. Here is the reference scene with Viscosity</p></li>
+<li><p>et to 300%:</p></li>
+<li><p>Vortocity = Turbulence (Curly)</p></li>
+<li><p>Repulsion: Causes the fluid particles to be push away from each other to force them to spread out more. This can be used to help to reduce particle clumping when only a few particles are close by. In this video</p></li>
+<li><p>epulsion has been increased to 100%:</p></li>
+<li><p>Ext Pressure:</p></li>
+<li><p>This is a factor applied to the particles to prevent them from breaking up into lots of tiny clumps. The effect is to simulate an increase in surface tension which pulls neighbouring particles together. In this video</p></li>
+<li><p>he pressure has been increased to 100%:</p></li>
+<li><p>Smooth Radius: The radius over which the properties of the fluid are smoothed (such as density). When this is reduced the smoothing effect is reduced and the result is more chaotic, as seen in this video where the</p></li>
+<li><p>adius is set to 50%:</p></li>
+<li><p>xpFluidFx: Due to the solver used in FluidFX (by default it is a velocity solver) it takes over particle movement and does not interact with other X-Particles objects that move the particles. This makes it difficult</p></li>
+<li><p>o use with the new X-Particles dynamics engine.</p></li>
+<li><p>Int Pressure: Internal pressure forces the particles apart, ensuring the fluid does not compress. It acts together with ‘Ext Pressure’ to produce a surface tension-like effect.</p></li>
+<li><p>Ext Pressure: External pressure pushes the particles together, ensuring the fluid does not expand. It acts together with ‘Int Pressure’ to produce a surface tension-like effect.</p></li>
+<li><p>Damping: Damping helps to reduce explosive forces. If you simulate a fluid with a density that is very low then the forces trying to keep the density can become very large, if the smoothing radius isn’t sufficiently</p></li>
+<li><p>arge enough to smooth over enough particles (low density means the particles are spaced further apart, and if this is beyond the smoothing distance it can become unstable). Increasing this setting damps the forces but</p></li>
+<li><p>lso reduces motion from the fluid.</p></li>
+<li><p>Friction Iter:</p></li>
+<li><p>Friction (between fluid particles) is only used for granular simulations. Therefore this setting has no effect unless in the emitter’s Fluid Data section you have set the ‘Fluid Type’ to ‘Granular’. You can then use</p></li>
+<li><p>t to alter the friction between granular particles.</p></li>
+</ul>
+<p><strong>xpExplosia</strong></p>
+<ul class="simple">
+<li><p>No emission on an object that is both collider and source? Convert to alembic</p></li>
+<li><p>The Bouyancy&gt;Gravity Function differently from other gravity. Increase this doesnot mean bringing the clouds down. But is a multiplier force. You can drop this down to 3 or 4 to slow down the simulation</p></li>
+<li><p>Setting the the Ignition Heat to 1 means that there is no smoke at all. All hire.</p></li>
+<li><p>You can provide variation on the smoke by adding xpTurbulence. However, another way is to vary the ignition heat so the burn depends on how large the emitter is.</p></li>
+<li><p>Temperatire. density, fuel and burn</p></li>
+<li><p>to get a thick smoke color. you need an absorption</p></li>
+<li><p>for advection, you don’t need the smoke to be hi ref</p></li>
+<li><p>advection, you need it to exclude the xplosia domain</p></li>
+<li><p>For the advection, turn off smoke, burn and temperature.</p></li>
+<li><p>in the sufrace advection to respect the movement and not go abroad increase the velocity to 300%</p></li>
+<li><p>turn off adaptive bounds</p></li>
+<li><p>To keep the smoke nice and thin the xpGaseous modifier’s Fuel Rate needs to be quite low; in this scene, 4 was a satisfactory value.</p></li>
+<li><p>no need to use xpLosia if you just want the fluids effect.</p></li>
+<li><p>Thicker smoke</p></li>
+<li><p>What if we want to do the opposite and have some really thick black smoke? That’s easy. We need to do three things:</p></li>
+<li><p>increase the Fuel Rate in the xpGaseous modifier to a higher value (e.g. 25) to get more smoke</p></li>
+<li><p>increase the values in the Math multiply nodes to give denser smoke (this scene used a value of 2 to multiply the volume scatter and 100 to multiply the absorption)</p></li>
+<li><p>and give the smoke a darker colour than the mid-gray in the volume scatter node; here we used a Color Ramp node, driven by the density output from the point density node, but there are other ways to do this</p></li>
+<li><p>Sim Scale tells XP how big is the fire? value of 10 gives you explosions/camp fire scale, while 200 gives you a candle flame scale. Smaller is bigger is somewhat counter intuitive, but that’s how it goes.</p></li>
+<li><p>density for smoke</p></li>
+<li><p>use volume texture to sculpt your emission</p></li>
+<li><p>Source xplosia color from xparticles color. Have the color checked as part of the solver.</p></li>
+<li><p>Cache in houdini format. And bring in the houdinei format. Nice water settings</p></li>
+<li><p>Because we are not rendering, density, fuel and burn is not needed.s</p></li>
+<li><p>The burning rate &gt; ignition heat: 0.8 produces more fire but less smoke.</p></li>
+</ul>
+<p><strong>xpModifiers</strong></p>
+<ul class="simple">
+<li><p>For the soft body to function, set the update points.</p></li>
+<li><p>Flame is already emmisive. so it won’t light up</p></li>
+<li><p>Flock Modifier only works well in conjuction with Attractor</p></li>
+<li><p>Data mapping. The more faster/velocity they have, the more velocity.</p></li>
+<li><p>XpDrag – Density into Water Nice preset.</p></li>
+<li><p>xpFlowField can be a replacement to several modifiers such as follow spline/follow path/follow surface etc</p></li>
+<li><p>You can have zero fall-off of xpFlow Field.</p></li>
+<li><p>xpTurbulence Curl</p></li>
+<li><p>cover modifier. need some speed to transfer.</p></li>
+<li><p>xpspeed to limit the turbulence. nice!</p></li>
+<li><p>remove fall off on the xpflow field.</p></li>
+<li><p>XP foam with 100% buoyancy. Your shader is where the realism will come from.</p></li>
+<li><p>a quick and very solid solution to smooth out OVDB meshes besides of filtering is adding a “Smoothing” object:</p></li>
+<li><p>if you want to add a spin modifier. muyst have the rotation extended parameters to be enabled.,</p></li>
+<li><p>xpGenerators</p></li>
+<li><p>xpGenerator&gt; Clone Type&gt;Set to Instances.</p></li>
+<li><p>xpGenerator is the one that substitute your points to a mesh (candy, spheres). That is cloning objects to the particle points.</p></li>
+<li><p>xpGenerator can be affected by mograph effectors. So is the xSprite</p></li>
+<li><p>Skinner can act as boolean.</p></li>
+<li><p>Surface cut is still like a boolean but uses a mesh object. So one emitter being cut by a cube, sphere or any mesh.</p></li>
+<li><p>Newtonean gravity to create unconvential effecsts.</p></li>
+<li><p>The mesh should be visible for the generator (cloner equivalent) to work</p></li>
+</ul>
+<p><strong>Rendering</strong></p>
+<ul class="simple">
+<li><p>Arnold Render: Just add an Arnold Parameter Tag.</p></li>
+<li><p>Render using Physical xParticles? Add a xPartcles settings in the render setting and also create an xParticles material</p></li>
+<li><p>Unable to render: You simply have to uncheck render perfect for the sphere – that´s what is stopping it from being rendered with dynamics tag….</p></li>
+</ul>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="mograph.html" class="btn btn-neutral float-left" title="Mograph" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="dynamics.html" class="btn btn-neutral float-right" title="Dynamics" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

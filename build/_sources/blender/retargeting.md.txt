@@ -1,0 +1,6 @@
+# Retargeting
+
+A straight forward way of doing it is when your source and target skeleton has the same hierarchy. 
+So you just import both and plug the action editor. A blessing and a curse of the armature to store all animation in one action data. You acan easily replace it but at the same time its cumbersome when baking. You can't really bake selected bones. It bakes them all. 
+
+-  the action will depend if its original WXYZ (like transfer to XYZ rotation) if its different animation will not transfer 

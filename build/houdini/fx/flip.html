@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FLIP &mdash; BT Notes 0.1 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx-toolbox-code.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/sphinx-toolbox.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sphinx_toolbox_installation.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/sphinx_highlight.js"></script>
+        <script src="../../_static/sphinx_toolbox_installation.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> BT Notes
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Software</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../cinema4d/index.html">Cinema4D</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/index.html">Maya</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../blender/index.html">Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../post-production/index.html">Post Production</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../specialized/index.html">Specialized</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workflow</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../rendering/index.html">Rendering</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Programming</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">BT Notes</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>FLIP</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../_sources/houdini/fx/flip.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="flip">
+<h1>FLIP<a class="headerlink" href="#flip" title="Permalink to this heading"></a></h1>
+<ul class="simple">
+<li><p>FLIP is a hybrid between volumes and particles. This means you can use POP nodes in a water simulation unlike in a pyro simulation.</p></li>
+<li><p>Another POP node that is useful in FLIP simulations is POP Speed Limit. Coupled with a POP Drag node, it works great for controlling high-velocity particles that can otherwise go out control.</p></li>
+<li><p>Enabling the age attribute via the Age Particles checkbox (which also exports the life attribute) makes it possible to control how a sim looks over time, especially if you have a source that is constantly emitting.</p></li>
+<li><p>Source fluids with POP Source, not FLIP Source</p></li>
+<li><p>The vorticity attribute is handy for sourcing secondary simulations like whitewater and is great for manipulating shading.</p></li>
+<li><p><a class="reference external" href="https://www.toadstorm.com/blog/">https://www.toadstorm.com/blog/</a></p></li>
+<li><p>The traditional way to create whitewater is to simulate the FLIP fluid, then run the [Whitewater solver](<a class="reference external" href="https://www.sidefx.com/docs/houdini/nodes/dop/whitewatersolver.html">https://www.sidefx.com/docs/houdini/nodes/dop/whitewatersolver.html</a>) on top of that. However, the second step isn’t always necessary, particularly for fast-moving fluids like splashes and water jets (think a broken fire hydrant or underwater in a hot tub – and yes, these are shots from real projects!). In addition, it can be quite tricky to get the fluid to look right when meshing the particles.</p></li>
+<li><p>Instead, what you can do is take the FLIP sim itself and render it directly with a whitewater shader. You can either render the particles themselves, or rasterise them to a VDB and render the result as a volume. I use a mixture of the two techniques depending on what looks best for a shot. The whitewater shader that is created automatically when using Houdini’s ocean tools works quite well for rasterised particles.</p></li>
+<li><p>Additionally, if you have geometry that is ready to be rendered, it is a good idea to cache it out and have the Delay Load Geometry checkbox turned on. Instead of having Mantra embed the geometry in the IFD file, it will be referenced to the file on disk instead. This will help reduce load times and also drastically reduce both IFD generation times and file size. Helpful if you have a render farm and don’t want to bog it down!</p></li>
+<li><p>To get foam/white-water on splashes, take the velocity field from the fluid simulation and use it to advect “white” particles created within a tolerance of an SDF of the fluid surface.</p></li>
+<li><p>Except for surface tension and viscosity, the physics should be scale independent, and as long as you’re not bumping up against single-precision floating-point limitations (like simulating with .01m voxels 10km away from the origin…), the simulator should be scale independent too. However, the look of small-scale water (like a few cms) tends to be heavily dominated by surface tension, which historically hasn’t been handled well in solvers…</p></li>
+</ul>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, BT.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
