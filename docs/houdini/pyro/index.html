@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-houdini/pyro/index" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.4.0">
+<title data-rh="true">Pyro | Ben Traje</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://bentraje.com/docs/houdini/pyro/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Pyro | Ben Traje"><meta data-rh="true" name="description" content="- there is no gas expansion in fire."><meta data-rh="true" property="og:description" content="- there is no gas expansion in fire."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://bentraje.com/docs/houdini/pyro/"><link data-rh="true" rel="alternate" href="https://bentraje.com/docs/houdini/pyro/" hreflang="en"><link data-rh="true" rel="alternate" href="https://bentraje.com/docs/houdini/pyro/" hreflang="x-default"><script async src="https://www.googletagmanager.com/gtag/js?id=G-XMRE4ES9RK"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-XMRE4ES9RK")</script>
+<link rel="stylesheet" href="src/css/tailwind.css"><link rel="stylesheet" href="/assets/css/styles.26f7d720.css">
+<script src="/assets/js/runtime~main.8717e928.js" defer="defer"></script>
+<script src="/assets/js/main.b4b8f174.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const n=new URLSearchParams(window.location.search).entries();for(var[t,e]of n)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.svg" alt="My Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.svg" alt="My Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Ben Traje</b></a><a class="navbar__item navbar__link" href="/about">About</a></div><div class="navbar__items navbar__items--right"><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/docs/intro">Tutorial Intro</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/category/tutorial---extras">Tutorial - Extras</a><button aria-label="Expand sidebar category &#x27;Tutorial - Extras&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/cinema4d/">Cinema4D</a><button aria-label="Expand sidebar category &#x27;Cinema4D&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/docs/houdini/">Houdini</a><button aria-label="Collapse sidebar category &#x27;Houdini&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/houdini/chops/">CHOPS</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/houdini/compositing/">Composting (COPS)</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/crowds/">Crowds</a><button aria-label="Expand sidebar category &#x27;Crowds&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/flip/">Flip</a><button aria-label="Expand sidebar category &#x27;Flip&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/docs/houdini/fx/specific/swap_lopoly_with_hipoly">fx</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/grooming/">Grooming</a><button aria-label="Expand sidebar category &#x27;Grooming&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/kinefx/">KineFX</a><button aria-label="Expand sidebar category &#x27;KineFX&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/modelling/">Modelling</a><button aria-label="Expand sidebar category &#x27;Modelling&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/particles/">Particles</a><button aria-label="Expand sidebar category &#x27;Particles&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/programming/">Programming</a><button aria-label="Expand sidebar category &#x27;Programming&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible menu__list-item-collapsible--active"><a class="menu__link menu__link--sublist menu__link--active" aria-current="page" tabindex="0" href="/docs/houdini/pyro/">Pyro</a><button aria-label="Collapse sidebar category &#x27;Pyro&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/docs/houdini/pyro/sample/colored_smoke">sample</a></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/rbd/">Rigid Body Dynamics</a><button aria-label="Expand sidebar category &#x27;Rigid Body Dynamics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/solaris/">Solaris</a><button aria-label="Expand sidebar category &#x27;Solaris&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/tops/">TOPS/PDG</a><button aria-label="Expand sidebar category &#x27;TOPS/PDG&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/houdini/uv/">UV</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/vellum/">Vellum</a><button aria-label="Expand sidebar category &#x27;Vellum&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/houdini/volumes/">Volumes</a><button aria-label="Expand sidebar category &#x27;Volumes&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/maya/">Maya</a><button aria-label="Expand sidebar category &#x27;Maya&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/post-production/">Post Production</a><button aria-label="Expand sidebar category &#x27;Post Production&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/rendering/">Rendering</a><button aria-label="Expand sidebar category &#x27;Rendering&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/docs/specialized/">Specialized</a><button aria-label="Expand sidebar category &#x27;Specialized&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/docs/houdini/"><span itemprop="name">Houdini</span></a><meta itemprop="position" content="1"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link" itemprop="name">Pyro</span><meta itemprop="position" content="2"></li></ul></nav><div class="theme-doc-markdown markdown"><h1>Pyro</h1>
+<ul>
+<li>
+<p>there is no gas expansion in fire.</p>
+</li>
+<li>
+<p>pyro shape tab. nail your general look first before going into this one. because it is for high frequency detail</p>
+</li>
+<li>
+<p>in disturbance. increase the blocksize from 0.1 to 1 para hindi sya parang fuzzy random details</p>
+</li>
+<li>
+<p>disturbance is like turbulence but specific to a number of density.</p>
+</li>
+<li>
+<p>turbulence affect the overall shape while the disturbance is only on the edges of the smoke.</p>
+</li>
+<li>
+<p>In release 18 (2019 Nov), Houdini introduced a new pyro solver (i.e. sparse solver). Unless you are following a tutorial or working on an old project file, it is advisable to use the sparse solver compared to the legacy solver.</p>
+</li>
+<li>
+<p>To check the differences, there is a separate shelf tools for pyro and sparse solvers.</p>
+</li>
+<li>
+<p>To have consistent results from project to project, try to work on a meter scale (houdini default). This means even if you’re object is in real world centimeter scale, enlarge it to meter scale for simulation. You can just shrink it down during export.</p>
+</li>
+<li>
+<p>To have a decent Pyro details, try to hit a range of 300-500 pixels for final delivery.</p>
+</li>
+<li>
+<p>All except dissipation affect the velocity field as internal forces.</p>
+</li>
+<li>
+<p>The disturbance will disrupt those mushroom shapes.</p>
+</li>
+<li>
+<p>Houdini includes two different ways to add turbulent noise to fire: shredding and turbulence.</p>
+</li>
+<li>
+<p>Shredding is high frequency. Sharpening is low frequency</p>
+</li>
+<li>
+<p>combustion (fuel + temperature = expansion + fire + smoke + more temperature</p>
+</li>
+<li>
+<p>“Pyroclastic” meaning rapidly expanding and roiling style chunky simulations, as one would see with an explosion</p>
+</li>
+<li>
+<p>Aside from its “sparse” nature, the combustion model is simplified:- In old pyro, it’s combustion model takes cares of all the <strong>fuel</strong>, <strong>burn</strong>, <strong>heat</strong>, <strong>temperature</strong> fields. All in one, but possibly confuses people.</p>
+</li>
+<li>
+<p>– The new sparse pyro cut the <strong>fuel</strong> and <strong>burn</strong> off its duty. Instead, the user cope these two fields by himself/herself.</p>
+</li>
+<li>
+<p>By this way the new pyro solver is greatly simplified and even better: potentially sped up. Imagine the case of a simple camp fire where a emissive flame is all you need, you can simply generate a source with only one volume, and let it be the source of <strong>flame</strong> and <strong>temperature</strong>, that’s it! No <strong>fuel</strong>, no <strong>density</strong>, no <strong>burn</strong> is calculated, couldn’t be faster!</p>
+</li>
+<li>
+<p><a href="https://www.sidefx.com/docs/houdini/vex/attrib_suite" target="_blank" rel="noopener noreferrer">https://www.sidefx.com/docs/houdini/vex/attrib_suite</a></p>
+</li>
+<li>
+<p>flame is the new in pyro spars before you need temperature and fuel &gt; burn &gt; heat</p>
+</li>
+<li>
+<p>in sparse, you don’t need temperature. to combust/fburn. only need flame.</p>
+</li>
+<li>
+<p>in spase, set temperature to maximum and at scale 1</p>
+</li>
+<li>
+<p>FUEL + Temperature = Burn</p>
+</li>
+<li>
+<p>Using “pull” instead of “add” for your velocity can calm things a little.</p>
+</li>
+<li>
+<p>If you get more comfortable with Volume Wrangles, then you can do some post filling/blending, but it requires a bit more work to do it cleanly.</p>
+</li>
+<li>
+<p>Do you have Velocity Blur enabled on your volume rasterize attributes sop? I&#x27;ve found that helpful for smoothing out high velocity sources</p>
+</li>
+<li>
+<p>Source noise for fire is important for capturing the look of the base. To get the cellular look for the fire base, use Worley (cellular) F2-F1 for the Noise Type.</p>
+</li>
+<li>
+<p>volume rasterize attributes Set Voxel Size to 0.05. This is the same value as in the Pyro Source node’s Voxel Size parameter.</p>
+</li>
+<li>
+<p>For even more details, decrease Particle Separation and Voxel Size values to 0.025.</p>
+</li>
+<li>
+<p>Turn on Shredding. This noise type acts on the flame field and adds more high-frquency turbulence without changing the fluid’s general motion. Set the value to 0.6.</p>
+</li>
+<li>
+<p>Increase the substeps (Solver &gt; Simulation &gt; Global substeps)</p>
+</li>
+<li>
+<p>The &quot;volume rasterize&quot; has a &quot;velocity blur&quot; option</p>
+</li>
+<li>
+<p>Those two in combination (carefully balanced) usually solves it.</p>
+</li>
+<li>
+<p>Density. It is recommended that contents of this field remain normalized (that is, sourced values should be between 0 and some convenient upper bound, such as 1)</p>
+</li>
+<li>
+<p>Pyro flame values are increased through sourcing. The recommended merging operation for sourcing into this field on the Volume Source DOP is Maximum. This ensures that flame values are refreshed at the source, but avoids over-accumulation that the Add operation is prone to.</p>
+</li>
+<li>
+<p>More precisely, a Flame Lifespan value of 2 means that it will take 2 seconds to completely use up an initial flame value of 1.</p>
+</li>
+<li>
+<p>Yeah, timeblend for volumes only works with a velocity field AFAIK. So you have to turn on the &quot;Use velocity for interpolation...&quot; and have a vel field and then it works. Kinda - if your velocities aren&#x27;t too high.</p>
+</li>
+<li>
+<p>Try adding a disturbance field and setting the disturbance to be affected by velocity and checking the “disturbance is velocity field” check box.</p>
+</li>
+<li>
+<p>On Shading, get the emission field first. dial down all the density and scatter.</p>
+</li>
+<li>
+<p>emit density from flame. density will be emited based on the burn attribute. instead of sourcing them yourselfs.</p>
+</li>
+<li>
+<p>axiom works on fog vdb</p>
+</li>
+<li>
+<p>fie are usually faster than explosion. so the time scale is 2</p>
+</li>
+<li>
+<p>troubleshoot your with vdb. with volume slice. To determine for the upper and lwoer range.</p>
+</li>
+<li>
+<p>collision in axiom solver needs to be thick</p>
+</li>
+<li>
+<p>volume velocity for adding or modifying velocity to volumes.</p>
+</li>
+<li>
+<p>the velocity and density geo source . doesn&#x27;t need to be the same. noice. mindblown</p>
+</li>
+<li>
+<p>point velocity sop</p>
+</li>
+<li>
+<p>enable the fluid source node. so it would be like doing a cloud noise haha</p>
+</li>
+<li>
+<p>the voxel size to be half of the particle size. This looks like a POP simulation, that is then rasterized to volumes. You can add a curlnoise as a start-velocity, which is easy. Either via v@v=curlnoise(v@P); in VEX or same in VOPs.</p>
+</li>
+<li>
+<p>gas axis force needs a gizmo. to operate.</p>
+</li>
+<li>
+<p>use velocity visualiation for rendering instead?</p>
+</li>
+<li>
+<p>sourcing for the color should be. blend.</p>
+</li>
+<li>
+<p>velocity attribute in points are v. but the velocity attribute in volumes are vel. just some nomenclature stuff hehe</p>
+</li>
+<li>
+<p>disturbance of 0.5 is a very low number. you probably need 25-50 to see a stark difference.</p>
+</li>
+<li>
+<p>you might want to have a separate volume rasterize attributes for velocity and (density and temperature). because in velocity you want to cover as much space (i.e. larger particle size) but on the latter you want to have more details (i.e. smaller particle size)</p>
+</li>
+<li>
+<p>exhaust type: fast moving but short lived, usually parent the container should do the job.</p>
+</li>
+<li>
+<p>meteor type: fast moving but trail lives longer and slowly dissipate. usually it&#x27;s the combination of exhaust type + cluster sim of trails dissipating. sometimes I just do procedural volumes for the fire part unless it&#x27;s actually necessary to see advection for the flame as well, if that&#x27;s the case usually do higher solver max-substeps and sourcing to compensate for fast moving geo.(from 17+ up the volume sourcing does do substep sourcing, so as long as your source interpolates nicely it should have no problem.)</p>
+</li>
+<li>
+<p>flame thrower: need to see advection from almost a point source and also lingers and dissipate slowly if at all. the nozzle might not be fast moving, but the &quot;source&quot; liquid are fast moving. if the nozzle is swinging fast you have to also tackle the particle sim side of substepping as well. (also it&#x27;s easier to spot the &quot;source bar&quot; swinging around if you didn&#x27;t have some good angle to hide it. then you need to tweak your sourcing and could affect the look, imo it&#x27;s the worst type of pyro sim to do nicely.)</p>
+</li>
+<li>
+<p>And conclusion: if your source looks good enough, you do less work for the pyro sim itself. sometimes I do a 2 step sims to have a higher substeps but really tight container doing the first step sim as driver for sourcing and advection and then a final sim for upres and use the first sim as source/turbulence around the emitter.</p>
+</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/houdini/pyro/index.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/houdini/programming/vex"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">VEX</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/houdini/pyro/sample/colored_smoke"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Colored Smoke</div></a></nav></div></div></div></div></main></div></div></div><footer class="footer"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">NOTES</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/cinema4d">C4D</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/houdini">Houdini</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/maya">Maya</a></li></ul></div><div class="col footer__col"><div class="footer__title">SOCIALS</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://www.instagram.com/bentraje/" target="_blank" rel="noopener noreferrer" class="footer__link-item">Instagram<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://dribbble.com/bentraje" target="_blank" rel="noopener noreferrer" class="footer__link-item">Dribble<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">OTHERS</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://letterboxd.com/bentraje/" target="_blank" rel="noopener noreferrer" class="footer__link-item">Goodreads</a></li><li class="footer__item"><a href="https://letterboxd.com/bentraje/" target="_blank" rel="noopener noreferrer" class="footer__link-item">Letterbox<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Ben Traje. Built with Docusaurus.</div></div></div></footer></div>
+</body>
+</html>
