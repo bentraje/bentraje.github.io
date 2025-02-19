@@ -1,0 +1,1456 @@
+﻿position,title,address,website,phone,order_online,rating,reviews,price,thumbnail,unclaimed_listing,type,types,service_options,hours,operating_hours,place_id,data_id,data_cid,gps_coordinates
+1,Urban Dock LaLaport Toyosu2,"2 Chome-1-14 Toyosu, Koto City, Tokyo 135-0061, Japan",https://mitsui-shopping-park.com/lalaport/toyosu/,+81 3-6910-1234,,3.8,1323,,https://lh5.googleusercontent.com/p/AF1QipNv1ETEB_cReEtKLsfbAyD8Ma1RXlCUQDPBnE5k=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJdXLK96GJGGARPTXMEDQTK10,0x601889a1f7ca7275:0x5d2b133410cc353d,6713480783866901821,"{
+  ""latitude"": 35.6559601,
+  ""longitude"": 139.7941244
+}"
+2,DiverCity Tokyo Plaza,"1 Chome-1-10 Aomi, Koto City, Tokyo 135-0064, Japan",https://mitsui-shopping-park.com/divercity-tokyo/,+81 570-012-780,,4.2,30010,,https://lh5.googleusercontent.com/p/AF1QipN6edZ8cTgXZqM0raScWW0tcCcRkQdjfVuB3ZBk=w138-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJpbpu0_mJGGARd9sJ-psh9Gc,0x601889f9d36ebaa5:0x67f4219bfa09db77,7490649034022574967,"{
+  ""latitude"": 35.6251856,
+  ""longitude"": 139.77563139999998
+}"
+3,Grandberry Park,"3 Chome-4-1 Tsuruma, Machida, Tokyo 194-8589, Japan",https://gbp.minamimachida-grandberrypark.com/,+81 42-788-0109,,4,9747,,https://lh5.googleusercontent.com/p/AF1QipPxjEdqzFuRl26_8-Ir9dsyxspA1HZrmHS7MAvf=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall"",
+  ""Department store"",
+  ""Outlet mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJfcGgjJT4GGARXDgNXKx42KE,0x6018f8948ca0c17d:0xa1d878ac5c0d385c,11662203916749977692,"{
+  ""latitude"": 35.5100027,
+  ""longitude"": 139.4707904
+}"
+4,Mitsui Outlet Park Makuhari,"2 Chome-６-1 Hibino, Mihama Ward, Chiba, 261-0021, Japan",https://mitsui-shopping-park.com/mop/makuhari/,+81 43-212-8200,,3.8,9253,,https://lh5.googleusercontent.com/p/AF1QipPPkL9Bo3HuSfygJugv2i6bJQTuLcQiBc9f9vT-=w138-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJ__9vix-CImARLs7fd64mSY4,0x6022821f8b6fffff:0x8e4926ae77dfce2e,10252768557462965806,"{
+  ""latitude"": 35.6472857,
+  ""longitude"": 140.0413817
+}"
+5,Mitsui Outlet Park Kisarazu,"3 Chome-１-1 Kanedahigashi, Kisarazu, Chiba 292-0009, Japan",https://mitsui-shopping-park.com/mop/kisarazu/,+81 438-38-6100,,4,15674,$$,https://lh5.googleusercontent.com/p/AF1QipPK-9M4iost_lBxpZEyO5eCx2FUtDjdPr0dFCXo=w122-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJL6_Sv4lzGGARwjaD7LL2agk,0x60187389bfd2af2f:0x96af6b2ec8336c2,678625942205314754,"{
+  ""latitude"": 35.4340459,
+  ""longitude"": 139.9344002
+}"
+6,Shopping Mall SHOPS,"3 Chome-28-16 Onitaka, Ichikawa, Chiba 272-0015, Japan",https://shops.biz-agora.com/,+81 47-370-8311,,3.6,2204,,https://lh5.googleusercontent.com/p/AF1QipPvMyp-BNDuAJaKO7nDr2fnNvW9A9M-NaUkydcD=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 9:30 AM,"{
+  ""saturday"": ""9:30 AM–11:30 PM"",
+  ""sunday"": ""9:30 AM–11:30 PM"",
+  ""monday"": ""9:30 AM–11:30 PM"",
+  ""tuesday"": ""9:30 AM–11:30 PM"",
+  ""wednesday"": ""9:30 AM–11:30 PM"",
+  ""thursday"": ""9:30 AM–11:30 PM"",
+  ""friday"": ""9:30 AM–11:30 PM""
+}",ChIJizlDrtKAGGAR3tt9WVW5tVQ,0x601880d2ae43398b:0x54b5b955597ddbde,6103988646195354590,"{
+  ""latitude"": 35.7085709,
+  ""longitude"": 139.9366158
+}"
+7,Ikspiari,"１-4 Maihama, Urayasu, Chiba 279-8529, Japan",https://www.ikspiari.com/,+81 47-305-2525,,4.2,13480,,https://lh5.googleusercontent.com/p/AF1QipM-UyrqzxueW4LHW4VhK_BIavl6T23XGvXIOLMZ=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–10:30 PM"",
+  ""sunday"": ""10 AM–10:30 PM"",
+  ""monday"": ""10 AM–10:30 PM"",
+  ""tuesday"": ""10 AM–10:30 PM"",
+  ""wednesday"": ""10 AM–10:30 PM"",
+  ""thursday"": ""10 AM–10:30 PM"",
+  ""friday"": ""10 AM–10:30 PM""
+}",ChIJD_d5KxB9GGARF-0vk3_BVTo,0x60187d102b79f70f:0x3a55c17f932fed17,4203478580894625047,"{
+  ""latitude"": 35.6339458,
+  ""longitude"": 139.8862298
+}"
+8,MINOWORLD,"1 Chome-8-1 Higashinippori, Arakawa City, Tokyo 116-0014, Japan",,,,3.1,29,,https://lh5.googleusercontent.com/p/AF1QipM8zyUbpAIvPVJYRkegMSt8aXWvaB-agJToCgM-=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJZQjCFIqOGGARusyfJA_A7bI,0x60188e8a14c20865:0xb2edc00f249fccba,12893172479503092922,"{
+  ""latitude"": 35.7312776,
+  ""longitude"": 139.7894261
+}"
+9,Tanger Outlets Southaven,"5205 Airways Blvd, Southaven, MS 38671",https://www.tangeroutlet.com/southaven,(662) 349-1701,,4.5,6988,,https://lh5.googleusercontent.com/p/AF1QipPEhrmp635fCw7Rmjl2Iak-oWxiEEQ6jo01W9t2=w122-h92-k-no,,Outlet mall,"[
+  ""Outlet mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Opens soon ⋅ 10 AM,"{
+  ""friday"": ""10 AM–9 PM"",
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""11 AM–7 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM""
+}",ChIJX_MnNw6Kf4gRGPqsGAu180A,0x887f8a0e3727f35f:0x40f3b50b18acfa18,4680283497031334424,"{
+  ""latitude"": 34.9362555,
+  ""longitude"": -89.9916172
+}"
+10,Shibuya Hikarie,"2 Chome-21-1 Shibuya, Tokyo 150-8510, Japan",https://www.hikarie.jp/,+81 3-5468-5892,,3.9,14219,,https://lh5.googleusercontent.com/p/AF1QipMNtRG0kzojfMl0_bcVIBBrRGa0lnyktnQ-e-gt=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall"",
+  ""Business park"",
+  ""Store""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–9 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJP6jlUFiLGGAR5fwuswd1KXA,0x60188b5850e5a83f:0x70297507b32efce5,8082119682224487653,"{
+  ""latitude"": 35.6591239,
+  ""longitude"": 139.7037298
+}"
+11,TKO BUILDING,"青山セブンハイツ, 3, 1 Chome-7-5 Shibuya, Tokyo 150-0002, Japan",,+81 3-5469-7122,,3,1,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aUVkU5KJNUfzuPjWq14gFQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=102.37855&pitch=0&thumbfov=100,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10:30 AM,"{
+  ""saturday"": ""10:30 AM–9 PM"",
+  ""sunday"": ""10:30 AM–9 PM"",
+  ""monday"": ""10:30 AM–9 PM"",
+  ""tuesday"": ""10:30 AM–9 PM"",
+  ""wednesday"": ""10:30 AM–9 PM"",
+  ""thursday"": ""10:30 AM–9 PM"",
+  ""friday"": ""10:30 AM–9 PM""
+}",ChIJVVX6kl6LGGAR1j3mDXHN2go,0x60188b5e92fa5555:0xadacd710de63dd6,782163370750393814,"{
+  ""latitude"": 35.6592175,
+  ""longitude"": 139.7082361
+}"
+12,染井銀座商店街,"6 Chome-26-13 Komagome, Toshima City, Tokyo 170-0003, Japan",,+81 3-3915-3234,,4.3,9,,https://lh5.googleusercontent.com/p/AF1QipMfVz9bZc_Cnckp040lxgg0TeAXoZolQ8Ldfd9R=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""10 AM–5:30 PM"",
+  ""tuesday"": ""10 AM–5:30 PM"",
+  ""wednesday"": ""11 AM–5 PM"",
+  ""thursday"": ""10 AM–5:30 PM"",
+  ""friday"": ""10 AM–5:30 PM""
+}",ChIJXzWuGJCNGGARa0qIP5oNMXo,0x60188d9018ae355f:0x7a310d9a3f884a6b,8804833702628051563,"{
+  ""latitude"": 35.740791699999996,
+  ""longitude"": 139.7435973
+}"
+13,Tokyu Square Gotanda,"2 Chome-1-2 Higashigotanda, Shinagawa City, Tokyo 141-0022, Japan",https://www.gotanda-tokyu-square.com/,+81 3-6422-0315,,3.6,2028,,https://lh5.googleusercontent.com/p/AF1QipMayV8IGDzAZt4sNjTwrue5uTlmZ4CoAsvj5_Gf=w163-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJ2wpbVPqKGGARi18ChLjvZc0,0x60188afa545b0adb:0xcd65efb884025f8b,14800499326190772107,"{
+  ""latitude"": 35.625497599999996,
+  ""longitude"": 139.7245702
+}"
+14,Gotemba Premium Outlets,"1312 Fukasawa, Gotemba, Shizuoka 412-0023, Japan",https://www.premiumoutlets.co.jp/gotemba/,+81 550-81-3122,,4.1,25908,,https://lh5.googleusercontent.com/p/AF1QipMOttGpxy2LKhBfXOvDqQffFmbYezEKEeZb6fuC=w163-h92-k-no,,Outlet mall,"[
+  ""Outlet mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–7 PM"",
+  ""sunday"": ""10 AM–7 PM"",
+  ""monday"": ""10 AM–7 PM"",
+  ""tuesday"": ""10 AM–7 PM"",
+  ""wednesday"": ""10 AM–7 PM"",
+  ""thursday"": ""10 AM–7 PM"",
+  ""friday"": ""10 AM–7 PM""
+}",ChIJ1xlIF991GWARhCPTCES1sFA,0x601975df174819d7:0x50b0b54408d32384,5814346422745768836,"{
+  ""latitude"": 35.3067588,
+  ""longitude"": 138.96206859999998
+}"
+15,AEON LakeTown OUTLET,"4 Chome-1-1 Lake Town, Koshigaya, Saitama 343-0828, Japan",http://laketown-outlet.jp/?utm_source=google_maps&utm_medium=organic&utm_campaign=website,+81 48-940-0700,,3.9,6990,,https://lh5.googleusercontent.com/p/AF1QipPzqBr4LimNxHOBJ9yZLmID-Jl0J-WjEn1I4QIh=w130-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJmyj7mhmXGGARFFrzY5Ovtt4,0x601897199afb289b:0xdeb6af9363f35a14,16048207369753287188,"{
+  ""latitude"": 35.8808758,
+  ""longitude"": 139.8247389
+}"
+16,Sunny Mall Nishi-Kasai,"4 Chome-2-28 Nishikasai, Edogawa City, Tokyo 134-0088, Japan",,+81 3-5676-1829,,3.8,2794,,https://lh5.googleusercontent.com/p/AF1QipNG-b4Em1a1by8-kHa06Egeb5kvx9emAmGQNpNb=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJ45j5ceeHGGARDBFbjntLtvk,0x601887e771f998e3:0xf9b64b7b8e5b110c,17993652355246788876,"{
+  ""latitude"": 35.668344499999996,
+  ""longitude"": 139.8618395
+}"
+17,Kannondoori street,"Kannondoori, 1 Chome-32-1 Asakusa, Taito City, Tokyo 111-0032, Japan",,,,,,,https://lh5.googleusercontent.com/p/AF1QipNDRLGbWj2_olZyZbz7oH28ij9RRljMPoI-Lnuj=w80-h106-k-no,TRUE,Outlet mall,"[
+  ""Outlet mall""
+]",,,,ChIJhdddBHSPGGARgb75Sp1trQY,0x60188f74045dd785:0x6ad6d9d4af9be81,481161257533685377,"{
+  ""latitude"": 35.711816899999995,
+  ""longitude"": 139.7970585
+}"
+18,Shibuya PRIME,"2 Chome-29-5 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",http://www.the-prime.net/,+81 3-3770-0111,,3.8,1047,,https://lh5.googleusercontent.com/p/AF1QipNxNdLbv0YS4aqSfiWNdzb6ygwJpq9EgBpsLI2u=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJaff9zqmMGGARQMqvB6tY8pU,0x60188ca9cefdf769:0x95f258ab07afca40,10804795947606854208,"{
+  ""latitude"": 35.6594915,
+  ""longitude"": 139.6983876
+}"
+19,Kisarazu Outlet,"Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−10−2 ＯＫＵＲＡレジデンス北参道",,,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=drsIl9taPa1vGfTjqQXMPQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=187.94017&pitch=0&thumbfov=100,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,,,ChIJsYRffwCNGGAR6ptj69SEXb0,0x60188d007f5f84b1:0xbd5d84d4eb639bea,13645208496019577834,"{
+  ""latitude"": 35.6799262,
+  ""longitude"": 139.70607429999998
+}"
+20,Aeon Style,"5 Chome-6-1 Himonya, Meguro City, Tokyo 152-0003, Japan",,+81 3-6412-8115,,3.7,45,,https://lh5.googleusercontent.com/p/AF1QipNIZRcAZDN3YoXnxB7DOAxG6kW3B5ZnDdLsDq2X=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""Department store""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–9 PM"",
+  ""sunday"": ""9 AM–9 PM"",
+  ""monday"": ""9 AM–9 PM"",
+  ""tuesday"": ""9 AM–9 PM"",
+  ""wednesday"": ""9 AM–9 PM"",
+  ""thursday"": ""9 AM–9 PM"",
+  ""friday"": ""9 AM–9 PM""
+}",ChIJ1-Bvgfn1GGARBrC1Uj8ioCg,0x6018f5f9816fe0d7:0x28a0223f52b5b006,2927377413156745222,"{
+  ""latitude"": 35.6229364,
+  ""longitude"": 139.6841086
+}"
+1,Reedom Essence,"Japan, 〒134-0083 Tokyo, Nakakasai",,+81 80-3511-8558,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9bmHtOsimtVfY9uRkyHtIA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.37538&pitch=0&thumbfov=100,TRUE,Outlet mall,"[
+  ""Outlet mall""
+]",,,,ChIJA72K74WHGGAR5uWhwYfVcEM,0x60188785ef8abd03:0x4370d587c1a1e5e6,4859618776978679270,"{
+  ""latitude"": 35.6645549,
+  ""longitude"": 139.867526
+}"
+2,SENJU MILDIX Ichiban-kan,"3 Chome-９２ Senju, Adachi City, Tokyo 120-0034, Japan",http://www.senju-mildix.jp/,+81 3-5813-0012,,3.6,4094,,https://lh5.googleusercontent.com/p/AF1QipOQYgr8WjHHFeW0mB6WQU7UUGpdD-NRUJy8esLh=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJs9Foak-OGGARRjmCAF01UN0,0x60188e4f6a68d1b3:0xdd50355d00823946,15947304954075691334,"{
+  ""latitude"": 35.7508258,
+  ""longitude"": 139.804575
+}"
+3,Wanza Ariake Bay Mall,"3 Chome-6-11 Ariake, Koto City, Tokyo 135-0063, Japan",https://www.tokyo-odaiba.net/genre/tft%E3%83%93%E3%83%AB%EF%BC%88%E3%83%AF%E3%83%B3%E3%82%B6%E6%9C%89%E6%98%8E%E3%83%99%E3%82%A4%E3%83%A2%E3%83%BC%E3%83%AB%EF%BC%89/,+81 3-5530-5001,,3.5,669,,https://lh5.googleusercontent.com/p/AF1QipMCw9801NLGO87Qs7aun8hQmEiYMhKsGHOY2lsJ=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–9 PM"",
+  ""sunday"": ""8 AM–9 PM"",
+  ""monday"": ""8 AM–9 PM"",
+  ""tuesday"": ""8 AM–9 PM"",
+  ""wednesday"": ""8 AM–9 PM"",
+  ""thursday"": ""8 AM–9 PM"",
+  ""friday"": ""8 AM–9 PM""
+}",ChIJJaBnMuaJGGARF0fYPQAKG6U,0x601889e63267a025:0xa51b0a003dd84717,11897113836783159063,"{
+  ""latitude"": 35.6309002,
+  ""longitude"": 139.7905701
+}"
+4,EKIMISE Asakusa,"1 Chome-4-1 Hanakawado, Taito City, Tokyo 111-0033, Japan",https://ekimise.jp/,+81 3-6802-8633,,3.6,2054,,https://lh5.googleusercontent.com/p/AF1QipNKObc_2pbpvhVu0sO6H5MCS-pDddrgYGCGa5ZL=w184-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJmSCVp8aOGGARCnkg9Q5Jn9w,0x60188ec6a7952099:0xdc9f490ef520790a,15897505538232056074,"{
+  ""latitude"": 35.7119894,
+  ""longitude"": 139.798349
+}"
+5,Forte,"5 Chome-1-28 Hinode, Urayasu, Chiba 279-0013, Japan",https://www.belc.jp/shoppingmall/0140,,,4,154,,https://lh5.googleusercontent.com/p/AF1QipNm-yAZ8ZAvJqv5ns599e3-mqoacBlJULFIOv0I=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–12 AM"",
+  ""sunday"": ""9 AM–12 AM"",
+  ""monday"": ""9 AM–12 AM"",
+  ""tuesday"": ""9 AM–12 AM"",
+  ""wednesday"": ""9 AM–12 AM"",
+  ""thursday"": ""9 AM–12 AM"",
+  ""friday"": ""9 AM–12 AM""
+}",ChIJMcXTwIR9GGARFDLMHMA8New,0x60187d84c0d3c531:0xec353cc01ccc3214,17020577162531189268,"{
+  ""latitude"": 35.6423369,
+  ""longitude"": 139.9259868
+}"
+6,Patria,"1 Chome-3-6 Seishincho, Edogawa City, Tokyo 134-0087, Japan",https://www.nul.co.jp/institutions/?p=71,+81 3-3878-1227,,3.7,630,,https://lh5.googleusercontent.com/p/AF1QipMIToGkg2EBFsbLl0qynA6UlP2hVGVfIW2mFyAX=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJb-QaGeKHGGARJxAyh05_ddk,0x601887e2191ae46f:0xd9757f4e87321027,15669570453757890599,"{
+  ""latitude"": 35.6619919,
+  ""longitude"": 139.85595859999998
+}"
+7,Urban Dock LaLaport Toyosu2,"2 Chome-1-14 Toyosu, Koto City, Tokyo 135-0061, Japan",https://mitsui-shopping-park.com/lalaport/toyosu/,+81 3-6910-1234,,3.8,1323,,https://lh5.googleusercontent.com/p/AF1QipNv1ETEB_cReEtKLsfbAyD8Ma1RXlCUQDPBnE5k=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJdXLK96GJGGARPTXMEDQTK10,0x601889a1f7ca7275:0x5d2b133410cc353d,6713480783866901821,"{
+  ""latitude"": 35.6559601,
+  ""longitude"": 139.7941244
+}"
+8,Rakutenchi,"4 Chome-27-14 Kotobashi, Sumida City, Tokyo 130-8535, Japan",https://www.rakutenchi.co.jp/,,,3.8,1175,,https://lh5.googleusercontent.com/p/AF1QipMqZoxUOLt2baGj8ZC2H4hMjeuwVGSyIW5nxhk=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–9 PM"",
+  ""sunday"": ""11 AM–9 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJCbzMKHGJGGARZQIV1xC_CSI,0x6018897128ccbc09:0x2209bf10d7150265,2452701551128805989,"{
+  ""latitude"": 35.6962542,
+  ""longitude"": 139.8157889
+}"
+9,Gachapon,"3 Chome-15-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",,,,4.1,12,,https://lh5.googleusercontent.com/p/AF1QipONWYuVI9wn8K3e8fGdUB1WvHibHr1xdVwrdUev=w80-h142-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJx0lt2HaNGGARHNnHTfCSuGA,0x60188d76d86d49c7:0x60b892f04dc7d91c,6969481984150591772,"{
+  ""latitude"": 35.7018632,
+  ""longitude"": 139.7714006
+}"
+10,Park City Musashikoyama THE MALL,"3 Chome-15-1 Koyama, Shinagawa City, Tokyo 142-0062, Japan",https://pcmk.jp/,+81 3-6426-4848,,3.4,147,,https://lh5.googleusercontent.com/p/AF1QipPk0fSuUEKQtdJL7VZ-ybWIMaAO32ifvT9kIMlT=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJVWTD2i2LGGARyDH3XXSOCAQ,0x60188b2ddac36455:0x4088e745df731c8,290638806409228744,"{
+  ""latitude"": 35.619893499999996,
+  ""longitude"": 139.7044833
+}"
+11,HULIC SQUARE TOKYO,"2 Chome-2-3 Yurakucho, Chiyoda City, Tokyo 100-0006, Japan",https://www.hulic-square.jp/tokyo/,,,4,147,,https://lh5.googleusercontent.com/p/AF1QipMlaXJddxFjiwk5iwoZFJ8YLvh8WsC2GEIooHGJ=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""saturday"": ""9:30 AM–9 PM"",
+  ""sunday"": ""9:30 AM–9 PM"",
+  ""monday"": ""9:30 AM–9 PM"",
+  ""tuesday"": ""9:30 AM–9 PM"",
+  ""wednesday"": ""9:30 AM–9 PM"",
+  ""thursday"": ""9:30 AM–9 PM"",
+  ""friday"": ""9:30 AM–9 PM""
+}",ChIJE81GL82LGGARsBxKjCFkSkU,0x60188bcd2f46cd13:0x454a64218c4a1cb0,4992913232143981744,"{
+  ""latitude"": 35.6730209,
+  ""longitude"": 139.7617637
+}"
+12,Kisarazu Outlet,"Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 4 Chome−10−2 ＯＫＵＲＡレジデンス北参道",,,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=drsIl9taPa1vGfTjqQXMPQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=187.94017&pitch=0&thumbfov=100,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,,,ChIJsYRffwCNGGAR6ptj69SEXb0,0x60188d007f5f84b1:0xbd5d84d4eb639bea,13645208496019577834,"{
+  ""latitude"": 35.6799262,
+  ""longitude"": 139.70607429999998
+}"
+13,Shinjuku Central Park SHUKNOVA,"2 Chome-11-5 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",https://shuknova.com/,+81 3-5323-2500,,4.2,267,,https://lh5.googleusercontent.com/p/AF1QipNCWask3PK1iHvgQLOuUq5NcKDKDaiyNgN8zxXP=w132-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""Restaurant""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–6 PM"",
+  ""sunday"": ""8 AM–6 PM"",
+  ""monday"": ""7 AM–9 PM"",
+  ""tuesday"": ""7 AM–9 PM"",
+  ""wednesday"": ""7 AM–9 PM"",
+  ""thursday"": ""7 AM–9 PM"",
+  ""friday"": ""7 AM–9 PM""
+}",ChIJffABxRrzGGARPnzEH64zTOE,0x6018f31ac501f07d:0xe14c33ae1fc47c3e,16234407579714092094,"{
+  ""latitude"": 35.691183599999995,
+  ""longitude"": 139.69015
+}"
+14,MINOWORLD,"1 Chome-8-1 Higashinippori, Arakawa City, Tokyo 116-0014, Japan",,,,3.1,29,,https://lh5.googleusercontent.com/p/AF1QipM8zyUbpAIvPVJYRkegMSt8aXWvaB-agJToCgM-=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJZQjCFIqOGGARusyfJA_A7bI,0x60188e8a14c20865:0xb2edc00f249fccba,12893172479503092922,"{
+  ""latitude"": 35.7312776,
+  ""longitude"": 139.7894261
+}"
+15,Shirokane Shotengai Shopping Street,"田島町会館, 3 Chome-2-5 Shirokane, Minato City, Tokyo 108-0072, Japan",,,,3.5,55,,https://lh5.googleusercontent.com/p/AF1QipMY1LqMlFyyCSnMei9TCoTo65LsbO0l0wBRDdXr=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Open 24 hours,"{
+  ""saturday"": ""Open 24 hours"",
+  ""sunday"": ""Open 24 hours"",
+  ""monday"": ""Open 24 hours"",
+  ""tuesday"": ""Open 24 hours"",
+  ""wednesday"": ""Open 24 hours"",
+  ""thursday"": ""Open 24 hours"",
+  ""friday"": ""Open 24 hours""
+}",ChIJa4PALAiLGGAR3XkeUh8coyY,0x60188b082cc0836b:0x26a31c1f521e79dd,2784099915492391389,"{
+  ""latitude"": 35.6467635,
+  ""longitude"": 139.7315411
+}"
+16,EQUiA Hikifune,"2 Chome-26-10 Higashimukojima, Sumida City, Tokyo 131-0032, Japan",https://www.tobu-equia.com/hikifune/index.html,+81 3-3611-3518,,3.5,148,,https://lh5.googleusercontent.com/p/AF1QipOQp3-T5Uafly1ppxmAoS6vspG0Ji3Q6yUZJ3n_=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–9 PM"",
+  ""sunday"": ""11 AM–9 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJs8yQ9WGPGGARl4_XwUU2KC0,0x60188f61f590ccb3:0x2d283645c1d78f97,3253910404007956375,"{
+  ""latitude"": 35.7181636,
+  ""longitude"": 139.8165835
+}"
+17,Shibuya PRIME,"2 Chome-29-5 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",http://www.the-prime.net/,+81 3-3770-0111,,3.8,1047,,https://lh5.googleusercontent.com/p/AF1QipNxNdLbv0YS4aqSfiWNdzb6ygwJpq9EgBpsLI2u=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJaff9zqmMGGARQMqvB6tY8pU,0x60188ca9cefdf769:0x95f258ab07afca40,10804795947606854208,"{
+  ""latitude"": 35.6594915,
+  ""longitude"": 139.6983876
+}"
+18,Across Plaza Urayasu Higashino,"3 Chome-4-1 Higashino, Urayasu, Chiba 279-0042, Japan",https://acrossplaza.jp/facility/urayasuhigashino.html,,,3.7,424,,https://lh5.googleusercontent.com/p/AF1QipM4z6yWv-AnJMp-Ioxk45C7O-8JvUAQ3rRs2yTH=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–12 AM"",
+  ""sunday"": ""8 AM–12 AM"",
+  ""monday"": ""8 AM–12 AM"",
+  ""tuesday"": ""8 AM–12 AM"",
+  ""wednesday"": ""8 AM–12 AM"",
+  ""thursday"": ""8 AM–12 AM"",
+  ""friday"": ""8 AM–12 AM""
+}",ChIJMeD3TXR9GGAR7G0au-shXps,0x60187d744df7e031:0x9b5e21ebbb1a6dec,11195423020029734380,"{
+  ""latitude"": 35.6473679,
+  ""longitude"": 139.8930174
+}"
+19,unison mall,"5 Chome-1-1 Higashinakano, Nakano City, Tokyo 164-0003, Japan",https://ekishop.keio-sc.jp/higashinakano/,+81 3-5348-2201,,3.5,524,,https://lh5.googleusercontent.com/p/AF1QipMMJdSdQbUtkLPeGyNibpiWthgMqIvs7w76xcR8=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–11:30 PM"",
+  ""sunday"": ""10 AM–11:30 PM"",
+  ""monday"": ""10 AM–11:30 PM"",
+  ""tuesday"": ""10 AM–11:30 PM"",
+  ""wednesday"": ""10 AM–11:30 PM"",
+  ""thursday"": ""10 AM–11:30 PM"",
+  ""friday"": ""10 AM–11:30 PM""
+}",ChIJhccLt8vyGGARjTUTXZvhh_0,0x6018f2cbb70bc785:0xfd87e19b5d13358d,18268818470849426829,"{
+  ""latitude"": 35.7067772,
+  ""longitude"": 139.68729
+}"
+20,Shoten,"1 Chome-1378-2 Kaijinchohigashi, Funabashi, Chiba 273-0028, Japan",,,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Q-IfpmIddE_1enRB7hh3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=227.43736&pitch=0&thumbfov=100,,Outlet mall,"[
+  ""Outlet mall""
+]",,,,ChIJj2CcMXuBGGARMnkccoI10WI,0x6018817b319c608f:0x62d13582721c7932,7120531320225954098,"{
+  ""latitude"": 35.701747499999996,
+  ""longitude"": 139.9714985
+}"
+1,Mitsui Building No. 2,"Japan, 〒103-0022 Tokyo, Chuo City, Nihonbashimuromachi, 2 Chome−1−1, 日本橋三井二号館",https://mitsui-shopping-park.com/urban/mitsuitower/,,,3.7,47,,https://lh5.googleusercontent.com/p/AF1QipP657mDOX1loL4DqAUR0DunVCa_MxrmNuQDwFaP=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""Coworking space""
+]",,Closed ⋅ Opens 7:30 AM,"{
+  ""saturday"": ""7:30 AM–11 PM"",
+  ""sunday"": ""7:30 AM–11 PM"",
+  ""monday"": ""7:30 AM–11 PM"",
+  ""tuesday"": ""7:30 AM–11 PM"",
+  ""wednesday"": ""7:30 AM–11 PM"",
+  ""thursday"": ""7:30 AM–11 PM"",
+  ""friday"": ""7:30 AM–11 PM""
+}",ChIJLwLE1v-LGGARWvym-0SJzKQ,0x60188bffd6c4022f:0xa4cc8944fba6fc5a,11875017246841961562,"{
+  ""latitude"": 35.686863599999995,
+  ""longitude"": 139.7724807
+}"
+2,Frente Shinjuku San-chōme,"3 Chome-4-8 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",https://ekishop.keio-sc.jp/shinjuku/,,,3.5,847,,https://lh5.googleusercontent.com/p/AF1QipOZC1JbhyAdPBr4x2Dvr2XZ6mTkAjNMtiPEBRHr=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–11 PM"",
+  ""sunday"": ""11 AM–11 PM"",
+  ""monday"": ""11 AM–11 PM"",
+  ""tuesday"": ""11 AM–11 PM"",
+  ""wednesday"": ""11 AM–11 PM"",
+  ""thursday"": ""11 AM–11 PM"",
+  ""friday"": ""11 AM–11 PM""
+}",ChIJgSDxctuMGGARMLn0WSDuPeM,0x60188cdb72f12081:0xe33dee2059f4b930,16374505642904566064,"{
+  ""latitude"": 35.690956299999996,
+  ""longitude"": 139.7052979
+}"
+3,Porta Kagurazaka,"2 Chome-6-1 Kagurazaka, Shinjuku City, Tokyo 162-0825, Japan",,,,3.7,187,,https://lh5.googleusercontent.com/p/AF1QipPAF2EP-AEMYAenHaiOxnXIRuaaKsJROYpwQ9CP=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–7:30 PM"",
+  ""sunday"": ""10 AM–7:30 PM"",
+  ""monday"": ""10 AM–7:30 PM"",
+  ""tuesday"": ""10 AM–7:30 PM"",
+  ""wednesday"": ""10 AM–7:30 PM"",
+  ""thursday"": ""10 AM–7:30 PM"",
+  ""friday"": ""10 AM–7:30 PM""
+}",ChIJVVXlOluMGGARUfIoDtgwVqs,0x60188c5b3ae55555:0xab5630d80e28f251,12346109132991427153,"{
+  ""latitude"": 35.7006695,
+  ""longitude"": 139.7414522
+}"
+4,AEON LakeTown OUTLET,"4 Chome-1-1 Lake Town, Koshigaya, Saitama 343-0828, Japan",http://laketown-outlet.jp/?utm_source=google_maps&utm_medium=organic&utm_campaign=website,+81 48-940-0700,,3.9,6990,,https://lh5.googleusercontent.com/p/AF1QipPzqBr4LimNxHOBJ9yZLmID-Jl0J-WjEn1I4QIh=w130-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJmyj7mhmXGGARFFrzY5Ovtt4,0x601897199afb289b:0xdeb6af9363f35a14,16048207369753287188,"{
+  ""latitude"": 35.8808758,
+  ""longitude"": 139.8247389
+}"
+5,EQUiA Ikebukuro,"東武池袋駅構内, 1 Chome-1-21 Nishiikebukuro, Toshima City, Tokyo 171-8512, Japan",http://www.tobu-equia.com/ikebukuro/index.html,,,3.7,90,,https://lh5.googleusercontent.com/p/AF1QipMBtHOgEQ8cYu1Rra_zt6VatzVaRVCK9kMyruhR=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–9 PM"",
+  ""sunday"": ""11 AM–9 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJ_Rwl9JaNGGARVzBLGPjFLvo,0x60188d96f4251cfd:0xfa2ec5f8184b3057,18027564027760816215,"{
+  ""latitude"": 35.7307239,
+  ""longitude"": 139.7109736
+}"
+6,Rakkurakku Tokyu Plaza Omotesandoharajukuten,"東急プラザﾞ表参道 4F, 4 Chome-30-3 Jingumae, Shibuya, Tokyo 150-0001, Japan",https://luckrack.com/store/tokyu-plaza-omotesando/index.html?utm_source=GMB&utm_medium=organic,+81 3-6434-9461,,3.7,38,,https://lh5.googleusercontent.com/p/AF1QipOogB08de-eVXSTueyV5OxP7BnK8Nt1kG6wlLUf=w139-h92-k-no,,Clothing store,"[
+  ""Clothing store"",
+  ""Cosmetics store"",
+  ""Duty free store"",
+  ""Fashion accessories store"",
+  ""Handbags shop"",
+  ""Hat shop"",
+  ""Outerwear store"",
+  ""Outlet store"",
+  ""Shoe store""
+]","{
+  ""in_store_shopping"": true
+}",Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJ8X0lyv-NGGAReU3q45BiY5c,0x60188dffca257df1:0x97636290e3ea4d79,10908671096860069241,"{
+  ""latitude"": 35.6687294,
+  ""longitude"": 139.7059549
+}"
+7,SHOPPING PROMENADE,"Japan, 〒279-0031 Chiba, Urayasu, Maihama, 1-9, シェラトン・グランデ・トーキョーベイ・ホテル",https://www.marriott.co.jp/hotels/travel/tyosi-sheraton-grande-tokyo-bay-hotel/,+81 47-355-5555,,,,,https://lh5.googleusercontent.com/p/AF1QipPKAE5KFYJ49x8faXSyBvrsH37eTlsg1UwocdaV=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJoyk-j7p9GGARhKB6CrNt7gg,0x60187dba8f3e29a3:0x8ee6db30a7aa084,643572412502941828,"{
+  ""latitude"": 35.626215699999996,
+  ""longitude"": 139.8770624
+}"
+8,MITSUI OUTLET PARK A-SITE,"Japan, 〒261-0021 Chiba, Mihama Ward, Hibino, 2-chōme",,+81 43-212-8200,,4,130,,https://lh5.googleusercontent.com/p/AF1QipMq11lBhal3SYTIs6QD0-CKZaXnagc03UhTUHot=w163-h92-k-no,TRUE,Outlet mall,"[
+  ""Outlet mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJb6raTSCCImARAyCLFPM6fiw,0x602282204ddaaa6f:0x2c7e3af3148b2003,3206064800430497795,"{
+  ""latitude"": 35.6476502,
+  ""longitude"": 140.0419766
+}"
+9,Mitsui Outlet Park Makuhari,"2 Chome-６-1 Hibino, Mihama Ward, Chiba, 261-0021, Japan",https://mitsui-shopping-park.com/mop/makuhari/,+81 43-212-8200,,3.8,9253,,https://lh5.googleusercontent.com/p/AF1QipPPkL9Bo3HuSfygJugv2i6bJQTuLcQiBc9f9vT-=w138-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJ__9vix-CImARLs7fd64mSY4,0x6022821f8b6fffff:0x8e4926ae77dfce2e,10252768557462965806,"{
+  ""latitude"": 35.6472857,
+  ""longitude"": 140.0413817
+}"
+10,Tabata Ginza Shopping Street,"3 Chome-7-7 Tabata, Kita City, Tokyo 114-0014, Japan",http://www.tabataginza.com/,,,3.7,42,,https://lh5.googleusercontent.com/p/AF1QipNnyjFofLaT4CcBpXTfJgsqut1Rxrlndt5Fu17g=w80-h142-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJN0G-33CNGGARLraCaLCj9Rg,0x60188d70dfbe4137:0x18f5a3b06882b62e,1798523604267349550,"{
+  ""latitude"": 35.7359484,
+  ""longitude"": 139.7528122
+}"
+11,1st Floor of Telecom Center,"2 Chome-5-10 Aomi, Koto City, Tokyo 135-0064, Japan",,,,5,1,,https://lh5.googleusercontent.com/p/AF1QipN29ICawf4yyuKQYfFeLzpsICQxVw-affJxjk60=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJaZr7-5xjGGAR3E_OdD_RewU,0x6018639cfbfb9a69:0x57bd13f74ce4fdc,395139462797873116,"{
+  ""latitude"": 35.617028399999995,
+  ""longitude"": 139.7800364
+}"
+12,City Terrace Mall | Kanamachi,"6 Chome-2-15 Niijuku, Katsushika City, Tokyo 125-0051, Japan",,,,3.5,98,,https://lh5.googleusercontent.com/p/AF1QipNF4Jqr7sTrBXR2ntK62rQ4KFNKIHkU2LbliqGk=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJo2dDae6FGGARvnXW6yRSeQk,0x601885ee694367a3:0x9795224ebd675be,682667137052341694,"{
+  ""latitude"": 35.769689899999996,
+  ""longitude"": 139.8635641
+}"
+13,アールイズ・ウエディング,"i liv, 5F, 5 Chome-7-6 Ginza, Chuo City, Tokyo 104-0061, Japan",,,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w38QiG55jxTyf3suFhydmQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=323.83218&pitch=0&thumbfov=100,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8:30 PM"",
+  ""sunday"": ""10 AM–8:30 PM"",
+  ""monday"": ""10 AM–8:30 PM"",
+  ""tuesday"": ""10 AM–8:30 PM"",
+  ""wednesday"": ""10 AM–8:30 PM"",
+  ""thursday"": ""10 AM–8:30 PM"",
+  ""friday"": ""10 AM–8:30 PM""
+}",ChIJD-soNieLGGARU9zWaz7Zna4,0x60188b273628eb0f:0xae9dd93e6bd6dc53,12582451796063476819,"{
+  ""latitude"": 35.6709326,
+  ""longitude"": 139.76436429999998
+}"
+14,LOVERS,"Japan, 〒111-0041 Tokyo, Taito City, Motoasakusa, 3 Chome−3−5 リーラ仲御徒町, リーラ仲御徒町103",http://lovers.on.omisenomikata.jp/,+81 3-3841-0975,,3.5,10,,https://lh5.googleusercontent.com/p/AF1QipP_npyC2jhYytUs7EyUXXqM4fgRnupCt6WkJ_Y4=w122-h92-k-no,TRUE,Outlet store,"[
+  ""Outlet store"",
+  ""Clothing store"",
+  ""Men's clothing store""
+]","{
+  ""delivery"": false,
+  ""same_day_delivery"": false
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–7:30 PM"",
+  ""sunday"": ""10 AM–7:30 PM"",
+  ""monday"": ""10 AM–7:30 PM"",
+  ""tuesday"": ""10 AM–7:30 PM"",
+  ""wednesday"": ""10 AM–7:30 PM"",
+  ""thursday"": ""10 AM–7:30 PM"",
+  ""friday"": ""10 AM–7:30 PM""
+}",ChIJHe1BvbuOGGARXzhVLrKOTgw,0x60188ebbbd41ed1d:0xc4e8eb22e55385f,886803072571226207,"{
+  ""latitude"": 35.7067038,
+  ""longitude"": 139.78639239999998
+}"
+15,Toni One Shopping Center,"1 Chome-5-2 Komatsugawa, Edogawa City, Tokyo 132-0034, Japan",,,,3.3,234,,https://lh5.googleusercontent.com/p/AF1QipN7tCYiDgPgRotPSVYOBwbCx5MXYuGQVSbvfQjP=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–10 PM"",
+  ""sunday"": ""10 AM–10 PM"",
+  ""monday"": ""10 AM–10 PM"",
+  ""tuesday"": ""10 AM–10 PM"",
+  ""wednesday"": ""10 AM–10 PM"",
+  ""thursday"": ""10 AM–10 PM"",
+  ""friday"": ""10 AM–10 PM""
+}",ChIJcan7kYOIGGARoqueVxZEOo4,0x6018888391fba971:0x8e3a4416579eaba2,10248578764784970658,"{
+  ""latitude"": 35.689115099999995,
+  ""longitude"": 139.84998819999998
+}"
+16,Across Plaza Urayasu Higashino,"3 Chome-4-1 Higashino, Urayasu, Chiba 279-0042, Japan",https://acrossplaza.jp/facility/urayasuhigashino.html,,,3.7,424,,https://lh5.googleusercontent.com/p/AF1QipM4z6yWv-AnJMp-Ioxk45C7O-8JvUAQ3rRs2yTH=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–12 AM"",
+  ""sunday"": ""8 AM–12 AM"",
+  ""monday"": ""8 AM–12 AM"",
+  ""tuesday"": ""8 AM–12 AM"",
+  ""wednesday"": ""8 AM–12 AM"",
+  ""thursday"": ""8 AM–12 AM"",
+  ""friday"": ""8 AM–12 AM""
+}",ChIJMeD3TXR9GGAR7G0au-shXps,0x60187d744df7e031:0x9b5e21ebbb1a6dec,11195423020029734380,"{
+  ""latitude"": 35.6473679,
+  ""longitude"": 139.8930174
+}"
+17,Ginza Nine,"8 Chome-10 Ginza, Chuo City, Tokyo 104-0061, Japan",http://www.ginza9.com/,+81 3-3572-0621,,3.8,2692,,https://lh5.googleusercontent.com/p/AF1QipMtBjS0n6HL9K-iMjxVrcxilOWRyAX_id1eHKRB=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""in_store_shopping"": true,
+  ""onsite_services"": true
+}",Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJ19XJaeiLGGARYs9pRus3bN0,0x60188be869c9d5d7:0xdd6c37eb4669cf62,15955189063505006434,"{
+  ""latitude"": 35.667696299999996,
+  ""longitude"": 139.7604668
+}"
+18,Osaki Bright Plaza,"5 Chome-4-1 Kitashinagawa, Shinagawa City, Tokyo 141-0001, Japan",http://www.parkcityosaki-sr.jp/,,,3.8,149,,https://lh5.googleusercontent.com/p/AF1QipMPj6jbsV1TbbfGwuWOtr0-rG9evKNcT5xjU8gQ=w137-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 9:30 AM,"{
+  ""saturday"": ""9:30 AM–10 PM"",
+  ""sunday"": ""9:30 AM–10 PM"",
+  ""monday"": ""8 AM–10 PM"",
+  ""tuesday"": ""8 AM–10 PM"",
+  ""wednesday"": ""8 AM–10 PM"",
+  ""thursday"": ""8 AM–10 PM"",
+  ""friday"": ""8 AM–10 PM""
+}",ChIJtcUFAfaKGGARAtQj-KYPBgk,0x60188af60105c5b5:0x9060fa6f823d402,650224406003700738,"{
+  ""latitude"": 35.6217787,
+  ""longitude"": 139.7317929
+}"
+19,ゆうらく通り,"三元ビル ５Ｆ, 2 Chome-14-12 Sangenjaya, Setagaya City, Tokyo 154-0024, Japan",,,,,,,https://lh5.googleusercontent.com/p/AF1QipPKWAmdnXCrtb7v4qIZXpqsTD0v8cdFFx5Ss_W3=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,,,ChIJ__Bsagn1GGARsYTXSmbZbeA,0x6018f5096a6cf0ff:0xe06dd9664ad784b1,16171820870322848945,"{
+  ""latitude"": 35.6431949,
+  ""longitude"": 139.66987469999998
+}"
+20,Aeon Town,"1 Chome-1-1 Owada, Ichikawa, Chiba 272-0025, Japan",https://www.aeontown.co.jp/ichikawaowada/?utm_source=google&utm_medium=gmb&utm_campaign=websiteurl_ihcikawaowada,,,3.6,228,,https://lh5.googleusercontent.com/p/AF1QipNJjJ1SMFlhBVShg9yy_qxvEhP4n7gB4t1pmP-2=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–12 AM"",
+  ""sunday"": ""9 AM–12 AM"",
+  ""monday"": ""9 AM–12 AM"",
+  ""tuesday"": ""9 AM–12 AM"",
+  ""wednesday"": ""9 AM–12 AM"",
+  ""thursday"": ""9 AM–12 AM"",
+  ""friday"": ""9 AM–12 AM""
+}",ChIJF0HsmbeHGGAR0IqAcgUdrck,0x601887b799ec4117:0xc9ad1d0572808ad0,14532303481827527376,"{
+  ""latitude"": 35.717847,
+  ""longitude"": 139.9219228
+}"
+1,Yurakucho Overpall Under Center Shopping Street,"3 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",,,,3.8,42,,https://lh5.googleusercontent.com/p/AF1QipN96MzgTTfgbSxhI3FSKEgoPP3qRrw_fQk4oNnm=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–12 AM"",
+  ""sunday"": ""10 AM–12 AM"",
+  ""monday"": ""10 AM–12 AM"",
+  ""tuesday"": ""10 AM–12 AM"",
+  ""wednesday"": ""10 AM–12 AM"",
+  ""thursday"": ""10 AM–12 AM"",
+  ""friday"": ""10 AM–12 AM""
+}",ChIJh8rtL-WLGGARzjl0HN2e62o,0x60188be52fedca87:0x6aeb9edd1c7439ce,7704426260049705422,"{
+  ""latitude"": 35.675502,
+  ""longitude"": 139.764289
+}"
+2,AEON STYLE SHINURAYASU SEMMONTENGAI,"1 Chome-4-1 Irifune, Urayasu, Chiba 279-0012, Japan",https://www.aeon.jp/sc/shinurayasu/,+81 47-350-1147,,3.9,569,,https://lh5.googleusercontent.com/p/AF1QipP0W9cNORvENilK2sECFhNFFN4n0EFso-YMrk_P=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–9 PM"",
+  ""sunday"": ""9 AM–9 PM"",
+  ""monday"": ""9 AM–9 PM"",
+  ""tuesday"": ""9 AM–9 PM"",
+  ""wednesday"": ""9 AM–9 PM"",
+  ""thursday"": ""9 AM–9 PM"",
+  ""friday"": ""9 AM–9 PM""
+}",ChIJqUnq7zl9GGARo3oqcBc3SHU,0x60187d39efea49a9:0x75483717702a7aa3,8451065274566343331,"{
+  ""latitude"": 35.648962999999995,
+  ""longitude"": 139.9147912
+}"
+3,Daikokuya Second Hand Brand Goods,"2 Chome-5-3 Azabujuban, Minato City, Tokyo 106-0045, Japan",,,,,,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sFauzBe-dRa-FzIND2yn8Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=225.2177&pitch=0&thumbfov=100,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJOXi4sJ-LGGARMaF6hJzZJqI,0x60188b9fb0b87839:0xa226d99c847aa131,11684265549520085297,"{
+  ""latitude"": 35.6563997,
+  ""longitude"": 139.73363659999998
+}"
+4,Azabudai Hills,"1 Chome Azabudai, Minato City, Tokyo 106-0041, Japan",https://www.azabudai-hills.com/index.html,+81 3-6433-8100,,4.3,2865,,https://lh5.googleusercontent.com/p/AF1QipMDAVQFZwund4y1yI1Jp2x2VtfoiC81_Pj4edN6=w80-h106-k-no,TRUE,Business park,"[
+  ""Business park"",
+  ""Outlet mall"",
+  ""Shopping mall"",
+  ""Tourist attraction""
+]","{
+  ""onsite_services"": true
+}",,,ChIJJSI0QC6LGGARwWmKE3MWmj8,0x60188b2e40342225:0x3f9a1673138a69c1,4583000254307789249,"{
+  ""latitude"": 35.6615447,
+  ""longitude"": 139.7408302
+}"
+5,Shinjuku i-Land it’s,"6 Chome-5-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",https://www.shinjuku-i-land.jp/,+81 3-5323-2010,,3.8,32,,https://lh5.googleusercontent.com/p/AF1QipNNAuFZt0flGi97DGbQoLGbh881JPtPElLC1t6P=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",,,ChIJifJkK-6NGGARKl9isLN6Q8M,0x60188dee2b64f289:0xc3437ab3b0625f2a,14070224573012533034,"{
+  ""latitude"": 35.6930319,
+  ""longitude"": 139.6933602
+}"
+6,Q plaza Futakotamagawa,"2 Chome-24-1 Tamagawa, Setagaya City, Tokyo 158-0094, Japan",http://www.q-plaza.jp/futakotamagawa/,+81 3-6431-0131,,3.8,251,,https://lh5.googleusercontent.com/p/AF1QipNmqnzp9p6dZCxjc0o_Bzj3YMb1euycz-V9Yv3U=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–12 AM"",
+  ""sunday"": ""10 AM–12 AM"",
+  ""monday"": ""10 AM–12 AM"",
+  ""tuesday"": ""10 AM–12 AM"",
+  ""wednesday"": ""10 AM–12 AM"",
+  ""thursday"": ""10 AM–12 AM"",
+  ""friday"": ""10 AM–12 AM""
+}",ChIJs4IoDRX0GGARcn9R69iHXFM,0x6018f4150d2882b3:0x535c87d8eb517f72,6006825368736071538,"{
+  ""latitude"": 35.613363899999996,
+  ""longitude"": 139.6278197
+}"
+7,alːku Asagaya,"2 Chome-40-1 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",https://www.jrtk.jp/al-ku/,,,3.7,40,,https://lh5.googleusercontent.com/p/AF1QipOP5yZsgyXQNW9_JApWcQoRIhYveHUUurPFM_Mg=w80-h110-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJF7uJlorzGGARXCom3lAptpE,0x6018f38a9689bb17:0x91b62950de262a5c,10499625008562055772,"{
+  ""latitude"": 35.7050561,
+  ""longitude"": 139.6398642
+}"
+8,Forte,"5 Chome-1-28 Hinode, Urayasu, Chiba 279-0013, Japan",https://www.belc.jp/shoppingmall/0140,,,4,154,,https://lh5.googleusercontent.com/p/AF1QipNm-yAZ8ZAvJqv5ns599e3-mqoacBlJULFIOv0I=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–12 AM"",
+  ""sunday"": ""9 AM–12 AM"",
+  ""monday"": ""9 AM–12 AM"",
+  ""tuesday"": ""9 AM–12 AM"",
+  ""wednesday"": ""9 AM–12 AM"",
+  ""thursday"": ""9 AM–12 AM"",
+  ""friday"": ""9 AM–12 AM""
+}",ChIJMcXTwIR9GGARFDLMHMA8New,0x60187d84c0d3c531:0xec353cc01ccc3214,17020577162531189268,"{
+  ""latitude"": 35.6423369,
+  ""longitude"": 139.9259868
+}"
+9,Mitsui Outlet Park Kisarazu,"3 Chome-１-1 Kanedahigashi, Kisarazu, Chiba 292-0009, Japan",https://mitsui-shopping-park.com/mop/kisarazu/,+81 438-38-6100,,4,15674,$$,https://lh5.googleusercontent.com/p/AF1QipPK-9M4iost_lBxpZEyO5eCx2FUtDjdPr0dFCXo=w122-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJL6_Sv4lzGGARwjaD7LL2agk,0x60187389bfd2af2f:0x96af6b2ec8336c2,678625942205314754,"{
+  ""latitude"": 35.4340459,
+  ""longitude"": 139.9344002
+}"
+10,Metoroemutakashimadaira,"9 Chome-23-1 Takashimadaira, Itabashi City, Tokyo 175-0082, Japan",https://www.tokyometro.jp/station/shop/others/metro_m_takashimadaira/index.html,+81 3-5827-5838,,3.5,1237,,https://lh5.googleusercontent.com/p/AF1QipOsmMaI4rvh---l78lxPU24b2Bk6umCFVGYi6f-=w80-h142-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJkyu8Yp7sGGARa_iMcFNbloc,0x6018ec9e62bc2b93:0x87965b53708cf86b,9770096855555569771,"{
+  ""latitude"": 35.790280599999996,
+  ""longitude"": 139.6662839
+}"
+11,Oji Metropia CocoPress,"1 Chome-10-18 Oji, Kita City, Tokyo 114-0002, Japan",https://www.tokyometro.jp/station/oji/shop/index.html,,,3.4,52,,https://lh5.googleusercontent.com/p/AF1QipN8GOhx4UPzm897Ve40RuemRowRYlBQoI0J4fF5=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–9 PM"",
+  ""tuesday"": ""11 AM–9 PM"",
+  ""wednesday"": ""11 AM–9 PM"",
+  ""thursday"": ""11 AM–9 PM"",
+  ""friday"": ""11 AM–9 PM""
+}",ChIJ84H0iHuSGGARykekWDuBk3c,0x6018927b88f481f3:0x7793813b58a447ca,8616372603980105674,"{
+  ""latitude"": 35.7538981,
+  ""longitude"": 139.7373859
+}"
+12,Shimura Shopping Center,"3 Chome-26-4 Shimura, Itabashi City, Tokyo 174-0056, Japan",,+81 3-5916-3210,,3.7,364,,https://lh5.googleusercontent.com/p/AF1QipMKly3ArZQ2HKFC5YSO8bTJYyroyDzwz0O5Hu55=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""saturday"": ""9 AM–12 AM"",
+  ""sunday"": ""9 AM–12 AM"",
+  ""monday"": ""9 AM–12 AM"",
+  ""tuesday"": ""9 AM–12 AM"",
+  ""wednesday"": ""9 AM–12 AM"",
+  ""thursday"": ""9 AM–12 AM"",
+  ""friday"": ""9 AM–12 AM""
+}",ChIJgT2fHxXtGGARWpetlDiRDxY,0x6018ed151f9f3d81:0x160f913894ad975a,1589648865683674970,"{
+  ""latitude"": 35.7784348,
+  ""longitude"": 139.68676159999998
+}"
+13,Aeon Ichikawa Myoden,"5 Chome-3-1 Myoden, Ichikawa, Chiba 272-0111, Japan",https://www.aeon.com/store/%E3%82%A4%E3%82%AA%E3%83%B3/%E3%82%A4%E3%82%AA%E3%83%B3%E5%B8%82%E5%B7%9D%E5%A6%99%E5%85%B8%E5%BA%97/,+81 47-397-9831,,3.6,2531,,https://lh5.googleusercontent.com/p/AF1QipMjRmhxyp_7ioDY7hK08c2n788fZEGEUEkUyPmL=w163-h92-k-no,,Shopping mall,"[
+  ""Shopping mall"",
+  ""Duty free store"",
+  ""Supermarket"",
+  ""Tenant ownership""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–11 PM"",
+  ""sunday"": ""8 AM–11 PM"",
+  ""monday"": ""8 AM–11 PM"",
+  ""tuesday"": ""8 AM–11 PM"",
+  ""wednesday"": ""8 AM–11 PM"",
+  ""thursday"": ""8 AM–11 PM"",
+  ""friday"": ""8 AM–11 PM""
+}",ChIJczj09EiHGGARAveZgEVkrnY,0x60188748f4f43873:0x76ae64458099f702,8551882992096245506,"{
+  ""latitude"": 35.6926947,
+  ""longitude"": 139.927549
+}"
+14,Ginza Komatsu,"6 Chome-9-5 Ginza, Chuo City, Tokyo 104-0061, Japan",https://mitsui-shopping-park.com/urban/komatsu/,+81 3-3571-5051,,4.3,420,,https://lh5.googleusercontent.com/p/AF1QipMw_iRS4V3w8yOnM9axHl0RJpkoJ_zjtoVhexDx=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJ___PGuaLGGARLhejPXsonbE,0x60188be61acfffff:0xb19d287b3da3172e,12798430225837004590,"{
+  ""latitude"": 35.6702448,
+  ""longitude"": 139.76346859999998
+}"
+15,Ginza INZ 1,"Japan, 〒100-0006 Tokyo, Chuo City, Ginza, 西３ー１先",http://www.ginza-inz.co.jp/,+81 3-3561-9461,,3.6,283,,https://lh5.googleusercontent.com/p/AF1QipPrhEm2of1b4taM6QvofYtbGSnPCkAmUMi6MqCi=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""ATM""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJ9WRzD-WLGGARhWa_TjZKpV0,0x60188be50f7364f5:0x5da54a364ebf6685,6747881213794412165,"{
+  ""latitude"": 35.674008199999996,
+  ""longitude"": 139.7643419
+}"
+16,unison mall,"5 Chome-1-1 Higashinakano, Nakano City, Tokyo 164-0003, Japan",https://ekishop.keio-sc.jp/higashinakano/,+81 3-5348-2201,,3.5,524,,https://lh5.googleusercontent.com/p/AF1QipMMJdSdQbUtkLPeGyNibpiWthgMqIvs7w76xcR8=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–11:30 PM"",
+  ""sunday"": ""10 AM–11:30 PM"",
+  ""monday"": ""10 AM–11:30 PM"",
+  ""tuesday"": ""10 AM–11:30 PM"",
+  ""wednesday"": ""10 AM–11:30 PM"",
+  ""thursday"": ""10 AM–11:30 PM"",
+  ""friday"": ""10 AM–11:30 PM""
+}",ChIJhccLt8vyGGARjTUTXZvhh_0,0x6018f2cbb70bc785:0xfd87e19b5d13358d,18268818470849426829,"{
+  ""latitude"": 35.7067772,
+  ""longitude"": 139.68729
+}"
+17,Tateishi Nakamise Shopping Street,"1 Chome-18 Tateishi, Katsushika City, Tokyo 124-0012, Japan",https://www.tateishinakamise.jp/,,,4.2,72,,https://lh5.googleusercontent.com/p/AF1QipPIKZuhrRB13dXagau48QZciQxyORUxxjakhImg=w137-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJfRhEXFuPGGARAMGBAJfATR8,0x60188f5b5c44187d:0x1f4dc0970081c100,2255670743163584768,"{
+  ""latitude"": 35.7381351,
+  ""longitude"": 139.8488074
+}"
+18,ドリアンドゥ,"Japan, 〒103-0002 Tokyo, Chuo City, Nihonbashibakurochō, 2-chōme−6",,+81 3-3249-5422,,3,1,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wVhzX_aRlcRaaR4SSVDpFg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=37.646393&pitch=0&thumbfov=100,TRUE,Outlet store,"[
+  ""Outlet store"",
+  ""Business management consultant"",
+  ""Clothing store"",
+  ""Telemarketing service"",
+  ""Women's clothing store""
+]",,Closed ⋅ Opens 10 AM Mon,"{
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""10 AM–5 PM"",
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM""
+}",ChIJEV7KirKOGGAR7ndlBp3HqRU,0x60188eb28aca5e11:0x15a9c79d066577ee,1560998223091693550,"{
+  ""latitude"": 35.6955174,
+  ""longitude"": 139.7843892
+}"
+19,吉祥寺ピアット,"1 Chome-5-3 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",,,,3.7,68,,https://lh5.googleusercontent.com/p/AF1QipPk2_cj3NNKHOnEms7S6OQfUc8EgxnTlQ8KbFP3=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJuZmqBkjuGGARGIS_7VYTRew,0x6018ee4806aa99b9:0xec451356edbf8418,17025035230420894744,"{
+  ""latitude"": 35.7027028,
+  ""longitude"": 139.5786099
+}"
+20,Marina Garden Shin-Urayasu,"5 Chome-7-5 Hinode, Urayasu, Chiba 279-0013, Japan",,,,3,1,,https://lh5.googleusercontent.com/p/AF1QipMMnW4ctrHmrD9Cw_uMqEHe6t0M5BVb7scW-9bz=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8:30 PM"",
+  ""sunday"": ""10 AM–8:30 PM"",
+  ""monday"": ""10 AM–8:30 PM"",
+  ""tuesday"": ""10 AM–8:30 PM"",
+  ""wednesday"": ""10 AM–8:30 PM"",
+  ""thursday"": ""10 AM–8:30 PM"",
+  ""friday"": ""10 AM–8:30 PM""
+}",ChIJi-FSUPB9GGAR2dbjJ1q1UAk,0x60187df05052e18b:0x950b55a27e3d6d9,671235743299131097,"{
+  ""latitude"": 35.641791999999995,
+  ""longitude"": 139.9304913
+}"
+1,Ginza INZ 1,"Japan, 〒100-0006 Tokyo, Chuo City, Ginza, 西３ー１先",http://www.ginza-inz.co.jp/,+81 3-3561-9461,,3.6,283,,https://lh5.googleusercontent.com/p/AF1QipPrhEm2of1b4taM6QvofYtbGSnPCkAmUMi6MqCi=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""ATM""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJ9WRzD-WLGGARhWa_TjZKpV0,0x60188be50f7364f5:0x5da54a364ebf6685,6747881213794412165,"{
+  ""latitude"": 35.674008199999996,
+  ""longitude"": 139.7643419
+}"
+2,Kirigaoka Central Shopping Street,"1 Chome-9-2 Kirigaoka, Kita City, Tokyo 115-0054, Japan",https://www.akabanefan.club/kirigaoka,,,3.7,132,,https://lh5.googleusercontent.com/p/AF1QipNW-I2U0_tEFnmdsyi3FQuerBHU_vBUmCwNZXVY=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""Store""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJfQprbSGTGGARTFm4Z5KtYfo,0x601893216d6b0a7d:0xfa61ad9267b8594c,18041892426539882828,"{
+  ""latitude"": 35.7764115,
+  ""longitude"": 139.7083117
+}"
+3,Mitsui Outlet Park Iruma,"3169-1 Miyadera, Iruma, Saitama 358-8515, Japan",https://mitsui-shopping-park.com/mop/iruma/,+81 4-2935-1616,,3.8,10863,,https://lh5.googleusercontent.com/p/AF1QipNc_VReEWw5nfL3xDnve3Fwrhtv3feS2LmojM8K=w122-h92-k-no,,Outlet mall,"[
+  ""Outlet mall"",
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJAzF_G0TfGGARW4ab9JKEkFg,0x6018df441b7f3103:0x58908492f49b865b,6381746438687917659,"{
+  ""latitude"": 35.810345399999996,
+  ""longitude"": 139.3802642
+}"
+4,アトラスタワー向ヶ丘遊園,"2130-2 Noborito, Tama Ward, Kawasaki, Kanagawa 214-0014, Japan",,,,3.5,76,,https://lh5.googleusercontent.com/p/AF1QipN-d_PSYXzROyEoTiiTlazEAcTLHOaAxbBPiWBq=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Open 24 hours,"{
+  ""saturday"": ""Open 24 hours"",
+  ""sunday"": ""Open 24 hours"",
+  ""monday"": ""Open 24 hours"",
+  ""tuesday"": ""Open 24 hours"",
+  ""wednesday"": ""Open 24 hours"",
+  ""thursday"": ""Open 24 hours"",
+  ""friday"": ""Open 24 hours""
+}",ChIJT5FVPdnwGGARwm8Owa4SAHI,0x6018f0d93d55914f:0x720012aec10e6fc2,8214586262096342978,"{
+  ""latitude"": 35.6182649,
+  ""longitude"": 139.565619
+}"
+5,Tokyu Square Garden Site,"2 Chome-62-3 Denenchofu, Ota City, Tokyo 145-0071, Japan",https://www.tokyusquare-gardensite.com/,+81 3-5483-5109,,3.7,284,,https://lh5.googleusercontent.com/p/AF1QipMaMknSVkuVVAlfdVYNP8lK0qfgSNDOqop7_WIp=w137-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJ1bQb7xb1GGARBPHpk4zECzY,0x6018f516ef1bb4d5:0x360bc48c93e9f104,3894422410847973636,"{
+  ""latitude"": 35.5967142,
+  ""longitude"": 139.6673682
+}"
+6,AEON STYLE Ontakesan Ekimae,"37-13 Kitaminemachi, Ota City, Tokyo 145-0073, Japan",https://www.aeon.com/store/%E3%82%A4%E3%82%AA%E3%83%B3/%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E5%BE%A1%E5%B6%BD%E5%B1%B1%E9%A7%85%E5%89%8D/,+81 3-3727-4000,,3.7,991,,https://lh5.googleusercontent.com/p/AF1QipPvQn-yqceCAefoo56_wocl1FP7okKmkd1gav57=w163-h92-k-no,,Shopping mall,"[
+  ""Shopping mall"",
+  ""Duty free store"",
+  ""Supermarket"",
+  ""Store""
+]","{
+  ""in_store_pickup"": true,
+  ""delivery"": true
+}",Closed ⋅ Opens 8 AM,"{
+  ""saturday"": ""8 AM–12 AM"",
+  ""sunday"": ""8 AM–12 AM"",
+  ""monday"": ""8 AM–12 AM"",
+  ""tuesday"": ""8 AM–12 AM"",
+  ""wednesday"": ""8 AM–12 AM"",
+  ""thursday"": ""8 AM–12 AM"",
+  ""friday"": ""8 AM–12 AM""
+}",ChIJwxteZFD1GGARii2i2m1fJ5Q,0x6018f550645e1bc3:0x94275f6ddaa22d8a,10675606367129185674,"{
+  ""latitude"": 35.5858083,
+  ""longitude"": 139.68175829999998
+}"
+7,Forest Mall Minami-Osawa,"2 Chome-２５ Minamiosawa, Hachioji, Tokyo 192-0364, Japan",http://minamiosawa.forest-mall.com/,+81 42-670-6572,,3.6,811,,https://lh5.googleusercontent.com/p/AF1QipPOnY6-_7zoSj7R0HuYxO06l9lU4hA1EK6rpr2c=w92-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Open 24 hours,"{
+  ""saturday"": ""Open 24 hours"",
+  ""sunday"": ""Open 24 hours"",
+  ""monday"": ""Open 24 hours"",
+  ""tuesday"": ""Open 24 hours"",
+  ""wednesday"": ""Open 24 hours"",
+  ""thursday"": ""Open 24 hours"",
+  ""friday"": ""Open 24 hours""
+}",ChIJVbcAXbfiGGARvllsCbxZpU8,0x6018e2b75d00b755:0x4fa559bc096c59be,5739091964300384702,"{
+  ""latitude"": 35.6130417,
+  ""longitude"": 139.381926
+}"
+8,ICB Tobuhyakkatenikebukuroten,"東武百貨店池袋店 3階, 1 Chome-1-25 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",https://www.onward.co.jp/,+81 3-3981-2750,,4,1,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3H32o_N-Kf4r0tcAaTlIgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=72.16277&pitch=0&thumbfov=100,,Shopping mall,"[
+  ""Shopping mall"",
+  ""Department store"",
+  ""Fashion accessories store"",
+  ""Outlet mall"",
+  ""Outlet store"",
+  ""Plus size clothing store"",
+  ""Clothing store"",
+  ""Store"",
+  ""Women's clothing store""
+]","{
+  ""same_day_delivery"": false
+}",,,ChIJb_iBhkSNGGAR3ahByNInex0,0x60188d448681f86f:0x1d7b27d2c841a8dd,2124335435491682525,"{
+  ""latitude"": 35.7306125,
+  ""longitude"": 139.71054709999999
+}"
+9,吉祥寺ピアット,"1 Chome-5-3 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",,,,3.7,68,,https://lh5.googleusercontent.com/p/AF1QipPk2_cj3NNKHOnEms7S6OQfUc8EgxnTlQ8KbFP3=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJuZmqBkjuGGARGIS_7VYTRew,0x6018ee4806aa99b9:0xec451356edbf8418,17025035230420894744,"{
+  ""latitude"": 35.7027028,
+  ""longitude"": 139.5786099
+}"
+10,Marina Garden Shin-Urayasu,"5 Chome-7-5 Hinode, Urayasu, Chiba 279-0013, Japan",,,,3,1,,https://lh5.googleusercontent.com/p/AF1QipMMnW4ctrHmrD9Cw_uMqEHe6t0M5BVb7scW-9bz=w80-h106-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8:30 PM"",
+  ""sunday"": ""10 AM–8:30 PM"",
+  ""monday"": ""10 AM–8:30 PM"",
+  ""tuesday"": ""10 AM–8:30 PM"",
+  ""wednesday"": ""10 AM–8:30 PM"",
+  ""thursday"": ""10 AM–8:30 PM"",
+  ""friday"": ""10 AM–8:30 PM""
+}",ChIJi-FSUPB9GGAR2dbjJ1q1UAk,0x60187df05052e18b:0x950b55a27e3d6d9,671235743299131097,"{
+  ""latitude"": 35.641791999999995,
+  ""longitude"": 139.9304913
+}"
+11,GINZA SWEETS MARCH,"Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 5 Chome−7−12",http://www.instagram.com/exitmelsa_ginza,+81 3-3573-5511,,3.8,17,,https://lh5.googleusercontent.com/p/AF1QipP4okPkG6Jkepby5IrqrybckjQvlUp0UWNXd7A9=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJhZ4jd9WLGGARhz20ZDqs-3s,0x60188bd577239e85:0x7bfbac3a64b43d87,8933923652617125255,"{
+  ""latitude"": 35.670669,
+  ""longitude"": 139.7640399
+}"
+12,atré Omori,"1 Chome-6-16 Omorikita, Ota City, Tokyo 143-0016, Japan",http://www.atre.co.jp/store/omori,+81 3-3763-3351,,3.6,3173,,https://lh5.googleusercontent.com/p/AF1QipOr7frAmUzTmtnK0f0hVlFnomwdMnLfVTLgxdxz=w122-h92-k-no,,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJTznOii1gGGARmBP5b9g8l08,0x6018602d8ace394f:0x4f973cd86ff91398,5735119550768812952,"{
+  ""latitude"": 35.588583899999996,
+  ""longitude"": 139.728378
+}"
+13,Tachihara Store,"7 Chome-13-1 Roppongi, Minato City, Tokyo 106-0032, Japan",,,,1,1,,https://lh5.googleusercontent.com/p/AF1QipNVAitp8RvXOl5gJHKLBmB86DhO7TY413iEzPNS=w196-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""saturday"": ""11 AM–8 PM"",
+  ""sunday"": ""11 AM–8 PM"",
+  ""monday"": ""11 AM–8 PM"",
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM""
+}",ChIJvdDo47WLGGARBajwEvbnpIw,0x60188bb5e3e8d0bd:0x8ca4e7f612f0a805,10134480105556191237,"{
+  ""latitude"": 35.6643642,
+  ""longitude"": 139.7307353
+}"
+14,Omori RaRa,"2 Chome-1-5 Sanno, Ota City, Tokyo 143-0023, Japan",https://www.ohmorirara.jp/,+81 3-3772-1131,,3.4,1107,,https://lh5.googleusercontent.com/p/AF1QipOq1mLUCg3Zb0Mwfkhqb9gguiyhQFTrpHyd8NGF=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJmzzfuS1gGGARdosfTI3b7HE,0x6018602db9df3c9b:0x71ecdb8d4c1f8b76,8209177620703578998,"{
+  ""latitude"": 35.5899503,
+  ""longitude"": 139.7284358
+}"
+15,Cute Cube Harajuku,"1 Chome-7-1 Jingumae, Shibuya, Tokyo 150-0001, Japan",https://cutecubeharajuku.com/,,,4,482,,https://lh5.googleusercontent.com/p/AF1QipMRo41efSTCl03WZ9B0KJb8M9CiqVytnwySNBgR=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall"",
+  ""Business park""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJtYmVtKSMGGARuV1DwEbFzZ0,0x60188ca4b49589b5:0x9dcdc546c0435db9,11370961541844393401,"{
+  ""latitude"": 35.6708584,
+  ""longitude"": 139.70533369999998
+}"
+16,TOSCA East,"3 Chome-32-6 Umejima, Adachi City, Tokyo 121-0816, Japan",http://www.nishiarai-tosca.com/,+81 3-3887-1311,,3.2,182,,https://lh5.googleusercontent.com/p/AF1QipPAHLekehjcwOKxwmMbeViE88cBtpcYKz5gPULP=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJh3zjtOeRGGARl9h2DYHsHLQ,0x601891e7b4e37c87:0xb41cec810d76d897,12978508265195755671,"{
+  ""latitude"": 35.7773058,
+  ""longitude"": 139.7908297
+}"
+17,Toyosu Center Building Ai Plaza,"3 Chome-3 Toyosu, Koto City, Tokyo 135-0061, Japan",,,,3.4,242,,https://lh5.googleusercontent.com/p/AF1QipPdOy4KbI_ypOn8JwWzOgfv9QjFFwimMYB3RGHK=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""8 AM–9 PM"",
+  ""tuesday"": ""8 AM–9 PM"",
+  ""wednesday"": ""8 AM–9 PM"",
+  ""thursday"": ""8 AM–9 PM"",
+  ""friday"": ""8 AM–9 PM""
+}",ChIJ9SYuuqOJGGARag3OF6jZfyg,0x601889a3ba2e26f5:0x287fd9a817ce0d6a,2918290399536483690,"{
+  ""latitude"": 35.6554279,
+  ""longitude"": 139.7966572
+}"
+18,FIRSTA Koiwa,"7 Chome-24-20 Minamikoiwa, Edogawa City, Tokyo 133-0056, Japan",http://www.minamikoiwa631.com/,,,3.2,207,,https://lh5.googleusercontent.com/p/AF1QipPO0rLuTrKoiXSKUHuhz-kzIQeNadLCpa0K5gs-=w122-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJ64vwRXqFGGARCA5sErP-S8M,0x6018857a45f08beb:0xc34bfeb3126c0e08,14072621505710919176,"{
+  ""latitude"": 35.732543199999995,
+  ""longitude"": 139.8814464
+}"
+19,Muse City Shopping Square,"7 Chome-3-1, Minami Ward, Saitama, 336-0021, Japan",,,,3.4,278,,https://lh5.googleusercontent.com/p/AF1QipNK5wo0ZrcCm9fPmUXW42aNPBOhWw_Y0_QFA41V=w163-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""10 AM–9 PM"",
+  ""tuesday"": ""10 AM–9 PM"",
+  ""wednesday"": ""10 AM–9 PM"",
+  ""thursday"": ""10 AM–9 PM"",
+  ""friday"": ""10 AM–9 PM""
+}",ChIJj7QOVmLqGGARoGznjWaVzHE,0x6018ea62560eb48f:0x71cc95668de76ca0,8200093289234787488,"{
+  ""latitude"": 35.8472417,
+  ""longitude"": 139.6476491
+}"
+20,Patria Shinagawa,"5 Chome-5 Yashio, Shinagawa City, Tokyo 140-0003, Japan",https://www.nul.co.jp/institutions/?p=68,+81 3-3799-3300,,3.7,705,,https://lh5.googleusercontent.com/p/AF1QipM2d91yYxguFbrrbJSyWPvb2KZT2hk6ydGbAm5x=w138-h92-k-no,TRUE,Shopping mall,"[
+  ""Shopping mall""
+]","{
+  ""onsite_services"": true
+}",Closed ⋅ Opens 10 AM,"{
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM"",
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM""
+}",ChIJ98cEsN1hGGARNMkgcyCsp-A,0x601861ddb004c7f7:0xe0a7ac207320c934,16188096640976996660,"{
+  ""latitude"": 35.5993922,
+  ""longitude"": 139.75028
+}"

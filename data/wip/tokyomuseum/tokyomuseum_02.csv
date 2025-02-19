@@ -1,0 +1,1499 @@
+﻿position,title,address,website,phone,order_online,rating,reviews,price,thumbnail,unclaimed_listing,type,types,service_options,hours,operating_hours,place_id,data_id,data_cid,gps_coordinates
+1,Tokyo Port Museum,"2 Chome-4 Aomi, Koto City, Tokyo 135-0064, Japan",,,,4.6,5,,https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uJz-Bo7JFm4c08WQcocPfw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=321.64426&pitch=0&thumbfov=100,TRUE,Museum,"[
+  ""Museum""
+]",,,,ChIJ47bIhUSJGGARCfLebt7FH6g,0x6018894485c8b6e3:0xa81fc5de6edef209,12114619081783439881,"{
+  ""latitude"": 35.6176515,
+  ""longitude"": 139.7782877
+}"
+2,The National Museum of Emerging Science and Innovation (Miraikan),"2 Chome-3-6 Aomi, Koto City, Tokyo 135-0064, Japan",https://www.miraikan.jst.go.jp/,+81 3-3570-9151,,4.1,14357,,https://lh5.googleusercontent.com/p/AF1QipOIVi9VEyz1jwl68M7dd4K6k96W1Uq4c4HbQdTf=w122-h92-k-no,,Science museum,"[
+  ""Science museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM Wed,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""10 AM–5 PM""
+}",ChIJz_149P6JGGARoImMn3NlsfY,0x601889fef478fdcf:0xf6b165739f8c89a0,17776100751480490400,"{
+  ""latitude"": 35.619335899999996,
+  ""longitude"": 139.7763995
+}"
+3,teamLab Planets TOKYO DMM,"6 Chome-1-16 Toyosu, Koto City, Tokyo 135-0061, Japan",https://www.teamlab.art/jp/e/planets/,,,4.5,36122,,https://lh5.googleusercontent.com/p/AF1QipPftxoTRHN-N8ak17bcKY4DZNKWu-mZ7Jim6E5S=w122-h92-k-no,,Modern art museum,"[
+  ""Modern art museum"",
+  ""Museum"",
+  ""Theme park"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–10 PM"",
+  ""wednesday"": ""9 AM–10 PM"",
+  ""thursday"": ""Closed"",
+  ""friday"": ""9 AM–10 PM"",
+  ""saturday"": ""9 AM–10 PM"",
+  ""sunday"": ""9 AM–10 PM"",
+  ""monday"": ""9 AM–10 PM""
+}",ChIJSeco5wiJGGARItbTS8lQ5G0,0x60188908e728e749:0x6de450c94bd3d622,7918542870314997282,"{
+  ""latitude"": 35.6491207,
+  ""longitude"": 139.7897739
+}"
+4,The Gundam Base Tokyo,"Japan, 〒135-0064 Tokyo, Koto City, Aomi, 1 Chome−1−10, ダイバーシティ東京 プラザ７F",https://www.gundam-base.net/,+81 3-6426-0780,,4.5,16294,,https://lh5.googleusercontent.com/p/AF1QipOC5ihylxTI8E1UfOJNYgnMGrgI-6yKshY5ROmX=w163-h92-k-no,TRUE,Toy store,"[
+  ""Toy store"",
+  ""Hobby store"",
+  ""Tourist attraction"",
+  ""Toy museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM"",
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""11 AM–8 PM""
+}",ChIJIy1S0_mJGGAR2d0UgvPKUPg,0x601889f9d3522d23:0xf850caf38214ddd9,17893024466751249881,"{
+  ""latitude"": 35.6254768,
+  ""longitude"": 139.77613829999999
+}"
+5,"Museum of Marine Science, Tokyo University of Marine Science and Technology","Lecture Room Building, 内, 4 Chome-5-7 Konan, Minato City, Tokyo 108-8477, Japan",https://www.s.kaiyodai.ac.jp/msm/index.html,+81 3-5463-0430,,4.4,124,,https://lh5.googleusercontent.com/p/AF1QipOrQWHwUe0RPqb8h2YAR4s2V7IlzCNxUQHwl5nJ=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Natural history museum"",
+  ""Science museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–4 PM"",
+  ""wednesday"": ""10 AM–4 PM"",
+  ""thursday"": ""10 AM–4 PM"",
+  ""friday"": ""10 AM–4 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""10 AM–4 PM""
+}",ChIJ9aawRUGKGGARtp40czt54S4,0x60188a4145b0a6f5:0x2ee1793b73349eb6,3378114491747442358,"{
+  ""latitude"": 35.627522299999995,
+  ""longitude"": 139.7482052
+}"
+6,WHAT MUSEUM,"Japan, 〒140-0002 Tokyo, Shinagawa City, Higashishinagawa, 2 Chome−6−10, G号, 寺田倉庫",https://what.warehouseofart.org/,,,4.2,174,,https://lh5.googleusercontent.com/p/AF1QipM-OSFqFXA1XN2QD76UduxfyVZu5ddnYwcgsz59=w138-h92-k-no,,Modern art museum,"[
+  ""Modern art museum"",
+  ""Art museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–3 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""11 AM–6 PM"",
+  ""sunday"": ""11 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJp39ByceLGGARrE8X0wVJIVk,0x60188bc7c9417fa7:0x59214905d3174fac,6422494832972222380,"{
+  ""latitude"": 35.6207667,
+  ""longitude"": 139.7486878
+}"
+7,small worlds miniature museum,"有明物流センター, 1 Chome-3-33 Ariake, Koto City, Tokyo 135-0063, Japan",https://www.smallworlds.jp/,,,4.5,4031,,https://lh5.googleusercontent.com/p/AF1QipPkE_WtMejSmpzZGS72JqblM17EWdFe3Zg2G5r0=w122-h92-k-no,,Theme park,"[
+  ""Theme park"",
+  ""Art museum"",
+  ""Cafe"",
+  ""Cafeteria""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–7 PM"",
+  ""wednesday"": ""9 AM–7 PM"",
+  ""thursday"": ""9 AM–7 PM"",
+  ""friday"": ""9 AM–7 PM"",
+  ""saturday"": ""9 AM–7 PM"",
+  ""sunday"": ""9 AM–7 PM"",
+  ""monday"": ""9 AM–7 PM""
+}",ChIJZRKFm-eJGGARglEoaF4NcC8,0x601889e79b851265:0x2f700d5e68285182,3418246816299766146,"{
+  ""latitude"": 35.6379228,
+  ""longitude"": 139.7883556
+}"
+8,Yamato Group History Museum,"ヤマト運輸港南ビル 2F, 2 Chome-13-26 Konan, Minato City, Tokyo 108-0075, Japan",https://www.yamato-hd.co.jp/museum/,+81 3-6756-7222,,4.4,222,,https://lh5.googleusercontent.com/p/AF1QipNIftTtm16SUHdwNO2uUGgMHn6ncmMu_fp4nVY6=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Exhibit"",
+  ""History museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJz6ys4VuLGGARPmq8g7aZ5Tw,0x60188b5be1acaccf:0x3ce599b683bc6a3e,4388082421115677246,"{
+  ""latitude"": 35.6265651,
+  ""longitude"": 139.7451697
+}"
+9,MAKI Collection,"Japan, 〒140-0002 Tokyo, Shinagawa City, Higashishinagawa, 1 Chome−33−10, 1F MAKI 内",http://www.makigallery.com/,+81 3-6434-7705,,4.6,12,,https://lh5.googleusercontent.com/p/AF1QipOq6h4zeHnfH4apQ4BjX6Zd2jkLhWFdHAR-MlWs=w137-h92-k-no,,Modern art museum,"[
+  ""Modern art museum""
+]",,Closed ⋅ Opens 11:30 AM,"{
+  ""tuesday"": ""11:30 AM–7 PM"",
+  ""wednesday"": ""11:30 AM–7 PM"",
+  ""thursday"": ""11:30 AM–7 PM"",
+  ""friday"": ""11:30 AM–7 PM"",
+  ""saturday"": ""11:30 AM–7 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJp6-EC2WLGGARsZbVgDr_LBA,0x60188b650b84afa7:0x102cff3a80d596b1,1165587030316783281,"{
+  ""latitude"": 35.6191655,
+  ""longitude"": 139.7465863
+}"
+10,Mori Art Museum,"Roppongi Hills Mori Tower, 53階, 6 Chome-10-1 Roppongi, Minato City, Tokyo 106-6150, Japan",https://www.mori.art.museum/jp/,+81 50-5541-8600,,4.3,6305,,https://lh5.googleusercontent.com/p/AF1QipOb-PCZfIWxLUC4tSG-YVBQoK_1g-ElM41bRsz3=w122-h92-k-no,,Modern art museum,"[
+  ""Modern art museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–10 PM"",
+  ""thursday"": ""10 AM–10 PM"",
+  ""friday"": ""10 AM–10 PM"",
+  ""saturday"": ""10 AM–10 PM"",
+  ""sunday"": ""10 AM–10 PM"",
+  ""monday"": ""10 AM–10 PM""
+}",ChIJg5RCD3eLGGAR6dbIHRM98w8,0x60188b770f429483:0xff33d131dc8d6e9,1149329482222982889,"{
+  ""latitude"": 35.6604621,
+  ""longitude"": 139.7292785
+}"
+11,Keio Museum Commons,"2 Chome-14-6 Mita, Minato City, Tokyo 108-0073, Japan",https://kemco.keio.ac.jp/,+81 3-5427-2021,,4.4,19,,https://lh5.googleusercontent.com/p/AF1QipMz_g0th3bnD425iwjwCcHxIwZFbQFySAwBjyvn=w137-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""11 AM–6 PM""
+}",ChIJmbkTHqyLGGARrEtUkb7pBDE,0x60188bac1e13b999:0x3104e9be91544bac,3532205012456590252,"{
+  ""latitude"": 35.6487839,
+  ""longitude"": 139.7443222
+}"
+12,Landscape with the Ship Science Museum (100 views of Shinagawa),"3 Higashiyashio, Shinagawa City, Tokyo 135-0092, Japan",,,,4.4,5,,https://lh5.googleusercontent.com/p/AF1QipOtfIXC9hqsjZtN3axPrjjcTw54SCzOyOwtf2pb=w80-h106-k-no,TRUE,Maritime museum,"[
+  ""Maritime museum""
+]",,,,ChIJF4mPXV2JGGARuEd26OHh-jM,0x6018895d5d8f8917:0x33fae1e1e87647b8,3745554400495945656,"{
+  ""latitude"": 35.6208688,
+  ""longitude"": 139.77295479999998
+}"
+13,Roppongi Museum,"5 Chome-6-20 Roppongi, Minato City, Tokyo 106-0032, Japan",https://roppongimuseum.jp/,+81 3-6328-3005,,4.4,1757,,https://lh5.googleusercontent.com/p/AF1QipOQtAaAghGMRLFQFEA0x36_efFRaxA8OSnHYJQ=w163-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""10 AM–6 PM""
+}",ChIJT3cmqWSLGGARkvKasB510zA,0x60188b64a926774f:0x30d3751eb09af292,3518284508578902674,"{
+  ""latitude"": 35.6596985,
+  ""longitude"": 139.73406169999998
+}"
+14,Tokyo Metropolitan Teien Art Museum,"5 Chome-21-9 Shirokanedai, Minato City, Tokyo 108-0071, Japan",https://www.teien-art-museum.ne.jp/,+81 50-5541-8600,,4.4,4059,,https://lh5.googleusercontent.com/p/AF1QipNvzvvtSl6eTV0fHa6tVjxqaGLC2q0nvZ3mi7b_=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJQS7vBxuLGGAR-Grk6oJ8etw,0x60188b1b07ef2e41:0xdc7a7c82eae46af8,15887147537231276792,"{
+  ""latitude"": 35.6369465,
+  ""longitude"": 139.7190408
+}"
+15,The Museum of Package Culture,"Osaki Forest Building, 2 Chome-18-1 Higashigotanda, Shinagawa City, Tokyo 141-0022, Japan",https://package-museum.jp/,+81 3-4531-4446,,4.2,89,,https://lh5.googleusercontent.com/p/AF1QipMGfPAFDfuwfZ-blj9X1Y4Iq-rTVuiAnTRSGq_h=w122-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–5 PM"",
+  ""wednesday"": ""9 AM–5 PM"",
+  ""thursday"": ""9 AM–5 PM"",
+  ""friday"": ""9 AM–5 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9 AM–5 PM""
+}",ChIJt1WQoPeKGGAR-35Dy1V0lbo,0x60188af7a09055b7:0xba957455cb437efb,13444780174415724283,"{
+  ""latitude"": 35.6240801,
+  ""longitude"": 139.729491
+}"
+16,Shinagawa Historical Museum,"6 Chome-11-1 Ōi, Shinagawa City, Tokyo 140-0014, Japan",http://www.city.shinagawa.tokyo.jp/jigyo/06/historyhp/hsindex.html,+81 3-3777-4060,,3.9,323,,https://lh5.googleusercontent.com/p/AF1QipMbU46UpEsg05cFU98weNp2SryMZBRyH0ZsjCEx=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–5 PM"",
+  ""wednesday"": ""9 AM–5 PM"",
+  ""thursday"": ""9 AM–5 PM"",
+  ""friday"": ""9 AM–5 PM"",
+  ""saturday"": ""9 AM–5 PM"",
+  ""sunday"": ""9 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJy54K7ipgGGARLa5NEnLK2Qg,0x6018602aee0a9ecb:0x8d9ca72124dae2d,637763413531799085,"{
+  ""latitude"": 35.5968587,
+  ""longitude"": 139.7299596
+}"
+17,Archi-Depot,"G号 WHAT MUSEUM 寺田倉庫, 2 Chome-6-10 Higashishinagawa, Shinagawa City, Tokyo 140-0002, Japan",https://archi-depot.com/,,,3.8,390,,https://lh5.googleusercontent.com/p/AF1QipMK1Zsml6GY5Lv3ASIXNn5DZGGKRbFH0cyBWGXt=w138-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""11 AM–6 PM"",
+  ""sunday"": ""11 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJ__8_uGuKGGAR2d_yu9M48t0,0x60188a6bb83fffff:0xddf238d3bbf2dfd9,15992907708788563929,"{
+  ""latitude"": 35.6208795,
+  ""longitude"": 139.74876079999999
+}"
+18,NHK Museum of Broadcasting,"2 Chome-1-1 Atago, Minato City, Tokyo 105-0002, Japan",http://www.nhk.or.jp/museum/,+81 3-5400-6900,,4.3,1223,,https://lh5.googleusercontent.com/p/AF1QipPF5PUDydOcM2e79arUANCtcmXxSCdUvj2kdNqt=w122-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–4:30 PM"",
+  ""wednesday"": ""9:30 AM–4:30 PM"",
+  ""thursday"": ""9:30 AM–4:30 PM"",
+  ""friday"": ""9:30 AM–4:30 PM"",
+  ""saturday"": ""9:30 AM–4:30 PM"",
+  ""sunday"": ""9:30 AM–4:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJCcGIPpSLGGARzZ4ZW6hu6NE,0x60188b943e88c109:0xd1e86ea85b199ecd,15125461017885777613,"{
+  ""latitude"": 35.6637951,
+  ""longitude"": 139.748291
+}"
+19,Shokutokurashinochiisana Museum,"3 Chome-13-65 Takanawa, Minato City, Tokyo 108-0074, Japan",https://www.ajinomoto.co.jp/kfb/museum/,+81 3-5488-7305,,4.2,26,,https://lh5.googleusercontent.com/p/AF1QipOa_CYbx-krRiABBHA0rJQjdJYC9P_KmIWexy4O=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""10 AM–5 PM""
+}",ChIJWz8dAA2LGGARNrkOFeB6Ego,0x60188b0d001d3f5b:0xa127ae0150eb936,725777592804620598,"{
+  ""latitude"": 35.63284,
+  ""longitude"": 139.7328168
+}"
+20,Tokyo Water Science Museum,"3 Chome-1-8 Ariake, Koto City, Tokyo 135-0063, Japan",http://www.mizunokagaku.jp/,+81 3-3528-2366,,4.1,1128,,https://lh5.googleusercontent.com/p/AF1QipMGvjtPNYOPFlwZFbn_71sVKIg0V6ukm5s1puPr=w80-h106-k-no,,Science museum,"[
+  ""Science museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJIfO-oO-JGGARxJYVjpssowo,0x601889efa0bef321:0xaa32c9b8e1596c4,766505408198448836,"{
+  ""latitude"": 35.6308444,
+  ""longitude"": 139.78548329999998
+}"
+1,WHAT MUSEUM,"Japan, 〒140-0002 Tokyo, Shinagawa City, Higashishinagawa, 2 Chome−6−10, G号, 寺田倉庫",https://what.warehouseofart.org/,,,4.2,174,,https://lh5.googleusercontent.com/p/AF1QipM-OSFqFXA1XN2QD76UduxfyVZu5ddnYwcgsz59=w138-h92-k-no,,Modern art museum,"[
+  ""Modern art museum"",
+  ""Art museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–3 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""11 AM–6 PM"",
+  ""sunday"": ""11 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJp39ByceLGGARrE8X0wVJIVk,0x60188bc7c9417fa7:0x59214905d3174fac,6422494832972222380,"{
+  ""latitude"": 35.6207667,
+  ""longitude"": 139.7486878
+}"
+2,Meiji Jingu Museum,"1-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052, Japan",https://www.meijijingu.or.jp/museum/,+81 3-3379-5875,,4.1,404,,https://lh5.googleusercontent.com/p/AF1QipMe_c4OTfY_WgybsVGJEw4Fxn3auVKuaHodoLZ0=w138-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–4:30 PM"",
+  ""wednesday"": ""10 AM–4:30 PM"",
+  ""thursday"": ""Closed"",
+  ""friday"": ""10 AM–4:30 PM"",
+  ""saturday"": ""10 AM–4:30 PM"",
+  ""sunday"": ""10 AM–4:30 PM"",
+  ""monday"": ""10 AM–4:30 PM""
+}",ChIJw-yvkzeNGGARjGUxRzKNPKQ,0x60188d3793afecc3:0xa43c8d324731658c,11834489167905121676,"{
+  ""latitude"": 35.6723303,
+  ""longitude"": 139.70212569999998
+}"
+3,ART AQUARIUM MUSEUM,"Japan, 〒104-8212 Tokyo, Chuo City, Ginza, 4 Chome−6−16, 9階入場口, 三越新館 9階",https://artaquarium.jp/,+81 3-3528-6721,,4.1,3891,,https://lh5.googleusercontent.com/p/AF1QipNuOchEopDdNIadc8cOu5g1qusyIRfpOKzTfm3f=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Aquarium"",
+  ""Art gallery"",
+  ""Goldfish store"",
+  ""Modern art museum"",
+  ""Museum"",
+  ""Theme park"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–7 PM"",
+  ""wednesday"": ""10 AM–7 PM"",
+  ""thursday"": ""10 AM–7 PM"",
+  ""friday"": ""10 AM–7 PM"",
+  ""saturday"": ""10 AM–7 PM"",
+  ""sunday"": ""10 AM–7 PM"",
+  ""monday"": ""10 AM–7 PM""
+}",ChIJ6UVSHl2JGGARDurMrMPwvdk,0x6018895d1e5245e9:0xd9bdf0c3acccea0e,15689961400037075470,"{
+  ""latitude"": 35.6713698,
+  ""longitude"": 139.7657375
+}"
+4,Japan Olympic Museum,"Japan, 〒160-0013 Tokyo, Shinjuku City, Kasumigaokamachi, 4−2, JAPAN SPORT OLYMPIC SQUARE 1・2F",https://japan-olympicmuseum.jp/,+81 3-6910-5561,,4.1,1260,,https://lh5.googleusercontent.com/p/AF1QipN65BEe4rbRT7cZUFoxlNdFdNIIs7KCmT7aMerw=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJQXjm8NWNGGARlEEJZUe8AJQ,0x60188dd5f0e67841:0x9400bc4765094194,10664730932437139860,"{
+  ""latitude"": 35.6749203,
+  ""longitude"": 139.7151887
+}"
+5,"Currency Museum, Institute for Monetary and Economic Studies, Bank of Japan","日本銀行分館内, 1 Chome-3-1 Nihonbashihongokucho, Chuo City, Tokyo 103-0021, Japan",http://www.imes.boj.or.jp/cm/index.html,+81 3-3277-3037,,4.2,2087,,https://lh5.googleusercontent.com/p/AF1QipNledL2gnJWDzeLsQIPGaaIbwYlmH0FShIRUMem=w124-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–4:30 PM"",
+  ""wednesday"": ""9:30 AM–4:30 PM"",
+  ""thursday"": ""9:30 AM–4:30 PM"",
+  ""friday"": ""9:30 AM–4:30 PM"",
+  ""saturday"": ""9:30 AM–4:30 PM"",
+  ""sunday"": ""9:30 AM–4:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJYT_QOf6LGGAR2l2t7xZpFMs,0x60188bfe39d03f61:0xcb146916efad5dda,14633436636464897498,"{
+  ""latitude"": 35.685461499999995,
+  ""longitude"": 139.7716826
+}"
+6,The Gundam Base Tokyo,"Japan, 〒135-0064 Tokyo, Koto City, Aomi, 1 Chome−1−10, ダイバーシティ東京 プラザ７F",https://www.gundam-base.net/,+81 3-6426-0780,,4.5,16294,,https://lh5.googleusercontent.com/p/AF1QipOC5ihylxTI8E1UfOJNYgnMGrgI-6yKshY5ROmX=w163-h92-k-no,TRUE,Toy store,"[
+  ""Toy store"",
+  ""Hobby store"",
+  ""Tourist attraction"",
+  ""Toy museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–8 PM"",
+  ""wednesday"": ""11 AM–8 PM"",
+  ""thursday"": ""11 AM–8 PM"",
+  ""friday"": ""11 AM–8 PM"",
+  ""saturday"": ""10 AM–9 PM"",
+  ""sunday"": ""10 AM–9 PM"",
+  ""monday"": ""11 AM–8 PM""
+}",ChIJIy1S0_mJGGAR2d0UgvPKUPg,0x601889f9d3522d23:0xf850caf38214ddd9,17893024466751249881,"{
+  ""latitude"": 35.6254768,
+  ""longitude"": 139.77613829999999
+}"
+7,Artizon Museum,"1 Chome-7-2 Kyobashi, Chuo City, Tokyo 104-0031, Japan",https://www.artizon.museum/,+81 50-5541-8600,,4.6,2140,,https://lh5.googleusercontent.com/p/AF1QipMPhjaNnDIQFn3yrxZjMbYCOhImb3AQOpy3AREw=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Restaurant""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–8 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJOzAxseKLGGARWxBlxNWWRPs,0x60188be2b131303b:0xfb4496d5c465105b,18105762246803394651,"{
+  ""latitude"": 35.678841399999996,
+  ""longitude"": 139.7716322
+}"
+8,Yamatane Museum of Art,"3 Chome-12-36 Hiroo, Shibuya, Tokyo 150-0012, Japan",https://www.yamatane-museum.jp/,+81 50-5541-8600,,4.3,2299,,https://lh5.googleusercontent.com/p/AF1QipOcVeJdxVFmfmqCwcxCPVTeLLvIqp8noeAg44pU=w80-h94-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJseohrGmLGGARWx9gVUaRc7Y,0x60188b69ac21eab1:0xb673914655601f5b,13147011468490710875,"{
+  ""latitude"": 35.6531502,
+  ""longitude"": 139.7136591
+}"
+9,Pola Museum Annex,"Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 1 Chome−7−7, ポーラ銀座ビル3階",http://www.po-holdings.co.jp/m-annex/,+81 50-5541-8600,,4.2,470,,https://lh5.googleusercontent.com/p/AF1QipOUnKNobPq9Dz-IXcyQ72gAP5-v0J5_EJmSOBqr=w122-h92-k-no,,Art gallery,"[
+  ""Art gallery"",
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–7 PM"",
+  ""wednesday"": ""11 AM–7 PM"",
+  ""thursday"": ""11 AM–7 PM"",
+  ""friday"": ""11 AM–7 PM"",
+  ""saturday"": ""11 AM–7 PM"",
+  ""sunday"": ""11 AM–7 PM"",
+  ""monday"": ""11 AM–7 PM""
+}",ChIJM7rZi-OLGGARkL-rCS_OHyw,0x60188be38bd9ba33:0x2c1fce2f09abbf90,3179486563367894928,"{
+  ""latitude"": 35.6742613,
+  ""longitude"": 139.767948
+}"
+10,Fire Museum,"3 Chome-１０-10 Yotsuya, Shinjuku City, Tokyo 160-0004, Japan",https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html,+81 3-3353-9119,,4.4,2068,,https://lh5.googleusercontent.com/p/AF1QipMH1sK7aZ7kc7KvYAr7cPeeZ2jtF7t-ZTgzSEH1=w122-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Technology museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJG99Bp-2MGGARK9sWy49hBq8,0x60188ceda741df1b:0xaf06618fcb16db2b,12611875076713143083,"{
+  ""latitude"": 35.6882599,
+  ""longitude"": 139.7199694
+}"
+11,d47 Museum,"8F, 2 Chome-21-1 Shibuya, Tokyo 150-8510, Japan",https://www.d-department.com/ext/shop/d47.html,+81 3-6427-2301,,4.1,250,,https://lh5.googleusercontent.com/p/AF1QipOffzXShWGJ8pwMCVkfOaRgHRUO1WowMxhtGWSe=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 12 PM,"{
+  ""tuesday"": ""12–8 PM"",
+  ""wednesday"": ""12–8 PM"",
+  ""thursday"": ""12–8 PM"",
+  ""friday"": ""12–8 PM"",
+  ""saturday"": ""12–8 PM"",
+  ""sunday"": ""12–8 PM"",
+  ""monday"": ""12–8 PM""
+}",ChIJd7kNUViLGGARlW46j_NJizY,0x60188b58510db977:0x368b49f38f3a6e95,3930316410239741589,"{
+  ""latitude"": 35.6591041,
+  ""longitude"": 139.703742
+}"
+12,Fukagawa Edo Museum,"1 Chome-3-28 Shirakawa, Koto City, Tokyo 135-0021, Japan",https://www.kcf.or.jp/fukagawa/,+81 3-3630-8625,,4.3,2743,,https://lh5.googleusercontent.com/p/AF1QipM_Pzed9_h2sxW41v5DauKrc_lQHD-dFnnT5zNw=w138-h92-k-no,,Local history museum,"[
+  ""Local history museum"",
+  ""History museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJ05k3KRaJGGARSFT1UW8wxkw,0x60188916293799d3:0x4cc6306f51f55448,5532162446945768520,"{
+  ""latitude"": 35.681185899999996,
+  ""longitude"": 139.8005921
+}"
+13,Beni Museum,"K's南青山ビル 1F, 6 Chome-6-20 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",http://www.isehanhonten.co.jp/museum/index.html,+81 3-5467-3735,,4.3,152,,https://lh5.googleusercontent.com/p/AF1QipN_Bt0kIquYWTKXWppODioNDmXPmiawQVE6M612=w138-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJ1ZCFSWSLGGARpUEUiKoCxLo,0x60188b64498590d5:0xbac402aa881441a5,13457884517940609445,"{
+  ""latitude"": 35.65992,
+  ""longitude"": 139.717978
+}"
+14,Madame Tussauds Tokyo,"1 Chome-6-1 Daiba, Minato City, Tokyo 135-0091, Japan",https://www.madametussauds.com/tokyo/,,,4.3,994,,https://lh5.googleusercontent.com/p/AF1QipMY7udPXHL0qxCN-UhK-qqIUXoMOOvzN5oKVLWY=w122-h92-k-no,,Wax museum,"[
+  ""Wax museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""11 AM–6 PM""
+}",ChIJMQVK7PaJGGARuT_EH-tFe3Y,0x601889f6ec4a0531:0x767b45eb1fc43fb9,8537494394763493305,"{
+  ""latitude"": 35.6287995,
+  ""longitude"": 139.7758901
+}"
+15,Museum of Contemporary Art Tokyo - MOT,"4 Chome-1-1 Miyoshi, Koto City, Tokyo 135-0022, Japan",https://www.mot-art-museum.jp/,+81 3-5245-4111,,4.4,3019,,https://lh5.googleusercontent.com/p/AF1QipPuVEyDx06-8HhqRAmDSpYQjXr6NoLDtnOSw4E3=w122-h92-k-no,,Modern art museum,"[
+  ""Modern art museum"",
+  ""Art museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJq6rq_BuJGGARh1qAooLX-as,0x6018891bfceaaaab:0xabf9d782a2805a87,12392172805758671495,"{
+  ""latitude"": 35.679746699999995,
+  ""longitude"": 139.80819209999999
+}"
+16,Ōta Memorial Museum of Art,"1 Chome-10-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",http://www.ukiyoe-ota-muse.jp/,+81 3-3403-0880,,4.3,1829,,https://lh5.googleusercontent.com/p/AF1QipNe2ISmtVzaPdWPXL2Zc3j2YsS4t8lr4sKCAGXU=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10:30 AM,"{
+  ""tuesday"": ""10:30 AM–5:30 PM"",
+  ""wednesday"": ""10:30 AM–5:30 PM"",
+  ""thursday"": ""10:30 AM–5:30 PM"",
+  ""friday"": ""10:30 AM–5:30 PM"",
+  ""saturday"": ""10:30 AM–5:30 PM"",
+  ""sunday"": ""10:30 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJxcha6qSMGGARqdOIwOETVQc,0x60188ca4ea5ac8c5:0x75513e1c088d3a9,528350391604663209,"{
+  ""latitude"": 35.6693959,
+  ""longitude"": 139.7049808
+}"
+17,Tokyo Water Science Museum,"3 Chome-1-8 Ariake, Koto City, Tokyo 135-0063, Japan",http://www.mizunokagaku.jp/,+81 3-3528-2366,,4.1,1128,,https://lh5.googleusercontent.com/p/AF1QipMGvjtPNYOPFlwZFbn_71sVKIg0V6ukm5s1puPr=w80-h106-k-no,,Science museum,"[
+  ""Science museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJIfO-oO-JGGARxJYVjpssowo,0x601889efa0bef321:0xaa32c9b8e1596c4,766505408198448836,"{
+  ""latitude"": 35.6308444,
+  ""longitude"": 139.78548329999998
+}"
+18,Fujifilm Photo History Museum,"9 Chome-7-3 Akasaka, Minato City, Tokyo 107-0052, Japan",https://fujifilmsquare.jp/guide/museum.html,+81 3-6271-3350,,4.3,163,,https://lh5.googleusercontent.com/p/AF1QipMJcGUbRsLhmnAE7RqT7_L2FNDPCg4wzgTS-7m6=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–7 PM"",
+  ""wednesday"": ""10 AM–7 PM"",
+  ""thursday"": ""10 AM–7 PM"",
+  ""friday"": ""10 AM–7 PM"",
+  ""saturday"": ""10 AM–7 PM"",
+  ""sunday"": ""10 AM–7 PM"",
+  ""monday"": ""10 AM–7 PM""
+}",ChIJ8yxJ7HiLGGARwDNkSGEvTDA,0x60188b78ec492cf3:0x304c2f61486433c0,3480208706923410368,"{
+  ""latitude"": 35.6653782,
+  ""longitude"": 139.7301815
+}"
+19,Meguro Parasitological Museum,"4 Chome-1-1 Shimomeguro, Meguro City, Tokyo 153-0064, Japan",https://www.kiseichu.org/,+81 3-3716-1264,,4.4,2312,,https://lh5.googleusercontent.com/p/AF1QipMyF39iMVir8qPZzjICZgHzuvOaus_6CqkD3EXh=w138-h92-k-no,,Museum of zoology,"[
+  ""Museum of zoology"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM Wed,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJJRmFiCOLGGARyLhUN8vGRXs,0x60188b2388851925:0x7b45c6cb3754b8c8,8882724416167131336,"{
+  ""latitude"": 35.6316814,
+  ""longitude"": 139.7066661
+}"
+20,Parliamentary Museum,"1 Chome-8-1 Nagatachō, Chiyoda City, Tokyo 100-0014, Japan",http://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kensei/kensei.htm,+81 3-3581-1651,,3.8,669,,https://lh5.googleusercontent.com/p/AF1QipPHzM2kgN6TH1J5WE4rt69ulR_eKZ_jt_OiyrA=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""9:30 AM–5 PM""
+}",ChIJCSOV_omLGGARC30qXmCHB7A,0x60188b89fe952309:0xb00787605e2a7d0b,12684255723478744331,"{
+  ""latitude"": 35.6792684,
+  ""longitude"": 139.7453457
+}"
+1,Edo-Tokyo Museum,"1 Chome-4-1 Yokoami, Sumida City, Tokyo 130-0015, Japan",https://www.edo-tokyo-museum.or.jp/,+81 3-3626-9974,,4.4,12658,,https://lh5.googleusercontent.com/p/AF1QipPsiAnAWUkQtmZmCGgMxaaszcZASrZpCtjnW223=w122-h92-k-no,,History museum,"[
+  ""History museum"",
+  ""Cultural institution"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9:30 AM–5:30 PM""
+}",ChIJOWXu4TSJGGAR07vEEi8fZAw,0x60188934e1ee6539:0xc641f2f12c4bbd3,892872913165007827,"{
+  ""latitude"": 35.6965972,
+  ""longitude"": 139.7957336
+}"
+2,Shinagawa Historical Museum,"6 Chome-11-1 Ōi, Shinagawa City, Tokyo 140-0014, Japan",http://www.city.shinagawa.tokyo.jp/jigyo/06/historyhp/hsindex.html,+81 3-3777-4060,,3.9,323,,https://lh5.googleusercontent.com/p/AF1QipMbU46UpEsg05cFU98weNp2SryMZBRyH0ZsjCEx=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–5 PM"",
+  ""wednesday"": ""9 AM–5 PM"",
+  ""thursday"": ""9 AM–5 PM"",
+  ""friday"": ""9 AM–5 PM"",
+  ""saturday"": ""9 AM–5 PM"",
+  ""sunday"": ""9 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJy54K7ipgGGARLa5NEnLK2Qg,0x6018602aee0a9ecb:0x8d9ca72124dae2d,637763413531799085,"{
+  ""latitude"": 35.5968587,
+  ""longitude"": 139.7299596
+}"
+3,i-muse IHI History Museum,"Japan, 〒135-0061 Tokyo, Koto City, Toyosu, 3 Chome−1−1, 豊洲IHIビル1階, 豊洲IHIビル",http://www.ihi.co.jp/i-muse/,+81 3-6204-7032,,4.1,88,,https://lh5.googleusercontent.com/p/AF1QipPhNqNAaeEMiHVL5vxHs7fS1LUCX86_sghlLrc7=w122-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9:30 AM–5:30 PM""
+}",ChIJXzUbHKCJGGARHk4zPVEkXpc,0x601889a01c1b355f:0x975e24513d334e1e,10907195278875643422,"{
+  ""latitude"": 35.6591702,
+  ""longitude"": 139.7931601
+}"
+4,The Shoto Museum of Art,"2 Chome-14-14 Shoto, Shibuya, Tokyo 150-0046, Japan",http://www.shoto-museum.jp/,+81 3-3465-9421,,4.2,1099,,https://lh5.googleusercontent.com/p/AF1QipP01s2KzRbWfL6kXecmuwffmHZVTg3RzhTaZiZl=w122-h92-k-no,TRUE,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–8 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJR6AfJquMGGARLtT29Rg6HLY,0x60188cab261fa047:0xb61c3a18f5f6d42e,13122427293131002926,"{
+  ""latitude"": 35.6586207,
+  ""longitude"": 139.6916654
+}"
+5,Hanzomon Museum,"２５ Ichibancho, Chiyoda City, Tokyo 102-0082, Japan",https://www.hanzomonmuseum.jp/,+81 3-3263-1752,,4.5,330,,https://lh5.googleusercontent.com/p/AF1QipPZ-aUJgx3Jh33B5iM1iuNXCL9pyQVHTm2IvFyI=w138-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM Wed,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""10 AM–5:30 PM"",
+  ""thursday"": ""10 AM–5:30 PM"",
+  ""friday"": ""10 AM–5:30 PM"",
+  ""saturday"": ""10 AM–5:30 PM"",
+  ""sunday"": ""10 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJAQDQVmWMGGAR4dNK6sEJZ80,0x60188c6556d00001:0xcd6709c1ea4ad3e1,14800809428840535009,"{
+  ""latitude"": 35.6858735,
+  ""longitude"": 139.74193119999998
+}"
+6,Yoku Moku Museum,"6 Chome-15-1 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",https://www.yokumokumuseum.com/,+81 3-3486-8000,,4.3,135,,https://lh5.googleusercontent.com/p/AF1QipMfr_j23BfTyMuNr8dSFxvppR_BtQ7mvBfOYRs7=w122-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJc6EZAwaLGGARAk8dqAMtWdo,0x60188b060319a173:0xda592d03a81d4f02,15733656266924183298,"{
+  ""latitude"": 35.6595715,
+  ""longitude"": 139.71402659999998
+}"
+7,The Seiko Museum Ginza,"4 Chome-3-13 Ginza, Chuo City, Tokyo 104-0061, Japan",https://museum.seiko.co.jp/,+81 3-5159-1881,,4.6,816,,https://lh5.googleusercontent.com/p/AF1QipOCkG3CkTN_FnF82QtKn2dvlfpfQERWI79BYjsH=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10:30 AM,"{
+  ""tuesday"": ""10:30 AM–6 PM"",
+  ""wednesday"": ""10:30 AM–6 PM"",
+  ""thursday"": ""10:30 AM–6 PM"",
+  ""friday"": ""10:30 AM–6 PM"",
+  ""saturday"": ""10:30 AM–6 PM"",
+  ""sunday"": ""10:30 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJS1c9oWGLGGARgG_uEItN0aY,0x60188b61a13d574b:0xa6d14d8b10ee6f80,12020474140108418944,"{
+  ""latitude"": 35.6723942,
+  ""longitude"": 139.7644252
+}"
+8,Keio Museum Commons,"2 Chome-14-6 Mita, Minato City, Tokyo 108-0073, Japan",https://kemco.keio.ac.jp/,+81 3-5427-2021,,4.4,19,,https://lh5.googleusercontent.com/p/AF1QipMz_g0th3bnD425iwjwCcHxIwZFbQFySAwBjyvn=w137-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""11 AM–6 PM""
+}",ChIJmbkTHqyLGGARrEtUkb7pBDE,0x60188bac1e13b999:0x3104e9be91544bac,3532205012456590252,"{
+  ""latitude"": 35.6487839,
+  ""longitude"": 139.7443222
+}"
+9,The History Museum of J-Koreans,"韓国中央会館 別館, 1 Chome-7-32 Minamiazabu, Minato City, Tokyo 106-8585, Japan",http://www.j-koreans.org/,+81 3-3457-1088,,3.6,117,,https://lh5.googleusercontent.com/p/AF1QipP4lILvN7Og45vvbJiab87QIlejJjxunAqu7q61=w122-h92-k-no,TRUE,Heritage museum,"[
+  ""Heritage museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5:30 PM"",
+  ""wednesday"": ""10 AM–5:30 PM"",
+  ""thursday"": ""10 AM–5:30 PM"",
+  ""friday"": ""10 AM–5:30 PM"",
+  ""saturday"": ""10 AM–5:30 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJ6QCZVaGLGGAR9QS6CROQGvA,0x60188ba1559900e9:0xf01a901309ba04f5,17301299329939145973,"{
+  ""latitude"": 35.651544799999996,
+  ""longitude"": 139.73703129999998
+}"
+10,Shinjuku Gyoen Museum,"11 Naitomachi, Shinjuku City, Tokyo 160-0014, Japan",https://fng.or.jp/shinjuku/2022/12/03/20221203-02/,,,4.5,36,,https://lh5.googleusercontent.com/p/AF1QipP4pez6FPS3ujdx6-qQODhqoNqQR47WPcKWHBhq=w122-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–4 PM"",
+  ""wednesday"": ""9 AM–4 PM"",
+  ""thursday"": ""9 AM–4 PM"",
+  ""friday"": ""9 AM–4 PM"",
+  ""saturday"": ""9 AM–4 PM"",
+  ""sunday"": ""9 AM–4 PM"",
+  ""monday"": ""Closed""
+}",ChIJ5RR13yiNGGART-NAUWZQ2bE,0x60188d28df7514e5:0xb1d950665140e34f,12815362615039550287,"{
+  ""latitude"": 35.6860387,
+  ""longitude"": 139.71280489999998
+}"
+11,Archi-Depot,"G号 WHAT MUSEUM 寺田倉庫, 2 Chome-6-10 Higashishinagawa, Shinagawa City, Tokyo 140-0002, Japan",https://archi-depot.com/,,,3.8,390,,https://lh5.googleusercontent.com/p/AF1QipMK1Zsml6GY5Lv3ASIXNn5DZGGKRbFH0cyBWGXt=w138-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–6 PM"",
+  ""saturday"": ""11 AM–6 PM"",
+  ""sunday"": ""11 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJ__8_uGuKGGAR2d_yu9M48t0,0x60188a6bb83fffff:0xddf238d3bbf2dfd9,15992907708788563929,"{
+  ""latitude"": 35.6208795,
+  ""longitude"": 139.74876079999999
+}"
+12,The Sumida Hokusai Museum,"2 Chome-7-2 Kamezawa, Sumida City, Tokyo 130-0014, Japan",https://hokusai-museum.jp/,+81 3-6658-8936,,4.1,5530,,https://lh5.googleusercontent.com/p/AF1QipOauyNnEXR0h9b_OK5b4btjA4KdsaVrsz6ae_XR=w123-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""9:30 AM–5:30 PM"",
+  ""sunday"": ""9:30 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJgRjTtzOJGGARqoKBtB8BAno,0x60188933b7d31881:0x7a02011fb48182aa,8791590658264629930,"{
+  ""latitude"": 35.6963313,
+  ""longitude"": 139.800414
+}"
+13,Police Museum,"3 Chome-5-1 Kyobashi, Chuo City, Tokyo 104-0031, Japan",https://www.keishicho.metro.tokyo.lg.jp/about_mpd/welcome/welcome/museum_tour.html,+81 3-3581-4321,,4.1,2419,,https://lh5.googleusercontent.com/p/AF1QipMMCaanQaAHr8gdFE-X762nntCHi7RhDa4kYTB_=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""History museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–4 PM"",
+  ""wednesday"": ""9:30 AM–4 PM"",
+  ""thursday"": ""9:30 AM–4 PM"",
+  ""friday"": ""9:30 AM–4 PM"",
+  ""saturday"": ""9:30 AM–4 PM"",
+  ""sunday"": ""9:30 AM–4 PM"",
+  ""monday"": ""Closed""
+}",ChIJV8wGu-OLGGAR1HVqNbP6r2c,0x60188be3bb06cc57:0x67affab3356a75d4,7471465954433201620,"{
+  ""latitude"": 35.6751199,
+  ""longitude"": 139.76954089999998
+}"
+14,Central Museum Ginza,"3 Chome-9-11 Ginza, Chuo City, Tokyo 104-0061, Japan",http://central-museum.jp/,+81 3-3546-5855,,3.9,149,,https://lh5.googleusercontent.com/p/AF1QipM7T-MaLCUwDiFuwaXk1VMfl1yKHX_3Ent2zD8a=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""10 AM–6 PM""
+}",ChIJu2ZczOaLGGARqyh2nbbn8gk,0x60188be6cc5c66bb:0x9f2e7b69d7628ab,716890062217160875,"{
+  ""latitude"": 35.6712864,
+  ""longitude"": 139.7675755
+}"
+15,Water Supply Pipe Inlet Museum,"港区新橋2丁目11-1 村上建物ビル 5階（エレベーターなし, Tokyo 105-0004, Japan",http://www.zentech.co.jp/museum/,+81 3-3591-2188,,4.5,46,,https://lh5.googleusercontent.com/p/AF1QipNy9Qi1I7NyjHrWXsWYNHq41FUsIvWr7ryKCUdo=w122-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 2 PM Thu,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""Closed"",
+  ""thursday"": ""2–7 PM"",
+  ""friday"": ""Closed"",
+  ""saturday"": ""2–7 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJ7SHRhOuLGGARlptPakxZyI4,0x60188beb84d121ed:0x8ec8594c6a4f9b96,10288571533463886742,"{
+  ""latitude"": 35.667434799999995,
+  ""longitude"": 139.7553705
+}"
+16,Yamato Group History Museum,"ヤマト運輸港南ビル 2F, 2 Chome-13-26 Konan, Minato City, Tokyo 108-0075, Japan",https://www.yamato-hd.co.jp/museum/,+81 3-6756-7222,,4.4,222,,https://lh5.googleusercontent.com/p/AF1QipNIftTtm16SUHdwNO2uUGgMHn6ncmMu_fp4nVY6=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Exhibit"",
+  ""History museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJz6ys4VuLGGARPmq8g7aZ5Tw,0x60188b5be1acaccf:0x3ce599b683bc6a3e,4388082421115677246,"{
+  ""latitude"": 35.6265651,
+  ""longitude"": 139.7451697
+}"
+17,Japanese Sword Museum,"1 Chome-12-9 Yokoami, Sumida City, Tokyo 130-0015, Japan",https://www.touken.or.jp/museum/,+81 3-6284-1000,,4,1784,,https://lh5.googleusercontent.com/p/AF1QipM_CCL-NyNpjUCo0SvHBRN0gBZ81QvqPWb2QAtC=w219-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Handicraft museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJD1-Hg8qOGGARrTp2UJ6Be14,0x60188eca83875f0f:0x5e7b819e50763aad,6808177778655378093,"{
+  ""latitude"": 35.6989606,
+  ""longitude"": 139.7936629
+}"
+18,Minato Science Museum,"3 Chome-6-9 Toranomon, Minato City, Tokyo 105-0001, Japan",https://minato-kagaku.tokyo/,+81 3-6381-5041,,4.5,533,,https://lh5.googleusercontent.com/p/AF1QipMuEWDWjST5QP_QucwblW8Y4T0vb1Gfv_8IGmDb=w122-h92-k-no,,Science museum,"[
+  ""Science museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–8 PM"",
+  ""wednesday"": ""9 AM–8 PM"",
+  ""thursday"": ""9 AM–8 PM"",
+  ""friday"": ""9 AM–8 PM"",
+  ""saturday"": ""9 AM–8 PM"",
+  ""sunday"": ""9 AM–8 PM"",
+  ""monday"": ""9 AM–8 PM""
+}",ChIJweGomtWLGGARsXBu2LArcKw,0x60188bd59aa8e1c1:0xac702bb0d86e70b1,12425479410460553393,"{
+  ""latitude"": 35.6657665,
+  ""longitude"": 139.7458724
+}"
+19,Shinjuku Historical Museum,"12-16 Yotsuya Saneicho, Shinjuku City, Tokyo 160-0008, Japan",http://www.regasu-shinjuku.or.jp/rekihaku/,+81 3-3359-2131,,4,945,,https://lh5.googleusercontent.com/p/AF1QipPR9SFwD0RBZ0jjNQCeInbIR98TM-S71ap_cZo=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""9:30 AM–5:30 PM"",
+  ""sunday"": ""9:30 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJ-yMPcvOMGGARgN0roRXEJiI,0x60188cf3720f23fb:0x2226c415a12bdd80,2460869843581918592,"{
+  ""latitude"": 35.6899458,
+  ""longitude"": 139.7254161
+}"
+20,Treasure Museum,"1-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052, Japan",https://www.meijijingu.or.jp/museum/houmotsuden/,+81 3-3379-5511,,4,42,,https://lh5.googleusercontent.com/p/AF1QipMdPjh8zENCU6MsY7Z2uG2Mk8eP2kWE6N0kvXuU=w80-h106-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Historical landmark""
+]",,,,ChIJb_37DRyNGGARNUGHt2Kl4WE,0x60188d1c0dfbfd6f:0x61e1a562b7874135,7053100334843380021,"{
+  ""latitude"": 35.6799952,
+  ""longitude"": 139.6979635
+}"
+1,Shibuya Folk and Literary Shirane Memorial Museum,"4 Chome-9-1 Higashi, Shibuya, Tokyo 150-0011, Japan",https://shibuya-muse.jp/,+81 3-3486-2791,,4,179,,https://lh5.googleusercontent.com/p/AF1QipP1gR3jXEXPkDcAsPBdYc573ZGeAFmGekv_Q0K3=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–5 PM"",
+  ""wednesday"": ""9 AM–5 PM"",
+  ""thursday"": ""9 AM–5 PM"",
+  ""friday"": ""9 AM–5 PM"",
+  ""saturday"": ""9 AM–5 PM"",
+  ""sunday"": ""9 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJx-5n62eLGGARCE-Bne1qZF0,0x60188b67eb67eec7:0x5d646aed9d814f08,6729621311980654344,"{
+  ""latitude"": 35.6564347,
+  ""longitude"": 139.7125067
+}"
+2,Wild Silk Museum,"グラース平野, 1 Chome-5-5 Hirano, Koto City, Tokyo 135-0023, Japan",https://wildsilk.jp/,,,3.8,23,,https://lh5.googleusercontent.com/p/AF1QipO0RPnk5WhosAu725fmCQbpST869bqi7yKZFPQ=w122-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 1 PM Thu,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""Closed"",
+  ""thursday"": ""1–5 PM"",
+  ""friday"": ""Closed"",
+  ""saturday"": ""1–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJ__-Q7RaJGGARuMuHECLnL74,0x60188916ed90ffff:0xbe2fe7221087cbb8,13704426324603947960,"{
+  ""latitude"": 35.6782606,
+  ""longitude"": 139.7999304
+}"
+3,Panasonic Shiodome Museum of Art,"Panasonic Tokyo Shiodome Building, 4階, 1 Chome-5-1 Higashishinbashi, Minato City, Tokyo 105-8301, Japan",https://panasonic.co.jp/ew/museum/,+81 50-5541-8600,,4,1623,,https://lh5.googleusercontent.com/p/AF1QipOmUFAowa0ELvpHrnRakRsxtkDexn3puLED4qTF=w122-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Art gallery"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""Closed"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–8 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""10 AM–6 PM""
+}",ChIJ6Sypp8KLGGAR4lmmX-zFFmo,0x60188bc2a7a92ce9:0x6a16c5ec5fa659e2,7644515036515686882,"{
+  ""latitude"": 35.6659066,
+  ""longitude"": 139.7619241
+}"
+4,Meteorological Science Museum by the Japan Meteorological Agency (JMA),"3 Chome-6-9 Toranomon, Minato City, Tokyo 105-0001, Japan",https://www.jma.go.jp/jma/kishou/intro/kagakukan.html,+81 3-6758-3900,,4.3,151,,https://lh5.googleusercontent.com/p/AF1QipNmCb_qLShXaGTRqDA7ti0Z--1hPep2T8xy4LQO=w122-h92-k-no,TRUE,Science museum,"[
+  ""Science museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–8 PM"",
+  ""wednesday"": ""9 AM–8 PM"",
+  ""thursday"": ""9 AM–8 PM"",
+  ""friday"": ""9 AM–8 PM"",
+  ""saturday"": ""9 AM–8 PM"",
+  ""sunday"": ""9 AM–8 PM"",
+  ""monday"": ""9 AM–8 PM""
+}",ChIJxXp6hoaNGGARAMCSyLD_HVA,0x60188d86867a7ac5:0x501dffb0c892c000,5773051432103231488,"{
+  ""latitude"": 35.665625299999995,
+  ""longitude"": 139.7460642
+}"
+5,Minato Science Museum,"3 Chome-6-9 Toranomon, Minato City, Tokyo 105-0001, Japan",https://minato-kagaku.tokyo/,+81 3-6381-5041,,4.5,533,,https://lh5.googleusercontent.com/p/AF1QipMuEWDWjST5QP_QucwblW8Y4T0vb1Gfv_8IGmDb=w122-h92-k-no,,Science museum,"[
+  ""Science museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–8 PM"",
+  ""wednesday"": ""9 AM–8 PM"",
+  ""thursday"": ""9 AM–8 PM"",
+  ""friday"": ""9 AM–8 PM"",
+  ""saturday"": ""9 AM–8 PM"",
+  ""sunday"": ""9 AM–8 PM"",
+  ""monday"": ""9 AM–8 PM""
+}",ChIJweGomtWLGGARsXBu2LArcKw,0x60188bd59aa8e1c1:0xac702bb0d86e70b1,12425479410460553393,"{
+  ""latitude"": 35.6657665,
+  ""longitude"": 139.7458724
+}"
+6,Parliamentary Museum,"1 Chome-8-1 Nagatachō, Chiyoda City, Tokyo 100-0014, Japan",http://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kensei/kensei.htm,+81 3-3581-1651,,3.8,669,,https://lh5.googleusercontent.com/p/AF1QipPHzM2kgN6TH1J5WE4rt69ulR_eKZ_jt_OiyrA=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""9:30 AM–5 PM""
+}",ChIJCSOV_omLGGARC30qXmCHB7A,0x60188b89fe952309:0xb00787605e2a7d0b,12684255723478744331,"{
+  ""latitude"": 35.6792684,
+  ""longitude"": 139.7453457
+}"
+7,Meguro Parasitological Museum,"4 Chome-1-1 Shimomeguro, Meguro City, Tokyo 153-0064, Japan",https://www.kiseichu.org/,+81 3-3716-1264,,4.4,2312,,https://lh5.googleusercontent.com/p/AF1QipMyF39iMVir8qPZzjICZgHzuvOaus_6CqkD3EXh=w138-h92-k-no,,Museum of zoology,"[
+  ""Museum of zoology"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM Wed,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJJRmFiCOLGGARyLhUN8vGRXs,0x60188b2388851925:0x7b45c6cb3754b8c8,8882724416167131336,"{
+  ""latitude"": 35.6316814,
+  ""longitude"": 139.7066661
+}"
+8,Japanese Sword Museum,"1 Chome-12-9 Yokoami, Sumida City, Tokyo 130-0015, Japan",https://www.touken.or.jp/museum/,+81 3-6284-1000,,4,1784,,https://lh5.googleusercontent.com/p/AF1QipM_CCL-NyNpjUCo0SvHBRN0gBZ81QvqPWb2QAtC=w219-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Handicraft museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJD1-Hg8qOGGARrTp2UJ6Be14,0x60188eca83875f0f:0x5e7b819e50763aad,6808177778655378093,"{
+  ""latitude"": 35.6989606,
+  ""longitude"": 139.7936629
+}"
+9,Museum of Maritime Science Curator part,"3-1 Higashiyashio, Shinagawa City, Tokyo 135-0092, Japan",http://www.funenokagakukan.or.jp/,+81 3-5500-1113,,3.5,4,,https://lh5.googleusercontent.com/p/AF1QipMKvdIr4cZ8uvCbRqskd21ycxwT1-9nWofixkM=w122-h92-k-no,TRUE,Science museum,"[
+  ""Science museum""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9:30 AM–5:30 PM""
+}",ChIJ051RDgKKGGARdH6asxQmcQA,0x60188a020e519dd3:0x712614b39a7e74,31848542722752116,"{
+  ""latitude"": 35.6201685,
+  ""longitude"": 139.7721568
+}"
+10,O Art Museum,"Japan, 〒141-0032 Tokyo, Shinagawa City, Osaki, 1 Chome−6−2, ニューシティ・２号館２Ｆ",https://www.shinagawa-culture.or.jp/o-art/index.html,+81 3-3495-4040,,3.7,276,,https://lh5.googleusercontent.com/p/AF1QipPMRTWct8Rjfsa8yToFQdgVUj68SxoEnXnYCWcR=w123-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6:30 PM"",
+  ""wednesday"": ""10 AM–6:30 PM"",
+  ""thursday"": ""Closed"",
+  ""friday"": ""10 AM–6:30 PM"",
+  ""saturday"": ""10 AM–6:30 PM"",
+  ""sunday"": ""10 AM–6:30 PM"",
+  ""monday"": ""10 AM–6:30 PM""
+}",ChIJv2a4gfaKGGARpAxOunPVW2s,0x60188af681b866bf:0x6b5bd573ba4e0ca4,7736011477962591396,"{
+  ""latitude"": 35.620714899999996,
+  ""longitude"": 139.7292987
+}"
+11,Yamatane Museum of Art,"3 Chome-12-36 Hiroo, Shibuya, Tokyo 150-0012, Japan",https://www.yamatane-museum.jp/,+81 50-5541-8600,,4.3,2299,,https://lh5.googleusercontent.com/p/AF1QipOcVeJdxVFmfmqCwcxCPVTeLLvIqp8noeAg44pU=w80-h94-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJseohrGmLGGARWx9gVUaRc7Y,0x60188b69ac21eab1:0xb673914655601f5b,13147011468490710875,"{
+  ""latitude"": 35.6531502,
+  ""longitude"": 139.7136591
+}"
+12,"Currency Museum, Institute for Monetary and Economic Studies, Bank of Japan","日本銀行分館内, 1 Chome-3-1 Nihonbashihongokucho, Chuo City, Tokyo 103-0021, Japan",http://www.imes.boj.or.jp/cm/index.html,+81 3-3277-3037,,4.2,2087,,https://lh5.googleusercontent.com/p/AF1QipNledL2gnJWDzeLsQIPGaaIbwYlmH0FShIRUMem=w124-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–4:30 PM"",
+  ""wednesday"": ""9:30 AM–4:30 PM"",
+  ""thursday"": ""9:30 AM–4:30 PM"",
+  ""friday"": ""9:30 AM–4:30 PM"",
+  ""saturday"": ""9:30 AM–4:30 PM"",
+  ""sunday"": ""9:30 AM–4:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJYT_QOf6LGGAR2l2t7xZpFMs,0x60188bfe39d03f61:0xcb146916efad5dda,14633436636464897498,"{
+  ""latitude"": 35.685461499999995,
+  ""longitude"": 139.7716826
+}"
+13,ESP MUSEUM,"Japan, 〒150-0041 Tokyo, Shibuya, Jinnan, 1 Chome−20−16, 高山ランドビル3F",http://www.espguitars.co.jp/museum/,+81 3-3496-4850,,4.5,110,,https://lh5.googleusercontent.com/p/AF1QipO2oY2YjFK7BlcU8i4gA3zq2grlWXSk2WSSIkY2=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–7 PM"",
+  ""wednesday"": ""11 AM–7 PM"",
+  ""thursday"": ""11 AM–7 PM"",
+  ""friday"": ""11 AM–7 PM"",
+  ""saturday"": ""11 AM–7 PM"",
+  ""sunday"": ""11 AM–7 PM"",
+  ""monday"": ""11 AM–7 PM""
+}",ChIJAQC0jKiMGGARsJFW3NLdod8,0x60188ca88cb40001:0xdfa1ddd2dc5691b0,16114404839417876912,"{
+  ""latitude"": 35.6621381,
+  ""longitude"": 139.70009199999998
+}"
+14,Mitsubishi Ichigokan Museum,"2 Chome-6-2 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",http://mimt.jp/,+81 3-5777-8600,,4.3,3047,,https://lh5.googleusercontent.com/p/AF1QipMf944KH2bO0GqsVbmn6FHw-1rOJ9N-ci_HzCFy=w138-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Art gallery"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJuyY-ZfqLGGAREYR9A10IXPQ,0x60188bfa653e26bb:0xf45c085d037d8411,17607957838695334929,"{
+  ""latitude"": 35.6785286,
+  ""longitude"": 139.7633347
+}"
+15,National Museum of Territory and Sovereignty,"虎ノ門ダイビルイースト 1F, 3 Chome-8-1 Kasumigaseki, Chiyoda City, Tokyo 100-0013, Japan",https://www.cas.go.jp/jp/ryodo/tenjikan/,+81 3-6257-3715,,4.5,303,,https://lh5.googleusercontent.com/p/AF1QipPwsBpqe6CpdJehreLPKFnbFOQGWYRYRPbda54N=w163-h92-k-no,,National museum,"[
+  ""National museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–6 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJO3Obou2LGGARtNn4vQMn2Rg,0x60188beda29b733b:0x18d92703bdf8d9b4,1790505223882070452,"{
+  ""latitude"": 35.669945399999996,
+  ""longitude"": 139.74772439999998
+}"
+16,Minato City Local History Museum,"4 Chome-6-2 Shirokanedai, Minato City, Tokyo 108-0071, Japan",https://www.minato-rekishi.com/,+81 3-6450-2107,,4.3,598,,https://lh5.googleusercontent.com/p/AF1QipO6oaTxAY1s-2hV7u7sG4ECywZ2qlccNafRAkVC=w92-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–5 PM"",
+  ""wednesday"": ""9 AM–5 PM"",
+  ""thursday"": ""9 AM–5 PM"",
+  ""friday"": ""9 AM–5 PM"",
+  ""saturday"": ""9 AM–8 PM"",
+  ""sunday"": ""9 AM–5 PM"",
+  ""monday"": ""9 AM–5 PM""
+}",ChIJRalaHwSLGGARjQinSKHPQCs,0x60188b041f5aa945:0x2b40cfa148a7088d,3116719233755973773,"{
+  ""latitude"": 35.6391187,
+  ""longitude"": 139.7267259
+}"
+17,Meiji Gakuin Historical Museum,"1 Chome-2-37 Shirokanedai, Minato City, Tokyo 108-8636, Japan",http://shiryokan.meijigakuin.jp/,+81 3-5421-5170,,4.5,4,,https://lh5.googleusercontent.com/p/AF1QipNRanfYPkh03D0NaVMsacF39pM1uYPfdaEExkAO=w121-h92-k-no,,History museum,"[
+  ""History museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–4 PM"",
+  ""wednesday"": ""9 AM–4 PM"",
+  ""thursday"": ""9 AM–4 PM"",
+  ""friday"": ""9 AM–4 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9 AM–4 PM""
+}",ChIJu2ypbgCLGGARMUDeb8O-QAU,0x60188b006ea96cbb:0x540bec36fde4031,378512115303858225,"{
+  ""latitude"": 35.636625099999996,
+  ""longitude"": 139.73120799999998
+}"
+18,SAMURAI NINJA MUSEUM Samurai Museum,"1 Chome-8-13 Nishiasakusa, Taito City, Tokyo 111-0035, Japan",https://mai-ko.com/samurai/,+81 3-5830-3888,,4.9,8441,,https://lh5.googleusercontent.com/p/AF1QipPDbYUz27ggDtIZyJLJbQ5fV7jUf1p0gRRuxgTQ=w122-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–7 PM"",
+  ""wednesday"": ""9 AM–7 PM"",
+  ""thursday"": ""9 AM–7 PM"",
+  ""friday"": ""9 AM–7 PM"",
+  ""saturday"": ""9 AM–7 PM"",
+  ""sunday"": ""9 AM–7 PM"",
+  ""monday"": ""9 AM–7 PM""
+}",ChIJm6kfD4IJAWAR8e9bSVIKXXc,0x600109820f1fa99b:0x775d0a52495beff1,8601042211881873393,"{
+  ""latitude"": 35.7115072,
+  ""longitude"": 139.7917803
+}"
+19,The Shoto Museum of Art,"2 Chome-14-14 Shoto, Shibuya, Tokyo 150-0046, Japan",http://www.shoto-museum.jp/,+81 3-3465-9421,,4.2,1099,,https://lh5.googleusercontent.com/p/AF1QipP01s2KzRbWfL6kXecmuwffmHZVTg3RzhTaZiZl=w122-h92-k-no,TRUE,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–6 PM"",
+  ""wednesday"": ""10 AM–6 PM"",
+  ""thursday"": ""10 AM–6 PM"",
+  ""friday"": ""10 AM–8 PM"",
+  ""saturday"": ""10 AM–6 PM"",
+  ""sunday"": ""10 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJR6AfJquMGGARLtT29Rg6HLY,0x60188cab261fa047:0xb61c3a18f5f6d42e,13122427293131002926,"{
+  ""latitude"": 35.6586207,
+  ""longitude"": 139.6916654
+}"
+20,Fire Museum,"3 Chome-１０-10 Yotsuya, Shinjuku City, Tokyo 160-0004, Japan",https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html,+81 3-3353-9119,,4.4,2068,,https://lh5.googleusercontent.com/p/AF1QipMH1sK7aZ7kc7KvYAr7cPeeZ2jtF7t-ZTgzSEH1=w122-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Technology museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJG99Bp-2MGGARK9sWy49hBq8,0x60188ceda741df1b:0xaf06618fcb16db2b,12611875076713143083,"{
+  ""latitude"": 35.6882599,
+  ""longitude"": 139.7199694
+}"
+1,Yushukan Museum,"靖國神社, 3 Chome-1-1 Kudankita, Chiyoda City, Tokyo 102-8246, Japan",http://www.yasukuni.or.jp/yusyukan/,+81 3-3261-8326,,4.5,2110,,https://lh5.googleusercontent.com/p/AF1QipOXgeW3OBzgoRUVqAXXo5_Qaxsy_LBMdpG-kd2p=w122-h92-k-no,TRUE,War museum,"[
+  ""War museum"",
+  ""Museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–4:30 PM"",
+  ""wednesday"": ""9 AM–4:30 PM"",
+  ""thursday"": ""9 AM–4:30 PM"",
+  ""friday"": ""9 AM–4:30 PM"",
+  ""saturday"": ""9 AM–4:30 PM"",
+  ""sunday"": ""9 AM–4:30 PM"",
+  ""monday"": ""9 AM–4:30 PM""
+}",ChIJMaBzyd6NGGARdrjc4u0e6w4,0x60188ddec973a031:0xeeb1eede2dcb876,1074986943120193654,"{
+  ""latitude"": 35.694994799999996,
+  ""longitude"": 139.74361629999999
+}"
+2,Chuo City Local History Museum,"1 Chome-13-14 Shintomi, Chuo City, Tokyo 104-0041, Japan",https://www.city.chuo.lg.jp/bunka/kyodoshiryokan/_user_tobun_historical_museum.html,+81 3-3551-2167,,4.1,39,,https://lh5.googleusercontent.com/p/AF1QipPiK1RNQDBDdYJHO_zMIK_e8zoQ02SdZq0QaHmL=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–9 PM"",
+  ""wednesday"": ""9 AM–9 PM"",
+  ""thursday"": ""9 AM–9 PM"",
+  ""friday"": ""9 AM–9 PM"",
+  ""saturday"": ""9 AM–9 PM"",
+  ""sunday"": ""9 AM–5 PM"",
+  ""monday"": ""9 AM–9 PM""
+}",ChIJtdYWGdGJGGARKhqghOFX7UA,0x601889d11916d6b5:0x40ed57e184a01a2a,4678492214012156458,"{
+  ""latitude"": 35.6736459,
+  ""longitude"": 139.77527139999998
+}"
+3,Ueshima Museum,"渋谷教育学園 植島タワー, 1 Chome-21-18 Shibuya, Tokyo 150-0002, Japan",https://ueshima-museum.com/,+81 3-6271-5359,,4.6,66,,https://lh5.googleusercontent.com/p/AF1QipMdUIsp-vIGodVcB66xwI4K5LPe8uUKZarfwtsi=w138-h92-k-no,,Modern art museum,"[
+  ""Modern art museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–5 PM"",
+  ""wednesday"": ""11 AM–5 PM"",
+  ""thursday"": ""11 AM–5 PM"",
+  ""friday"": ""11 AM–5 PM"",
+  ""saturday"": ""11 AM–5 PM"",
+  ""sunday"": ""11 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJof1KZwCNGGARFfqGRkwb5tY,0x60188d00674afda1:0xd6e61b4c4686fa15,15485094383174744597,"{
+  ""latitude"": 35.6638908,
+  ""longitude"": 139.70349199999998
+}"
+4,Tokyo National Museum,"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",https://www.tnm.jp/,+81 50-5541-8600,,4.5,25962,,https://lh5.googleusercontent.com/p/AF1QipMrcT0XMplJouURT1a7ECLpU731Z9hOZML5CBX7=w163-h92-k-no,,National museum,"[
+  ""National museum"",
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–8 PM"",
+  ""saturday"": ""9:30 AM–8 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""9:30 AM–5 PM""
+}",ChIJEX3XFIOOGGAR3XdJvRjWLyM,0x60188e8314d77d11:0x232fd618bd4977dd,2535480516976146397,"{
+  ""latitude"": 35.7188351,
+  ""longitude"": 139.7765215
+}"
+5,Shinjuku Historical Museum,"12-16 Yotsuya Saneicho, Shinjuku City, Tokyo 160-0008, Japan",http://www.regasu-shinjuku.or.jp/rekihaku/,+81 3-3359-2131,,4,945,,https://lh5.googleusercontent.com/p/AF1QipPR9SFwD0RBZ0jjNQCeInbIR98TM-S71ap_cZo=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""9:30 AM–5:30 PM"",
+  ""sunday"": ""9:30 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJ-yMPcvOMGGARgN0roRXEJiI,0x60188cf3720f23fb:0x2226c415a12bdd80,2460869843581918592,"{
+  ""latitude"": 35.6899458,
+  ""longitude"": 139.7254161
+}"
+6,Meguro History Museum,"3 Chome-6-10 Nakameguro, Meguro City, Tokyo 153-0061, Japan",https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/bijutsu/rekishi_shiryokan/megurorekisisiryokan.html,+81 3-3715-3571,,3.9,76,,https://lh5.googleusercontent.com/p/AF1QipOOaAtb0wuAvO3tEfwqeG-2ZPDxmC8wL5_aqUTF=w122-h92-k-no,TRUE,Local history museum,"[
+  ""Local history museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""9:30 AM–5 PM"",
+  ""sunday"": ""9:30 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJHz-JtzmLGGARxu4ukyXcrLg,0x60188b39b7893f1f:0xb8acdc25932eeec6,13307253052914200262,"{
+  ""latitude"": 35.6390678,
+  ""longitude"": 139.703104
+}"
+7,Sen-oku Hakukokan Museum Tokyo,"1 Chome-5-1 Roppongi, Minato City, Tokyo 106-0032, Japan",https://www.sen-oku.or.jp/tokyo/,+81 50-5541-8600,,4.2,463,,https://lh5.googleusercontent.com/p/AF1QipMxmt6wdn-jq68u1LCOVt5bhsshZFwlKNJDdJYx=w122-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Art museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–6 PM"",
+  ""wednesday"": ""11 AM–6 PM"",
+  ""thursday"": ""11 AM–6 PM"",
+  ""friday"": ""11 AM–7 PM"",
+  ""saturday"": ""11 AM–6 PM"",
+  ""sunday"": ""11 AM–6 PM"",
+  ""monday"": ""Closed""
+}",ChIJ-7LBjZqLGGARSDr7dMp-k3E,0x60188b9a8dc1b2fb:0x71937eca74fb3a48,8184024355873438280,"{
+  ""latitude"": 35.6650725,
+  ""longitude"": 139.7410222
+}"
+8,Ozaki Shirō Commemorative Museum of Literature,"1 Chome-36-26 Sanno, Ota City, Tokyo 143-0023, Japan",https://www.ota-bunka.or.jp/facilities/ozaki,+81 3-3772-0680,,4,34,,https://lh5.googleusercontent.com/p/AF1QipNC_MvkPTBVFOLwpkx96fGtYGFQXJBabOeZ-NJO=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9 AM,"{
+  ""tuesday"": ""9 AM–4:30 PM"",
+  ""wednesday"": ""9 AM–4:30 PM"",
+  ""thursday"": ""9 AM–4:30 PM"",
+  ""friday"": ""9 AM–4:30 PM"",
+  ""saturday"": ""9 AM–4:30 PM"",
+  ""sunday"": ""9 AM–4:30 PM"",
+  ""monday"": ""9 AM–4:30 PM""
+}",ChIJkYBRKyZgGGARrzxuRrGtr3Q,0x601860262b518091:0x74afadb1466e3caf,8408130006226451631,"{
+  ""latitude"": 35.5923404,
+  ""longitude"": 139.7216592
+}"
+9,Police Museum,"3 Chome-5-1 Kyobashi, Chuo City, Tokyo 104-0031, Japan",https://www.keishicho.metro.tokyo.lg.jp/about_mpd/welcome/welcome/museum_tour.html,+81 3-3581-4321,,4.1,2419,,https://lh5.googleusercontent.com/p/AF1QipMMCaanQaAHr8gdFE-X762nntCHi7RhDa4kYTB_=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum"",
+  ""History museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–4 PM"",
+  ""wednesday"": ""9:30 AM–4 PM"",
+  ""thursday"": ""9:30 AM–4 PM"",
+  ""friday"": ""9:30 AM–4 PM"",
+  ""saturday"": ""9:30 AM–4 PM"",
+  ""sunday"": ""9:30 AM–4 PM"",
+  ""monday"": ""Closed""
+}",ChIJV8wGu-OLGGAR1HVqNbP6r2c,0x60188be3bb06cc57:0x67affab3356a75d4,7471465954433201620,"{
+  ""latitude"": 35.6751199,
+  ""longitude"": 139.76954089999998
+}"
+10,Hatakeyama Memorial Museum of Fine Art,"2 Chome-20-12 Shirokanedai, Minato City, Tokyo 108-0071, Japan",https://www.hatakeyama-museum.org/,+81 3-3447-5787,,4,181,,https://lh5.googleusercontent.com/p/AF1QipPmTkEEBNXRqT3V9uJizIsu608ONnMeCVJAWFKt=w163-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–4:30 PM"",
+  ""wednesday"": ""10 AM–4:30 PM"",
+  ""thursday"": ""10 AM–4:30 PM"",
+  ""friday"": ""10 AM–4:30 PM"",
+  ""saturday"": ""10 AM–4:30 PM"",
+  ""sunday"": ""10 AM–4:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJZQpgdf6KGGARXCH1FGs07t0,0x60188afe75600a65:0xddee346b14f5215c,15991776961356964188,"{
+  ""latitude"": 35.632356,
+  ""longitude"": 139.726872
+}"
+11,CREATIVE MUSEUM TOKYO,"Japan, 〒104-0031 Tokyo, Chuo City, Kyobashi, 1 Chome−7−1, TODA BUILDING 6階",https://creative-museum.tokyo/,,,4.3,126,,https://lh5.googleusercontent.com/p/AF1QipO3wQk5odlJ-T6rI4nJj-h0f9bjREEoPP6PjDni=w114-h92-k-no,,Museum,"[
+  ""Museum"",
+  ""Art gallery""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–8 PM"",
+  ""wednesday"": ""10 AM–8 PM"",
+  ""thursday"": ""10 AM–8 PM"",
+  ""friday"": ""10 AM–8 PM"",
+  ""saturday"": ""10 AM–8 PM"",
+  ""sunday"": ""10 AM–8 PM"",
+  ""monday"": ""10 AM–8 PM""
+}",ChIJocRqFr-LGGARmVhVGLXS0L0,0x60188bbf166ac4a1:0xbdd0d2b518555899,13677663743563356313,"{
+  ""latitude"": 35.6783071,
+  ""longitude"": 139.771662
+}"
+12,The Sumida Hokusai Museum,"2 Chome-7-2 Kamezawa, Sumida City, Tokyo 130-0014, Japan",https://hokusai-museum.jp/,+81 3-6658-8936,,4.1,5530,,https://lh5.googleusercontent.com/p/AF1QipOauyNnEXR0h9b_OK5b4btjA4KdsaVrsz6ae_XR=w123-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5:30 PM"",
+  ""wednesday"": ""9:30 AM–5:30 PM"",
+  ""thursday"": ""9:30 AM–5:30 PM"",
+  ""friday"": ""9:30 AM–5:30 PM"",
+  ""saturday"": ""9:30 AM–5:30 PM"",
+  ""sunday"": ""9:30 AM–5:30 PM"",
+  ""monday"": ""Closed""
+}",ChIJgRjTtzOJGGARqoKBtB8BAno,0x60188933b7d31881:0x7a02011fb48182aa,8791590658264629930,"{
+  ""latitude"": 35.6963313,
+  ""longitude"": 139.800414
+}"
+13,Ocha Culture Creation Museum | Oi Ocha Museum,"1 Chome-5-3 Higashishinbashi, Minato City, Tokyo 105-0021, Japan",https://www.ochamuseum.jp/,+81 3-6263-9281,,4.1,85,,https://lh5.googleusercontent.com/p/AF1QipOfhnFX5wMdCG1ArA45OlvePGBx6T3anUF3cgO8=w163-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJg8UwQwCLGGARXUViYXMwgF0,0x60188b004330c583:0x5d8030736162455d,6737438314659464541,"{
+  ""latitude"": 35.6660129,
+  ""longitude"": 139.76143199999999
+}"
+14,Sato Sakura Museum,"1 Chome-7-13 Kamimeguro, Meguro City, Tokyo 153-0051, Japan",https://www.satosakura.jp/,+81 3-3496-1771,,4.3,452,,https://lh5.googleusercontent.com/p/AF1QipM5gz1crWZVQNzUEaMWIrTzn_49g6MJYBp9PkRh=w138-h92-k-no,,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJh_olNU-LGGARcqkMx6CRZp8,0x60188b4f3525fa87:0x9f6691a0c70ca972,11486028019375319410,"{
+  ""latitude"": 35.64571,
+  ""longitude"": 139.699975
+}"
+15,Statistical Museum,"19-1 Wakamatsucho, Shinjuku City, Tokyo 162-0056, Japan",https://www.stat.go.jp/museum/index.html,+81 3-5273-1187,,4.2,29,,https://lh5.googleusercontent.com/p/AF1QipNZPqE9ZxYwm6u_xS2wH-FArvpjEva60KzksS1W=w163-h92-k-no,,Technology museum,"[
+  ""Technology museum"",
+  ""Science museum""
+]",,Closed ⋅ Opens 9:30 AM,"{
+  ""tuesday"": ""9:30 AM–5 PM"",
+  ""wednesday"": ""9:30 AM–5 PM"",
+  ""thursday"": ""9:30 AM–5 PM"",
+  ""friday"": ""9:30 AM–5 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""9:30 AM–5 PM""
+}",ChIJhdIjoOGMGGARLTIECbD8hx0,0x60188ce1a023d285:0x1d87fcb00904322d,2127947181951562285,"{
+  ""latitude"": 35.7001375,
+  ""longitude"": 139.7153694
+}"
+16,EMAUX MUSEUM,"Japan, 〒150-0011 Tokyo, Shibuya, Higashi, 3 Chome−1−5, MITSUO KAJI ビル 1・2F",http://emaux.jp/,+81 3-3407-3227,,4,2,,https://lh5.googleusercontent.com/p/AF1QipP0mzSiw-OUBSGaUCR83kz5QiCWKBzU2Eijb_Xl=w122-h92-k-no,TRUE,Art museum,"[
+  ""Art museum""
+]",,Closed ⋅ Opens 10 AM Wed,"{
+  ""tuesday"": ""Closed"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""Closed""
+}",ChIJiScWqXWLGGARRB4_DVFksvI,0x60188b75a9162789:0xf2b264510d3f1e44,17488150602310426180,"{
+  ""latitude"": 35.6521513,
+  ""longitude"": 139.7131537
+}"
+17,Kume Museum of Art,"Japan, 〒141-0021 Tokyo, Shinagawa City, Kamiosaki, 2 Chome−25−5, 久米ビル 8階",http://www.kume-museum.com/,+81 3-3491-1510,,3.6,34,,https://lh5.googleusercontent.com/p/AF1QipO_bODhYv2nBJpXCeJG2JwE-CzAnXsglzm31i4U=w122-h92-k-no,TRUE,Art museum,"[
+  ""Art museum"",
+  ""Tourist attraction""
+]",,Closed ⋅ Opens 10 AM,"{
+  ""tuesday"": ""10 AM–5 PM"",
+  ""wednesday"": ""10 AM–5 PM"",
+  ""thursday"": ""10 AM–5 PM"",
+  ""friday"": ""10 AM–5 PM"",
+  ""saturday"": ""10 AM–5 PM"",
+  ""sunday"": ""10 AM–5 PM"",
+  ""monday"": ""Closed""
+}",ChIJ8cHTGRmLGGARwwtDv7x-5aY,0x60188b1919d3c1f1:0xa6e57ebcbf430bc3,12026157729090571203,"{
+  ""latitude"": 35.634623,
+  ""longitude"": 139.71466999999998
+}"
+18,Toshoshibusawa Museum,"Marunouchi Nijubashi Bldg, 6F, 3 Chome-2-2 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",https://www.tokyo-cci.or.jp/shibusawa/activity/index.html,+81 3-3283-7857,,4.3,4,,https://lh5.googleusercontent.com/p/AF1QipP9z6eIqmpIkRYlGUT2RPL9uo6CfT0r52f8U6KQ=w122-h92-k-no,TRUE,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 10:30 AM,"{
+  ""tuesday"": ""10:30 AM–4:30 PM"",
+  ""wednesday"": ""10:30 AM–4:30 PM"",
+  ""thursday"": ""10:30 AM–4:30 PM"",
+  ""friday"": ""10:30 AM–4:30 PM"",
+  ""saturday"": ""Closed"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""10:30 AM–4:30 PM""
+}",ChIJYVwioWaLGGARik3uN8piJV0,0x60188b66a1225c61:0x5d2562ca37ee4d8a,6711879440326872458,"{
+  ""latitude"": 35.6777386,
+  ""longitude"": 139.7617602
+}"
+19,Tako no Hakubutsukan (Kite Museum),"室町ＮＳビル ２Ｆ, 1 Chome-8-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan",http://www.taimeiken.co.jp/museum.html,+81 3-3275-2704,,4.2,23,,https://lh5.googleusercontent.com/p/AF1QipNNJv47ZkrQwLcOo3ozBzDjIZ-lFkb2M0jNqyBk=w163-h92-k-no,,Museum,"[
+  ""Museum""
+]",,Closed ⋅ Opens 11 AM,"{
+  ""tuesday"": ""11 AM–5 PM"",
+  ""wednesday"": ""11 AM–5 PM"",
+  ""thursday"": ""11 AM–5 PM"",
+  ""friday"": ""11 AM–5 PM"",
+  ""saturday"": ""11 AM–5 PM"",
+  ""sunday"": ""Closed"",
+  ""monday"": ""11 AM–5 PM""
+}",ChIJAQAAAFeJGGARvoXccSrm6-4,0x6018895700000001:0xeeebe62a71dc85be,17216107070527145406,"{
+  ""latitude"": 35.6844912,
+  ""longitude"": 139.7751243
+}"
+20,"Nakagawa Museum, Aoyama","5 Chome-6-8 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",http://www.nga.co.jp/csr/,,,2.8,5,,https://lh5.googleusercontent.com/p/AF1QipNaWLsw0wXJZNi415wmwthRVTMUPxqqG8AWFQJc=w122-h92-k-no,TRUE,Art museum,"[
+  ""Art museum""
+]",,,,ChIJDdxVDvqLGGARGzHuEy8tl7E,0x60188bfa0e55dc0d:0xb1972d2f13ee311b,12796746546417643803,"{
+  ""latitude"": 35.663495499999996,
+  ""longitude"": 139.7125788
+}"

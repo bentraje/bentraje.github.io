@@ -1,0 +1,338 @@
+[
+    {
+        "count": 56,
+        "location": "Flea Market at Yoyogi Park",
+        "longitude": 139.698316,
+        "latitude": 35.671839,
+        "name": "Flea Market at Yoyogi Park",
+        "description": "- 🎪 Features **periodic markets**\n- 🎨 Known for **crafts**\n- 👕 Houses **vintage items**\n- 🎭 Popular for **antiques**\n- 🌿 Park **atmosphere**"
+    },
+    {
+        "count": 57,
+        "location": "Koenji Street Market",
+        "longitude": 139.649153770307,
+        "latitude": 35.70593046440971,
+        "name": "Koenji Street Market",
+        "description": "- 👕 Features **second-hand items**\n- 🎭 Known for **vintage**\n- 🎨 Houses **unique finds**\n- 🛍️ Popular for **clothing**\n- 🎪 Market **atmosphere**"
+    },
+    {
+        "count": 61,
+        "location": "Aoyama Farmer's Market",
+        "longitude": 139.70855774975988,
+        "latitude": 35.6622001333877,
+        "name": "Aoyama Farmer's Market",
+        "description": "- 🌾 Features **organic produce**\n- 🎨 Known for **handmade goods**\n- 🍜 Houses **food vendors**\n- 🌿 Popular for **fresh food**\n- 🎪 Weekend **market atmosphere**"
+    },
+    {
+        "count": 63,
+        "location": "Shibuya Chuogai",
+        "longitude": 139.70010710368928,
+        "latitude": 35.65801121128269,
+        "name": "Shibuya Chuogai",
+        "description": ""
+    },
+    {
+        "count": 64,
+        "location": "Tsukishima Monja Street",
+        "longitude": 139.774694,
+        "latitude": 35.671170,
+        "name": "Tsukishima Monja Street",
+        "description": "- 🍳 Features **monjayaki**\n- 🍜 Known for **local cuisine**\n- 🏮 Houses **restaurants**\n- 🎭 Popular for **dining**\n- 🎪 Traditional **atmosphere**"
+    },
+    {
+        "count": 1,
+        "location": "Kappabashi Street",
+        "longitude": 139.790957,
+        "latitude": 35.710313,
+        "name": "Kappabashi Street",
+        "description": "- 🍳 Known as **Kitchen Town**, famous for kitchenware shops\n- 🎨 Features unique **replica food models**\n- 🛍️ Houses numerous **cooking supply stores**\n- 🔪 Known for **Japanese knives** and culinary tools\n- 🏺 Offers traditional **Japanese ceramics**"
+    },
+    {
+        "count": 3,
+        "location": "Shimokitazawa",
+        "longitude": 139.6682297801306,
+        "latitude": 35.66230827223979,
+        "name": "Shimokitazawa",
+        "description": "- 👕 Famous for **vintage clothing shops**\n- ☕ Features unique **indie cafes**\n- 🎭 Known for **live music venues**\n- 🎪 Popular for **street performances**\n- 🎨 Houses **art galleries**"
+    },
+    {
+        "count": 5,
+        "location": "Jiyugaoka Sweet Forest",
+        "longitude": 139.669623,
+        "latitude": 35.607095,
+        "name": "Jiyugaoka Sweet Forest",
+        "description": "- 🍰 Famous for **dessert shops**\n- 🍪 Features unique **sweet treats**\n- 🍦 Known for **ice cream parlors**\n- 🍫 Houses **chocolate boutiques**\n- 🫖 Popular for **tea houses**"
+    },
+    {
+        "count": 6,
+        "location": "Nakano Broadway",
+        "longitude": 139.665832,
+        "latitude": 35.707195,
+        "name": "Nakano Broadway",
+        "description": "- 🎌 Center for **otaku culture**\n- 📚 Features extensive **manga shops**\n- 🎮 Known for **retro gaming**\n- 🎨 Houses **anime collectibles**\n- 🛍️ Popular for **vintage toys**"
+    },
+    {
+        "count": 7,
+        "location": "Togoshi Ginza Shopping Street",
+        "longitude": 139.71712552928025,
+        "latitude": 35.61612107351639,
+        "name": "Togoshi Ginza",
+        "description": "- 🛍️ **Longest shopping street** in Tokyo\n- 🍜 Features numerous **food stalls**\n- ☕ Houses local **cafes**\n- 🏪 Known for **traditional shops**\n- 🍱 Popular for **local delicacies**"
+    },
+    {
+        "count": 8,
+        "location": "Okachimachi Panda Square",
+        "longitude": 139.774153,
+        "latitude": 35.707506,
+        "name": "Okachimachi Panda Square",
+        "description": "- 🐼 Features **panda-themed goods**\n- 👨‍👩‍👧‍👦 **Family-friendly** shopping area\n- 🍭 Known for **local snacks**\n- 🎁 Houses **gift shops**\n- 🎈 Popular for **family activities**"
+    },
+    {
+        "count": 9,
+        "location": "Koenji Junjo Shotengai",
+        "longitude": 139.649879,
+        "latitude": 35.706446,
+        "name": "Koenji Junjo Shotengai",
+        "description": "- 🏺 Features **retro atmosphere**\n- 🎸 Known for **indie music scene**\n- 🍜 Houses local **eateries**\n- 👕 Popular for **vintage shopping**\n- 🎨 Center for **alternative culture**"
+    },
+    {
+        "count": 10,
+        "location": "Ochanomizu Book Town",
+        "longitude": 139.764846,
+        "latitude": 35.696021,
+        "name": "Ochanomizu",
+        "description": "- 📚 Famous for **rare books**\n- 📖 Houses **second-hand bookstores**\n- 🎸 Known for **musical instruments**\n- 🎼 Center for **music culture**\n- 📜 Features **academic books**"
+    },
+    {
+        "count": 11,
+        "location": "Daikanyama Log Road",
+        "longitude": 139.703427,
+        "latitude": 35.650626,
+        "name": "Daikanyama",
+        "description": "- 🎨 **Stylish shopping** area\n- ☕ Features **trendy cafes**\n- 👗 Houses **fashion boutiques**\n- 🌳 Known for **open spaces**\n- 📚 Popular for **modern design**"
+    },
+    {
+        "count": 12,
+        "location": "Omotesando Hills",
+        "longitude": 139.710659,
+        "latitude": 35.665370,
+        "name": "Omotesando Hills",
+        "description": "- 🛍️ Features **luxury brands**\n- 🏛️ Known for **sophisticated architecture**\n- 🎨 Houses **art installations**\n- ☕ Popular for **high-end cafes**\n- 👗 Center for **fashion culture**"
+    },
+    {
+        "count": 13,
+        "location": "Sugamo Jizodori Shopping Street",
+        "longitude": 139.73640422024144,
+        "latitude": 35.735038877800996,
+        "name": "Sugamo Jizodori Shopping Street",
+        "description": ""
+    },
+    {
+        "count": 14,
+        "location": "Takadanobaba Station Market",
+        "longitude": 139.704034,
+        "latitude": 35.712379,
+        "name": "Takadanobaba",
+        "description": "- 🍜 Known for **local food stalls**\n- 👨‍🎓 Popular with **students**\n- 🎮 Features **gaming centers**\n- 🍱 Houses **affordable eateries**\n- 📚 Near **university area**"
+    },
+    {
+        "count": 15,
+        "location": "Meguro Kaisen Ichiba",
+        "longitude": 139.715648,
+        "latitude": 35.632914,
+        "name": "Meguro",
+        "description": "- 🐟 Specializes in **fresh seafood**\n- 🍣 Known for **sushi restaurants**\n- 🦐 Features **seafood products**\n- 🐡 Houses **fish markets**\n- 🍱 Popular for **seafood bowls**"
+    },
+    {
+        "count": 17,
+        "location": "Takeshita Street",
+        "longitude": 139.702820,
+        "latitude": 35.670122,
+        "name": "Harajuku Takeshita Street",
+        "description": "- 👗 Center of **youth fashion**\n- 🍭 Known for **trendy shops**\n- 🎨 Features **pop culture**\n- 🍰 Houses **cute cafes**\n- 🎪 Popular for **street fashion**"
+    },
+    {
+        "count": 18,
+        "location": "Kiyosumi Shirakawa Street Market",
+        "longitude": 139.803089,
+        "latitude": 35.683829,
+        "name": "Kiyosumi Shirakawa",
+        "description": "- ☕ Known for **specialty cafes**\n- 🎨 Features **artisan shops**\n- 🍱 Houses **local food specialties**\n- 📚 Popular for **book cafes**\n- 🎭 Center for **art galleries**"
+    },
+    {
+        "count": 21,
+        "location": "Shinjuku Golden Gai",
+        "longitude": 139.703143,
+        "latitude": 35.694237,
+        "name": "Shinjuku Golden Gai",
+        "description": "- 🍺 Features **tiny bars**\n- 🏮 Known for **unique atmosphere**\n- 🍶 Houses **traditional izakayas**\n- 🎭 Popular with **nightlife enthusiasts**\n- 📸 Perfect for **photography**"
+    },
+    {
+        "count": 22,
+        "location": "Omoide Yokocho",
+        "longitude": 139.700331,
+        "latitude": 35.693275,
+        "name": "Omoide Yokocho",
+        "description": "- 🍢 Known for **yakitori stalls**\n- 🏮 Features **nostalgic atmosphere**\n- 🍺 Houses **small bars**\n- 🎭 Popular for **night dining**\n- 📸 Iconic **photo spot**"
+    },
+    {
+        "count": 23,
+        "location": "Nonbei Yokocho",
+        "longitude": 139.699763,
+        "latitude": 35.658463,
+        "name": "Nonbei Yokocho",
+        "description": "- 🍶 Features **cozy bars**\n- 🏮 Known for **local atmosphere**\n- 🍺 Houses **traditional pubs**\n- 🎭 Popular with **locals**\n- 🌙 Perfect for **evening drinks**"
+    },
+    {
+        "count": 25,
+        "location": "Ebisu Yokocho",
+        "longitude": 139.711221,
+        "latitude": 35.646290,
+        "name": "Ebisu Yokocho",
+        "description": "- 🍺 Features **lively izakayas**\n- 🍜 Known for **street food**\n- 🏮 Houses **food vendors**\n- 🎭 Popular for **night dining**\n- 🌆 Vibrant **evening scene**"
+    },
+    {
+        "count": 29,
+        "location": "Shibuya Center-gai",
+        "longitude": 139.701480,
+        "latitude": 35.659204,
+        "name": "Shibuya Center-gai",
+        "description": "- 🎮 Features **entertainment centers**\n- 🍜 Known for **restaurants**\n- 🎭 Houses **karaoke venues**\n- 🌃 Vibrant **night scene**\n- 🛍️ Popular for **shopping**"
+    },
+    {
+        "count": 32,
+        "location": "Roppongi Hills",
+        "longitude": 139.731026,
+        "latitude": 35.658580,
+        "name": "Roppongi Hills",
+        "description": "- 🏢 Features **luxury shopping**\n- 🎭 Known for **entertainment**\n- 🍸 Houses **upscale bars**\n- 🎨 Popular for **art exhibits**\n- 🌃 Vibrant **nightlife**"
+    },
+    {
+        "count": 33,
+        "location": "Kagurazaka Night Market",
+        "longitude": 139.737615,
+        "latitude": 35.703110,
+        "name": "Kagurazaka",
+        "description": "- 🏮 Features **traditional atmosphere**\n- 🍶 Known for **sake bars**\n- 🍜 Houses **Japanese restaurants**\n- 🎭 Popular for **cultural events**\n- 🌙 Charming **evening ambiance**"
+    },
+    {
+        "count": 34,
+        "location": "Yanaka Street Market",
+        "longitude": 139.770598,
+        "latitude": 35.733686,
+        "name": "Yanaka Ginza",
+        "description": "- 🏺 Features **traditional shops**\n- 🍜 Known for **local eateries**\n- 🎭 Houses **artisan crafts**\n- 🌸 Popular for **old Tokyo charm**\n- 📸 Perfect for **photography**"
+    },
+    {
+        "count": 37,
+        "location": "Kyodai Market",
+        "longitude": 139.7246040355823,
+        "latitude": 35.626815729544816,
+        "name": "Kyodai Market",
+        "description": ""
+    },
+    {
+        "count": 40,
+        "location": "Toyosu Market",
+        "longitude": 139.810911,
+        "latitude": 35.645956,
+        "name": "Toyosu Market",
+        "description": "- 🐟 Features **tuna auctions**\n- 🍣 Known for **fresh seafood**\n- 🦐 Houses **wholesale market**\n- 🍱 Popular for **sushi**\n- 🏢 Modern **market facility**"
+    },
+    {
+        "count": 41,
+        "location": "Gransta Tokyo Tokyo Station",
+        "longitude": 139.767125,
+        "latitude": 35.681167,
+        "name": "Gransta Tokyo",
+        "description": "- 🍜 Features **gourmet food**\n- 🎭 Known for **food halls**\n- 🍱 Houses **specialty stores**\n- 🛍️ Popular for **shopping**\n- 🚉 Connected to **station**"
+    },
+    {
+        "count": 42,
+        "location": "Oedo Antique Market",
+        "longitude": 139.76450746441768,
+        "latitude": 35.677418709417694,
+        "name": "Oedo Antique Market",
+        "description": "- 🏺 Features **antique treasures**\n- 🎭 Known for **vintage items**\n- 🎨 Houses **art pieces**\n- 📚 Popular for **collectors**\n- 🛍️ Traditional **market atmosphere**"
+    },
+    {
+        "count": 43,
+        "location": "Shinjuku Ni-chome Flea Market",
+        "longitude": 139.68981733373573,
+        "latitude": 35.68945794968176,
+        "name": "Shinjuku Chuo Flea Market",
+        "description": "- 👕 Features **second-hand items**\n- 🎭 Known for **vintage clothing**\n- 🛍️ Houses **unique finds**\n- 🎨 Popular for **collectors**\n- 🎪 Vibrant **market atmosphere**"
+    },
+    {
+        "count": 44,
+        "location": "Sangenjaya Market",
+        "longitude": 139.653575,
+        "latitude": 35.646731,
+        "name": "Sangenjaya",
+        "description": "- 🍜 Features **local food**\n- 🏮 Known for **unique shops**\n- 🎭 Houses **entertainment venues**\n- 🌙 Popular for **evening scene**\n- 🍺 Vibrant **atmosphere**"
+    },
+    {
+        "count": 47,
+        "location": "Shin-Nakamise Street",
+        "longitude": 139.7945095580149,
+        "latitude": 35.712428268979764,
+        "name": "Shin-Nakamise Street",
+        "description": ""
+    },
+    {
+        "count": 47,
+        "location": "Nakamise Street",
+        "longitude": 139.796696,
+        "latitude": 35.711601,
+        "name": "Nakamise Street",
+        "description": "- ⛩️ Features **traditional shops**\n- 🎭 Known for **souvenirs**\n- 🍜 Houses **local snacks**\n- 🏮 Popular for **traditional items**\n- 🎪 Historic **shopping street**"
+    },
+    {
+        "count": 48,
+        "location": "Tsukiji Outer Market",
+        "longitude": 139.770154,
+        "latitude": 35.665492,
+        "name": "Tsukiji Market",
+        "description": "- 🐟 Features **fresh seafood**\n- 🍣 Known for **sushi**\n- 🍜 Houses **food stalls**\n- 🏮 Popular for **breakfast**\n- 🎭 Traditional **market culture**"
+    },
+    {
+        "count": 49,
+        "location": "Ameyoko Market",
+        "longitude": 139.776156,
+        "latitude": 35.711203,
+        "name": "Ameyoko Market",
+        "description": "- 🛍️ Features **open-air market**\n- 🍜 Known for **street food**\n- 👕 Houses **clothing shops**\n- 🎭 Popular for **cosmetics**\n- 🎪 Vibrant **atmosphere**"
+    },
+    {
+        "count": 50,
+        "location": "Nippori Fabric Town",
+        "longitude": 139.779792,
+        "latitude": 35.733959,
+        "name": "Nippori Fabric Town",
+        "description": "- 🧵 Features **fabric shops**\n- 🎭 Known for **sewing supplies**\n- 🎨 Houses **craft materials**\n- 👕 Popular for **DIY**\n- 🎪 Creative **atmosphere**"
+    },
+    {
+        "count": 52,
+        "location": "Kichijoji SUNROAD shopping district",
+        "longitude": 139.57982354554133,
+        "latitude": 35.703827963009374,
+        "name": "Kichijoji SUNROAD shopping district",
+        "description": ""
+    },
+    {
+        "count": 24,
+        "location": "Harmonica Yokocho",
+        "longitude": 139.57909031191616,
+        "latitude":  35.70364513723445,
+        "name": "Harmonica Yokocho",
+        "description": ""
+    },
+    {
+        "count": 24,
+        "location": "Daiya Shopping Arcade",
+        "longitude": 139.57929719941205,
+        "latitude": 35.70404043568048, 
+        "name": "Daiya Shopping Arcade",
+        "description": ""
+    }
+]

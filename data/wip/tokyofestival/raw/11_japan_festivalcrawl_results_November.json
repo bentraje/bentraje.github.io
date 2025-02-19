@@ -1,0 +1,164 @@
+[
+    {
+        "festival_name": "Shichi-Go-San",
+        "month": "November",
+        "description": "A traditional rite of passage for children aged three, five, and seven.",
+        "location": "general",
+        "latitude": "general",
+        "longtitude": "general",
+        "error": false
+    },
+    {
+        "festival_name": "Kamakura Matsuri",
+        "month": "November",
+        "description": "A festival featuring large snow lanterns and various events.",
+        "location": "Kamakura",
+        "latitude": 35.3195,
+        "longtitude": 139.5505,
+        "error": false
+    },
+    {
+        "festival_name": "Meiji Jingu Shrine Autumn Grand Festival",
+        "month": "November",
+        "description": "Various events are held preceding the official day of the festival days. The shrine is dedicated to the memory of the Emperor Meiji and his wife Empress Shoken.",
+        "location": "Meiji Jingu Shrine, Yoyogi, Shibuya-ku",
+        "latitude": 35.6762,
+        "longtitude": 139.6993,
+        "error": false
+    },
+    {
+        "festival_name": "Hibiya Park Chrysanthemum Exhibition",
+        "month": "November",
+        "description": "The exhibition is one of the largest and known for its high standard. About 2,000 items are displayed.",
+        "location": "Hibiya Park, Chiyoda-ku",
+        "latitude": 35.6733,
+        "longtitude": 139.7594,
+        "error": false
+    },
+    {
+        "festival_name": "Yushima Tenjin Bunkyo Kiku Matsuri",
+        "month": "November",
+        "description": "Chrysanthemum (kiku) which originally came from China was extensively cultivated in Japan and surpassed far in beauty than the chrysanthemum in China.",
+        "location": "Yushima Tenjin Shrine, Bunkyo-ku",
+        "latitude": 35.7063,
+        "longtitude": 139.7671,
+        "error": false
+    },
+    {
+        "festival_name": "Zenyoji Yogo Kikka Matsuri",
+        "month": "November",
+        "description": "A large miniature landscape created by chrysanthemum flowers is modeling famous sceneries of 'Fall of Nachi' in Wakayama Prefecture.",
+        "location": "Zenyoji Temple, Koiwa, Edogawa-ku",
+        "latitude": 35.7361,
+        "longtitude": 139.873,
+        "error": false
+    },
+    {
+        "festival_name": "Mt. Takao Momiji Matsuri",
+        "month": "November",
+        "description": "Visitors can enjoy its natural beauty and many other attractions all in a day's trip.",
+        "location": "Mount Takao, Hachioji City",
+        "latitude": 35.625,
+        "longtitude": 139.263,
+        "error": false
+    },
+    {
+        "festival_name": "Tochigi Autumn Festival",
+        "month": "November",
+        "description": "The festival is held every other year. The festival in 2024 will be on Nov. 1,2 and 3.",
+        "location": "Tochigi City, Tochigi Prefecture",
+        "latitude": 36.35,
+        "longtitude": 139.3667,
+        "error": false
+    },
+    {
+        "festival_name": "Honjoh Matsuri",
+        "month": "November",
+        "description": "The festival is the event of Kanasana Shrine. Highlight of the festival comes on Nov. 3.",
+        "location": "Honjoh City, Saitama Prefecture",
+        "latitude": 36.0833,
+        "longtitude": 139.3833,
+        "error": false
+    },
+    {
+        "festival_name": "Dream Yosakoi",
+        "month": "November",
+        "description": "The energetic dance - combination of traditional Japanese dance and modern music did not take time to attract people's attentions.",
+        "location": "Odaiba and Marunouchi",
+        "latitude": 35.619,
+        "longtitude": 139.775,
+        "error": false
+    },
+    {
+        "festival_name": "Hakone Daimyo Gyoretsu",
+        "month": "November",
+        "description": "Daimyo Gyoretsu parade is held on November 3 at Hakone Yumoto, a hot spring town of Hakone.",
+        "location": "Hakone Yumoto, Kanagawa Prefecture",
+        "latitude": 35.2333,
+        "longtitude": 139.1,
+        "error": false
+    },
+    {
+        "festival_name": "Shirasagi-no-Mai",
+        "month": "November",
+        "description": "The dance was a ritual of Shintoism and has its roots in the Gion Festival of Yasaka Shrine in Kyoto.",
+        "location": "Sensoji Temple, Asakusa, Taito-ku",
+        "latitude": 35.7115,
+        "longtitude": 139.7967,
+        "error": false
+    },
+    {
+        "festival_name": "Air Self Defense Force Iruma Air Show",
+        "month": "November",
+        "description": "Iruma Air Base is today known widely among Japanese people as a base where JASDF's aviation team Blue Impulse performs acrobatic flights.",
+        "location": "Iruma Air Base, Saitama Prefecture",
+        "latitude": 35.825,
+        "longtitude": 139.392,
+        "error": false
+    },
+    {
+        "festival_name": "Tori no Ichi",
+        "month": "November",
+        "description": "People of downtown Tokyo feel the year is close to an end when tori-no-ichi comes.",
+        "location": "Asakusa and Shinjuku",
+        "latitude": 35.7106,
+        "longtitude": 139.7967,
+        "error": false
+    },
+    {
+        "festival_name": "7-5-3 (Shichi-Go-San)",
+        "month": "November",
+        "description": "Each year, during this period of time, the shrine is crowded by finely dressed children celebrating the ages of seven, five and three.",
+        "location": "Various shrines in Tokyo",
+        "latitude": 35.6762,
+        "longtitude": 139.6993,
+        "error": false
+    },
+    {
+        "festival_name": "Doburoku Matsuri",
+        "month": "November",
+        "description": "The shrine offers new wheat and 'doburoku' (unrefined raw sake) to God and Kagura-mai (sacred dance) is performed before God.",
+        "location": "Koami Shrine, Nihonbashi, Chuo-ku",
+        "latitude": 35.6824,
+        "longtitude": 139.7745,
+        "error": false
+    },
+    {
+        "festival_name": "Issa Matsuri",
+        "month": "November",
+        "description": "Haiku Master Kobayashi Issa wrote haiku poems in a very personal, simple style.",
+        "location": "Entenji Temple, Takenozuka, Adachi-ku",
+        "latitude": 35.775,
+        "longtitude": 139.81,
+        "error": false
+    },
+    {
+        "festival_name": "The 71st National Folk Performing Arts Festival",
+        "month": "November",
+        "description": "The event is sponsored by All Japan Municipality Federation for the Conservation and Promotion of Folk Dance and Music.",
+        "location": "Nihon Seinenkan, Shibuya-ku",
+        "latitude": 35.6733,
+        "longtitude": 139.74,
+        "error": false
+    }
+]
